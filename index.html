@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>PDF Viewer with Copy‐Link</title>
+  <style>
+    body { font-family: sans-serif; margin: 0; padding: 0; display: flex; flex-direction: column; align-items: center; }
+    #controls { margin: 10px; }
+    #controls button { margin: 0 5px; }
+    #pdf-render { border: 1px solid #ccc; }
+  </style>
+  <!-- PDF.js from CDN -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.16.105/pdf.min.js"></script>
+</head>
+<body>
+  <div id="controls">
+    <button id="prev">← Prev</button>
+    <button id="next">Next →</button>
+    <span>Page <span id="page_num">1</span> of <span id="page_count">…</span></span>
+    <button id="copyLink">Copy link to shown page</button>
+  </div>
+  <canvas id="pdf-render"></canvas>
+
+  <script>
+    const url = 'All.pdf';
+
+    // PDF.js global worker setup
+    const pdfjsLib = window['pdfjs-dist/build/pdf'];
+    pdfjsLib.GlobalWorkerOptions.workerSrc = 
+      'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.16.105/pdf.worker.min.js';
+
+    let pdfDoc = null,
+        pageNum = 1,
+        pageCount = 0,
+        scale = 1.5,
+        canvas = document.getElementById('pdf-render'),
+        ctx = canvas.getContext('2d');
+
+    // Render a page
+    function renderPage(num) {
+      pdfDoc.getPage(num).then(page => {
+        const viewport = page.getViewport({ scale });
+        canvas.width = viewport.width;
+        canvas.height = viewport.height;
+
+        page.render({ canvasContext: ctx, viewport }).promise.then(() => {
+          document.getElementById('page_num').textContent = num;
+          // update URL hash without reloading
+          window.history.replaceState(null, null, '#page=' + num);
+        });
+      });
+    }
+
+    // Load document
+    pdfjsLib.getDocument(url).promise.then(pdf => {
+      pdfDoc = pdf;
+      pageCount = pdfDoc.numPages;
+      document.getElementById('page_count').textContent = pageCount;
+
+      // If user navigated here with a #page=… hash, jump there
+      const hash = document.location.hash.match(/page=(\d+)/);
+      if (hash) {
+        const p = parseInt(hash[1], 10);
+        if (p >= 1 && p <= pageCount) pageNum = p;
+      }
+
+      renderPage(pageNum);
+    });
+
+    // Prev/Next
+    document.getElementById('prev').addEventListener('click', () => {
+      if (pageNum > 1) {
+        pageNum--;
+        renderPage(pageNum);
+      }
+    });
+    document.getElementById('next').addEventListener('click', () => {
+      if (pageNum < pageCount) {
+        pageNum++;
+        renderPage(pageNum);
+      }
+    });
+
+    // Copy link
+    document.getElementById('copyLink').addEventListener('click', () => {
+      const base = window.location.origin + window.location.pathname;
+      const link = `${base}#page=${pageNum}`;
+      navigator.clipboard.writeText(link).then(() => {
+        alert(`Copied to clipboard:\n${link}`);
+      }).catch(err => {
+        console.error('Copy failed', err);
+        alert('Failed to copy. Please try manually.');
+      });
+    });
+  </script>
+</body>
+</html>
