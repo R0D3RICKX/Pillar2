@@ -1,97 +1,237 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>PDF Viewer with Copy‐Link</title>
-  <style>
-    body { font-family: sans-serif; margin: 0; padding: 0; display: flex; flex-direction: column; align-items: center; }
-    #controls { margin: 10px; }
-    #controls button { margin: 0 5px; }
-    #pdf-render { border: 1px solid #ccc; }
-  </style>
-  <!-- PDF.js from CDN -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.16.105/pdf.min.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Single File PDF Viewer</title>
+    <style>
+        body, html { margin: 0; padding: 0; height: 100%; overflow: hidden; font-family: sans-serif; background-color: #f8f9fa; }
+        #viewer-controls {
+            padding: 10px;
+            background-color: #e9ecef;
+            border-bottom: 1px solid #dee2e6;
+            text-align: center;
+            height: 40px; /* Fixed height */
+            box-sizing: border-box;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        #viewer-controls button, #viewer-controls span {
+            margin: 0 10px;
+            padding: 5px 10px;
+        }
+        #pdf-render-area {
+            height: calc(100vh - 40px); /* Adjust based on controls height */
+            overflow: auto; /* Enable scrolling for the PDF content */
+            text-align: center; /* Center the canvas */
+            background-color: #fff; /* Background for the viewing area */
+            padding-top: 10px; /* Add some space above the canvas */
+        }
+        #the-canvas {
+            border: 1px solid black;
+            direction: ltr;
+            display: block; /* Prevents extra space below canvas */
+            margin: 0 auto; /* Center canvas horizontally */
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        #loading-message {
+            padding: 20px;
+            font-style: italic;
+            color: #6c757d;
+        }
+        #copy-feedback {
+             margin-left: 15px;
+             color: green;
+             font-size: 0.9em;
+             font-style: italic;
+         }
+         button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+         }
+    </style>
+    <!-- Load PDF.js library from CDN -->
+    <!-- Use a specific version for stability -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.16.105/pdf.min.js"></script>
+    <!-- It's recommended to use the same version for the worker -->
+    <script>
+      // Specify the worker source path (points to the CDN)
+      pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.16.105/pdf.worker.min.js';
+    </script>
 </head>
 <body>
-  <div id="controls">
-    <button id="prev">← Prev</button>
-    <button id="next">Next →</button>
-    <span>Page <span id="page_num">1</span> of <span id="page_count">…</span></span>
-    <button id="copyLink">Copy link to shown page</button>
-  </div>
-  <canvas id="pdf-render"></canvas>
 
-  <script>
-    const url = 'All.pdf';
+    <div id="viewer-controls">
+        <button id="prev-page" disabled>< Prev</button>
+        <span>Page: <span id="page-num">--</span> / <span id="page-count">--</span></span>
+        <button id="next-page" disabled>> Next</button>
+        <button id="copy-link-button" disabled>Copy Link to Shown Page</button>
+        <span id="copy-feedback"></span>
+    </div>
 
-    // PDF.js global worker setup
-    const pdfjsLib = window['pdfjs-dist/build/pdf'];
-    pdfjsLib.GlobalWorkerOptions.workerSrc = 
-      'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.16.105/pdf.worker.min.js';
+    <div id="pdf-render-area">
+        <div id="loading-message">Loading PDF... (Ensure 'All.pdf' is in the same directory)</div>
+        <canvas id="the-canvas"></canvas>
+    </div>
 
-    let pdfDoc = null,
-        pageNum = 1,
-        pageCount = 0,
-        scale = 1.5,
-        canvas = document.getElementById('pdf-render'),
-        ctx = canvas.getContext('2d');
+    <script>
+        const pdfPath = 'All.pdf'; // Your PDF file in the same directory
+        const loadingMessage = document.getElementById('loading-message');
+        const canvas = document.getElementById('the-canvas');
+        const ctx = canvas.getContext('2d');
+        const pageNumSpan = document.getElementById('page-num');
+        const pageCountSpan = document.getElementById('page-count');
+        const prevButton = document.getElementById('prev-page');
+        const nextButton = document.getElementById('next-page');
+        const copyButton = document.getElementById('copy-link-button');
+        const feedbackSpan = document.getElementById('copy-feedback');
 
-    // Render a page
-    function renderPage(num) {
-      pdfDoc.getPage(num).then(page => {
-        const viewport = page.getViewport({ scale });
-        canvas.width = viewport.width;
-        canvas.height = viewport.height;
+        let pdfDoc = null;
+        let currentPageNum = 1;
+        let pageRendering = false;
+        let pageNumPending = null;
+        const scale = 1.5; // Adjust scale as needed
 
-        page.render({ canvasContext: ctx, viewport }).promise.then(() => {
-          document.getElementById('page_num').textContent = num;
-          // update URL hash without reloading
-          window.history.replaceState(null, null, '#page=' + num);
+        /**
+         * Get page info from document, resize canvas accordingly, and render page.
+         * @param num Page number.
+         */
+        function renderPage(num) {
+            pageRendering = true;
+            loadingMessage.style.display = 'none'; // Hide loading message once rendering starts
+            // Using promise to fetch the page
+            pdfDoc.getPage(num).then(function(page) {
+                const viewport = page.getViewport({ scale: scale });
+                canvas.height = viewport.height;
+                canvas.width = viewport.width;
+
+                // Render PDF page into canvas context
+                const renderContext = {
+                    canvasContext: ctx,
+                    viewport: viewport
+                };
+                const renderTask = page.render(renderContext);
+
+                // Wait for rendering to finish
+                renderTask.promise.then(function() {
+                    pageRendering = false;
+                    if (pageNumPending !== null) {
+                        // New page waiting to be rendered
+                        renderPage(pageNumPending);
+                        pageNumPending = null;
+                    }
+                    // Update page counters
+                    pageNumSpan.textContent = num;
+                    updateNavButtons();
+                }).catch(function(error){
+                    console.error("Error rendering page:", error);
+                    feedbackSpan.textContent = 'Error rendering page.';
+                    pageRendering = false; // Ensure state is reset on error
+                    updateNavButtons();
+                });
+            }).catch(function(error) {
+                console.error("Error getting page " + num + ":", error);
+                feedbackSpan.textContent = 'Error loading page data.';
+                pageRendering = false; // Ensure state is reset on error
+                updateNavButtons();
+            });
+        }
+
+        /**
+         * If another page rendering in progress, waits until the rendering is
+         * finished. Otherwise, executes rendering immediately.
+         */
+        function queueRenderPage(num) {
+            if (pageRendering) {
+                pageNumPending = num;
+            } else {
+                renderPage(num);
+            }
+        }
+
+        /** Disable/Enable Prev/Next buttons */
+        function updateNavButtons() {
+            prevButton.disabled = (currentPageNum <= 1) || pageRendering;
+            nextButton.disabled = (currentPageNum >= pdfDoc.numPages) || pageRendering;
+            copyButton.disabled = pageRendering || !pdfDoc; // Also disable copy if no doc or rendering
+        }
+
+        /** Go to previous page */
+        function onPrevPage() {
+            if (currentPageNum <= 1) {
+                return;
+            }
+            currentPageNum--;
+            queueRenderPage(currentPageNum);
+        }
+        prevButton.addEventListener('click', onPrevPage);
+
+        /** Go to next page */
+        function onNextPage() {
+            if (currentPageNum >= pdfDoc.numPages) {
+                return;
+            }
+            currentPageNum++;
+            queueRenderPage(currentPageNum);
+        }
+        nextButton.addEventListener('click', onNextPage);
+
+        /** Copy Link */
+        copyButton.addEventListener('click', () => {
+            feedbackSpan.textContent = ''; // Clear previous feedback
+            if (!pdfDoc || currentPageNum <= 0) {
+                 feedbackSpan.textContent = 'PDF not ready.';
+                 setTimeout(() => { feedbackSpan.textContent = ''; }, 3000);
+                return;
+            }
+
+            try {
+                // Get the absolute URL to the PDF file relative to the current HTML page
+                const pdfAbsoluteUrl = new URL(pdfPath, window.location.href).href;
+                const urlToCopy = `${pdfAbsoluteUrl}#page=${currentPageNum}`;
+
+                navigator.clipboard.writeText(urlToCopy).then(() => {
+                    console.log(`Copied: ${urlToCopy}`);
+                    feedbackSpan.textContent = `Link to page ${currentPageNum} copied!`;
+                    setTimeout(() => { feedbackSpan.textContent = ''; }, 3000);
+                }).catch(err => {
+                    console.error('Failed to copy link: ', err);
+                    feedbackSpan.textContent = 'Copy failed! (May need HTTPS or user interaction)';
+                    setTimeout(() => { feedbackSpan.textContent = ''; }, 3000);
+                    // Alert might be needed in some non-secure contexts
+                    // alert("Could not copy link automatically. Please ensure you are using HTTPS or localhost.");
+                });
+            } catch(e) {
+                 console.error('Error constructing URL or copying:', e);
+                 feedbackSpan.textContent = 'Error during copy.';
+                 setTimeout(() => { feedbackSpan.textContent = ''; }, 3000);
+            }
         });
-      });
-    }
 
-    // Load document
-    pdfjsLib.getDocument(url).promise.then(pdf => {
-      pdfDoc = pdf;
-      pageCount = pdfDoc.numPages;
-      document.getElementById('page_count').textContent = pageCount;
 
-      // If user navigated here with a #page=… hash, jump there
-      const hash = document.location.hash.match(/page=(\d+)/);
-      if (hash) {
-        const p = parseInt(hash[1], 10);
-        if (p >= 1 && p <= pageCount) pageNum = p;
-      }
+        /**
+         * Asynchronously downloads PDF.
+         */
+        pdfjsLib.getDocument(pdfPath).promise.then(function(pdfDoc_) {
+            pdfDoc = pdfDoc_;
+            pageCountSpan.textContent = pdfDoc.numPages;
+            loadingMessage.textContent = "Rendering first page..."; // Update loading message
 
-      renderPage(pageNum);
-    });
+            // Initial render
+            renderPage(currentPageNum);
+        }).catch(function(error) {
+            // PDF loading error
+            console.error("Error loading PDF: ", error);
+            loadingMessage.textContent = "Error loading PDF. Check console and file path.";
+            loadingMessage.style.color = "red";
+            // Disable all controls on error
+            prevButton.disabled = true;
+            nextButton.disabled = true;
+            copyButton.disabled = true;
+        });
 
-    // Prev/Next
-    document.getElementById('prev').addEventListener('click', () => {
-      if (pageNum > 1) {
-        pageNum--;
-        renderPage(pageNum);
-      }
-    });
-    document.getElementById('next').addEventListener('click', () => {
-      if (pageNum < pageCount) {
-        pageNum++;
-        renderPage(pageNum);
-      }
-    });
+    </script>
 
-    // Copy link
-    document.getElementById('copyLink').addEventListener('click', () => {
-      const base = window.location.origin + window.location.pathname;
-      const link = `${base}#page=${pageNum}`;
-      navigator.clipboard.writeText(link).then(() => {
-        alert(`Copied to clipboard:\n${link}`);
-      }).catch(err => {
-        console.error('Copy failed', err);
-        alert('Failed to copy. Please try manually.');
-      });
-    });
-  </script>
 </body>
 </html>
