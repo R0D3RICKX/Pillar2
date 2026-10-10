@@ -1,0 +1,83 @@
+{
+ "chapter": 3,
+ "id": "3.4",
+ "title": "Allocation of Income or Loss between a Main Entity and a Permanent Establishment",
+ "page": 20,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "3.4.1",
+   "page": 20,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The Financial Accounting Net Income or Loss of a Constituent Entity that is a Permanent Establishment in accordance with paragraphs (a), (b) and (c) of the definition in Article 10.1 is the net income or loss reflected in the separate financial accounts of the Permanent Establishment. If the Permanent Establishment does not have separate financial accounts, then the Financial Accounting Net Income or Loss is the amount that would have been reflected in its separate financial accounts if prepared on a standalone basis and in accordance with the accounting standard used in the preparation of the Consolidated Financial Accounts of the Ultimate Parent Entity.",
+     "label": "3.4.1"
+    }
+   ]
+  },
+  {
+   "id": "3.4.2",
+   "page": 20,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The Financial Accounting Net Income or Loss of a Permanent Establishment referred to in Article 3.4.1 shall be adjusted, if necessary:",
+     "label": "3.4.2"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "in the case of a Permanent Establishment as defined by paragraphs (a) and (b) of the definition in Article 10.1, to reflect only the amounts and items of income and expense that are attributable to the Permanent Establishment in accordance with the applicable Tax Treaty or domestic law of the jurisdiction where it is located regardless of the amount of income subject to tax and the amount of deductible expenses in that jurisdiction;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "in the case of a Permanent Establishment as defined by paragraph (c) of the definition in Article 10.1, to reflect only the amounts and items of income and expense that would have been attributed to it in accordance with Article 7 of the OECD Model Tax Convention.",
+     "label": "(b)"
+    }
+   ]
+  },
+  {
+   "id": "3.4.3",
+   "page": 21,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "In case of a Constituent Entity that is a Permanent Establishment in accordance with paragraph (d) of the definition in Article 10.1, its income used for computing Financial Accounting Net Income or Loss is the income being exempted in the jurisdiction where the Main Entity is located and attributable to the operations conducted outside that jurisdiction. The expenses used for computing Financial Accounting Net Income or Loss are those that are not deducted for taxable purposes in the jurisdiction where the Main Entity is located and that are attributable to such operations.",
+     "label": "3.4.3"
+    }
+   ]
+  },
+  {
+   "id": "3.4.4",
+   "page": 21,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The Financial Accounting Net Income or Loss of a Permanent Establishment is not taken into account in determining the GloBE Income or Loss of the Main Entity, except as provided in Article 3.4.5.",
+     "label": "3.4.4"
+    }
+   ]
+  },
+  {
+   "id": "3.4.5",
+   "page": 21,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "A GloBE Loss of a Permanent Establishment shall be treated as an expense of the Main Entity (and not of the Permanent Establishment) for purposes of computing its GloBE Income or Loss to the extent that the loss of the Permanent Establishment is treated as an expense in the computation of the domestic taxable income of such Main Entity and is not set off against an item of income that is subject to tax under the laws of both the jurisdiction of the Main Entity and the jurisdiction of the Permanent Establishment. GloBE Income subsequently arising in the Permanent Establishment shall be treated as GloBE Income of the Main Entity (and not the Permanent Establishment) up to the amount of the GloBE Loss that previously was treated as an expense for purposes of computing the GloBE Income or Loss of the Main Entity.",
+     "label": "3.4.5"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/3.4"
+}

@@ -1,0 +1,47 @@
+{
+ "chapter": 1,
+ "id": "1.4",
+ "title": "Ultimate Parent Entity",
+ "page": 10,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "1.4.1",
+   "page": 10,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Ultimate Parent Entity means either:",
+     "label": "1.4.1"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "an Entity that:",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "owns directly or indirectly a Controlling Interest in any other Entity; and",
+     "label": "i."
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "is not owned, with a Controlling Interest, directly or indirectly by another Entity; or",
+     "label": "ii."
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the Main Entity of a Group that is within Article 1.2.3.",
+     "label": "(b)"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/1.4"
+}

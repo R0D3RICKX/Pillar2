@@ -1,0 +1,35 @@
+{
+ "chapter": 2,
+ "id": "2.3",
+ "title": "IIR Offset Mechanism",
+ "page": 13,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "2.3.1",
+   "page": 13,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "A Parent Entity that owns an Ownership Interest in a Low-Taxed Constituent Entity indirectly through an Intermediate Parent Entity or a Partially-Owned Parent Entity that is not eligible for an exclusion from the IIR under Article 2.1.3 or 2.1.5 shall reduce its allocable share of a Top-up Tax of the Low-Taxed Constituent Entity in accordance with Article 2.3.2.",
+     "label": "2.3.1"
+    }
+   ]
+  },
+  {
+   "id": "2.3.2",
+   "page": 13,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The reduction in Article 2.3.1 will be an amount equal to the portion of the Parent Entity’s Allocable Share of the Top-up Tax that is brought into charge by the Intermediate Parent Entity or the Partially-Owned Parent Entity under a Qualified IIR.",
+     "label": "2.3.2"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/2.3"
+}

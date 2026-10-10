@@ -1,0 +1,35 @@
+{
+ "chapter": 7,
+ "id": "7.5",
+ "title": "Investment Entity Tax Transparency Election",
+ "page": 44,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "7.5.1",
+   "page": 44,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "A Filing Constituent Entity may elect to treat a Constituent Entity that is an Investment Entity or an Insurance Investment Entity as a Tax Transparent Entity if the Constituent Entity-owner is subject to tax in its location under a mark-to-market or similar regime based on the annual changes in the fair value of its Ownership Interest in the Entity and the tax rate applicable to the Constituent Entity-owner with respect to such income equals or exceeds the Minimum Rate. For this purpose, a Constituent Entity that indirectly owns an Ownership Interest in an Investment Entity or Insurance Investment Entity through a direct Ownership Interest in another Investment Entity or Insurance Investment Entity is considered to be subject to tax under a mark-to-market or similar regime with respect to the indirect Ownership Interest in the first-mentioned Entity if it is subject to a mark-to-market or similar regime with respect to the direct Ownership Interest in the second-mentioned Entity.",
+     "label": "7.5.1"
+    }
+   ]
+  },
+  {
+   "id": "7.5.2",
+   "page": 44,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The election under this Article is a Five-Year Election. If the election is revoked, gain or loss from the disposition of an asset or liability held by the Investment Entity shall be determined based on the fair value of the assets or liabilities on the first day of the revocation year.",
+     "label": "7.5.2"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/7.5"
+}

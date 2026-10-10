@@ -1,134 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PDF Viewer (PDF.js)</title>
-    <style>
-        body, html { margin: 0; padding: 0; height: 100%; overflow: hidden; font-family: sans-serif;}
-        #viewer-container {
-            width: 100%;
-            /* Calculate height dynamically or set fixed */
-            height: calc(100vh - 50px);
-            position: relative; /* Needed for absolute positioning of iframe */
-        }
-        #pdf-viewer-frame {
-            width: 100%;
-            height: 100%;
-            border: none;
-        }
-        #custom-controls {
-            padding: 10px;
-            text-align: center;
-            height: 40px; /* Fixed height */
-            background-color: #f0f0f0;
-            border-bottom: 1px solid #ccc;
-            box-sizing: border-box; /* Include padding in height */
-        }
-         #copy-feedback {
-             margin-left: 15px;
-             color: green;
-             font-size: 0.9em;
-         }
-    </style>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GloBE Model Rules (Pillar Two)</title>
+<meta name="description" content="Navigable HTML version of the OECD GloBE Model Rules (Pillar Two), with a stable URL for every article, paragraph and defined term.">
+<link rel="canonical" href="/">
+<link rel="stylesheet" href="/assets/style.css">
+<link rel="alternate" type="application/json" href="/model-rules.json" title="Model Rules as JSON">
 </head>
 <body>
-
-    <div id="custom-controls">
-        <button id="copy-link-button">Copy Link to Shown Page</button>
-        <span id="copy-feedback"></span>
-    </div>
-
-    <div id="viewer-container">
-        <!-- Embed the PDF.js viewer UI -->
-        <iframe id="pdf-viewer-frame" src="pdfjs/web/viewer.html?file=../All.pdf" title="PDF Viewer"></iframe>
-        <!-- Note: ?file=../All.pdf assumes index.html is one level above All.pdf relative to viewer.html -->
-        <!-- If index.html and All.pdf are in the SAME directory as the pdfjs folder, use: -->
-        <!-- src="pdfjs/web/viewer.html?file=../../All.pdf" -->
-        <!-- *** Correction: If index.html and All.pdf are in the SAME directory, and pdfjs is a SUBFOLDER: *** -->
-        <!-- src="pdfjs/web/viewer.html?file=../../All.pdf" is likely WRONG. -->
-        <!-- It should be relative to viewer.html. If index.html and All.pdf are siblings, and pdfjs is a sibling folder: -->
-        <!-- src="pdfjs/web/viewer.html?file=../All.pdf" -->
-        <!-- *** IF index.html and All.pdf ARE IN THE ROOT, and pdfjs is a subfolder in the root: *** -->
-        <!-- src="pdfjs/web/viewer.html?file=../../All.pdf" (viewer.html needs to go up twice to reach the root where All.pdf is) -->
-        <!-- *** LET'S ASSUME THE STRUCTURE GIVEN ABOVE (index.html and All.pdf in root, pdfjs subfolder): *** -->
-        <!-- CORRECTED src="pdfjs/web/viewer.html?file=../../All.pdf" -->
-
-    </div>
-
-    <script>
-        const iframe = document.getElementById('pdf-viewer-frame');
-        const copyButton = document.getElementById('copy-link-button');
-        const feedbackSpan = document.getElementById('copy-feedback');
-        const pdfFilename = 'All.pdf'; // The actual filename
-
-        // IMPORTANT: Accessing contentWindow might fail due to cross-origin restrictions
-        // if not served properly (e.g., directly from file:// in some browsers).
-        // Best practice is to run this from a local web server.
-
-        copyButton.addEventListener('click', () => {
-            feedbackSpan.textContent = ''; // Clear previous feedback
-            try {
-                // Access the PDFViewerApplication object within the iframe
-                const viewerApp = iframe.contentWindow.PDFViewerApplication;
-
-                if (viewerApp && typeof viewerApp.page !== 'undefined') {
-                    const currentPage = viewerApp.page; // Get the current page number
-
-                    // Construct the URL with the page fragment
-                    // Get the base URL of the *current HTML page*
-                    const baseHtmlUrl = window.location.href.split('#')[0].split('?')[0];
-                    // Or, if you want a link directly to the PDF:
-                    // Find the path relative to the current HTML page
-                    const pdfPath = new URL(pdfFilename, window.location.href).href;
-
-                    // Choose one URL format:
-                    // 1. Link to the PDF directly with page number
-                     const urlToCopy = `${pdfPath}#page=${currentPage}`;
-
-                    // 2. Link to *this viewer page* with the file and page (might not always work as expected on reload)
-                    // const urlToCopy = `${baseHtmlUrl}?file=${pdfFilename}#page=${currentPage}`; // Less standard for PDF linking
-
-                    // Use the Clipboard API
-                    navigator.clipboard.writeText(urlToCopy).then(() => {
-                        console.log(`Copied: ${urlToCopy}`);
-                        feedbackSpan.textContent = `Link to page ${currentPage} copied!`;
-                        setTimeout(() => { feedbackSpan.textContent = ''; }, 3000);
-                    }).catch(err => {
-                        console.error('Failed to copy: ', err);
-                        feedbackSpan.textContent = 'Copy failed!';
-                         setTimeout(() => { feedbackSpan.textContent = ''; }, 3000);
-                    });
-
-                } else {
-                    console.warn('PDFViewerApplication or page number not accessible. Is the iframe loaded and on the same origin?');
-                    feedbackSpan.textContent = 'Could not get page number.';
-                     setTimeout(() => { feedbackSpan.textContent = ''; }, 3000);
-                }
-            } catch (error) {
-                console.error('Error accessing iframe content:', error);
-                feedbackSpan.textContent = 'Error accessing PDF viewer.';
-                 setTimeout(() => { feedbackSpan.textContent = ''; }, 3000);
-                // This often happens due to same-origin policy violations (e.g., running from file://)
-                alert("Could not access PDF viewer state. Please ensure this page is served from a web server (http:// or https://) and not directly from the file system (file://).");
-            }
-        });
-
-        // Optional: Add a check to see if the iframe loaded successfully
-        iframe.onload = () => {
-            console.log("PDF.js viewer iframe loaded.");
-            // You might want to enable the button only after load
-            copyButton.disabled = false;
-        };
-        iframe.onerror = () => {
-             console.error("PDF.js viewer iframe failed to load.");
-             feedbackSpan.textContent = 'Error loading PDF viewer frame.';
-             copyButton.disabled = true;
-        };
-        // Initially disable button until iframe confirms load (optional but good practice)
-        copyButton.disabled = true;
-
-    </script>
-
+<header class="top">
+  <a class="brand" href="/">GloBE Model Rules (Pillar Two)</a>
+  <nav class="toplinks"><a href="/#contents">Contents</a><a href="/definitions">Definitions</a><a href="/search">Search</a><a href="/viewer">PDF</a></nav>
+</header>
+<div class="wrap">
+<nav class="toc" aria-label="Table of contents"><ol class="toc-ch"><li><details><summary><a href="/chapters/1">1. Scope</a></summary><ol><li><a href="/articles/1.1"><span class="n">1.1</span> Scope of GloBE Rules</a></li><li><a href="/articles/1.2"><span class="n">1.2</span> MNE Group and Group</a></li><li><a href="/articles/1.3"><span class="n">1.3</span> Constituent Entity</a></li><li><a href="/articles/1.4"><span class="n">1.4</span> Ultimate Parent Entity</a></li><li><a href="/articles/1.5"><span class="n">1.5</span> Excluded Entity</a></li></ol></details></li><li><details><summary><a href="/chapters/2">2. Charging Provisions</a></summary><ol><li><a href="/articles/2.1"><span class="n">2.1</span> Application of the IIR</a></li><li><a href="/articles/2.2"><span class="n">2.2</span> Allocation of Top-Up Tax under the IIR</a></li><li><a href="/articles/2.3"><span class="n">2.3</span> IIR Offset Mechanism</a></li><li><a href="/articles/2.4"><span class="n">2.4</span> Application of the UTPR</a></li><li><a href="/articles/2.5"><span class="n">2.5</span> UTPR Top-up Tax Amount</a></li><li><a href="/articles/2.6"><span class="n">2.6</span> Allocation of Top-Up Tax for the UTPR</a></li></ol></details></li><li><details><summary><a href="/chapters/3">3. Computation of GloBE Income or Loss</a></summary><ol><li><a href="/articles/3.1"><span class="n">3.1</span> Financial Accounts</a></li><li><a href="/articles/3.2"><span class="n">3.2</span> Adjustments to determine GloBE Income or Loss</a></li><li><a href="/articles/3.3"><span class="n">3.3</span> International Shipping Income exclusion</a></li><li><a href="/articles/3.4"><span class="n">3.4</span> Allocation of Income or Loss between a Main Entity and a Permanent Establishment</a></li><li><a href="/articles/3.5"><span class="n">3.5</span> Allocation of Income or Loss from a Flow-through Entity</a></li></ol></details></li><li><details><summary><a href="/chapters/4">4. Computation of Adjusted Covered Taxes</a></summary><ol><li><a href="/articles/4.1"><span class="n">4.1</span> Adjusted Covered Taxes</a></li><li><a href="/articles/4.2"><span class="n">4.2</span> Definition of Covered Taxes</a></li><li><a href="/articles/4.3"><span class="n">4.3</span> Allocation of Covered Taxes from one Constituent Entity to another Constituent Entity</a></li><li><a href="/articles/4.4"><span class="n">4.4</span> Mechanism to address temporary differences</a></li><li><a href="/articles/4.5"><span class="n">4.5</span> The GloBE Loss Election</a></li><li><a href="/articles/4.6"><span class="n">4.6</span> Post-filing Adjustments and Tax Rate Changes</a></li></ol></details></li><li><details><summary><a href="/chapters/5">5. Computation of Effective Tax Rate and Top-up Tax</a></summary><ol><li><a href="/articles/5.1"><span class="n">5.1</span> Determination of Effective Tax Rate</a></li><li><a href="/articles/5.2"><span class="n">5.2</span> Top-up Tax</a></li><li><a href="/articles/5.3"><span class="n">5.3</span> Substance-based Income Exclusion</a></li><li><a href="/articles/5.4"><span class="n">5.4</span> Additional Current Top-up Tax</a></li><li><a href="/articles/5.5"><span class="n">5.5</span> De minimis exclusion</a></li><li><a href="/articles/5.6"><span class="n">5.6</span> Minority-Owned Constituent Entities</a></li></ol></details></li><li><details><summary><a href="/chapters/6">6. Corporate Restructurings and Holding Structures</a></summary><ol><li><a href="/articles/6.1"><span class="n">6.1</span> Application of Consolidated Revenue Threshold to Group Mergers and Demergers</a></li><li><a href="/articles/6.2"><span class="n">6.2</span> Constituent Entities joining and leaving an MNE Group</a></li><li><a href="/articles/6.3"><span class="n">6.3</span> Transfer of Assets and Liabilities</a></li><li><a href="/articles/6.4"><span class="n">6.4</span> Joint Ventures</a></li><li><a href="/articles/6.5"><span class="n">6.5</span> Multi-Parented MNE Groups</a></li></ol></details></li><li><details><summary><a href="/chapters/7">7. Tax Neutrality and Distribution Regimes</a></summary><ol><li><a href="/articles/7.1"><span class="n">7.1</span> Ultimate Parent Entity that is a Flow-through Entity</a></li><li><a href="/articles/7.2"><span class="n">7.2</span> Ultimate Parent Entity subject to Deductible Dividend Regime</a></li><li><a href="/articles/7.3"><span class="n">7.3</span> Eligible Distribution Tax Systems</a></li><li><a href="/articles/7.4"><span class="n">7.4</span> Effective Tax Rate Computation for Investment Entities</a></li><li><a href="/articles/7.5"><span class="n">7.5</span> Investment Entity Tax Transparency Election</a></li><li><a href="/articles/7.6"><span class="n">7.6</span> Taxable Distribution Method Election</a></li></ol></details></li><li><details><summary><a href="/chapters/8">8. Administration</a></summary><ol><li><a href="/articles/8.1"><span class="n">8.1</span> Filing obligation</a></li><li><a href="/articles/8.2"><span class="n">8.2</span> Safe Harbours</a></li><li><a href="/articles/8.3"><span class="n">8.3</span> Administrative Guidance</a></li></ol></details></li><li><details><summary><a href="/chapters/9">9. Transition Rules</a></summary><ol><li><a href="/articles/9.1"><span class="n">9.1</span> Tax Attributes Upon Transition</a></li><li><a href="/articles/9.2"><span class="n">9.2</span> Transitional relief for the Substance-based Income Exclusion</a></li><li><a href="/articles/9.3"><span class="n">9.3</span> Exclusion from the UTPR of MNE Groups in the initial phase of their international activity</a></li><li><a href="/articles/9.4"><span class="n">9.4</span> Transitional relief for filing obligations</a></li></ol></details></li><li><details><summary><a href="/chapters/10">10. Definitions</a></summary><ol><li><a href="/articles/10.1"><span class="n">10.1</span> Defined Terms</a></li><li><a href="/articles/10.2"><span class="n">10.2</span> Definitions of Flow-through Entity, Tax Transparent Entity, Reverse Hybrid Entity, and Hybrid Entity</a></li><li><a href="/articles/10.3"><span class="n">10.3</span> Location of an Entity and a Permanent Establishment</a></li></ol></details></li></ol></nav>
+<main id="main">
+<h1>GloBE Model Rules (Pillar Two)</h1>
+<p class="lede">The OECD/G20 Inclusive Framework Global Anti-Base Erosion Model Rules (December 2021), one page per article, with a stable link for every paragraph and defined term.</p>
+<form class="go" action="/search" method="get" role="search">
+  <label for="q">Go to an article, paragraph or defined term</label>
+  <div class="row"><input id="q" name="q" placeholder="e.g. 3.2.6, 5.3 or Qualified IIR" autocomplete="off"><button>Go</button></div>
+</form>
+<section class="howto">
+<h2>Linking scheme</h2>
+<table class="urls"><tbody>
+<tr><td>Article</td><td><code>/articles/3.2</code></td></tr>
+<tr><td>Paragraph</td><td><code>/articles/3.2#3.2.6</code> or shortcut <code>/3.2.6</code></td></tr>
+<tr><td>Chapter</td><td><code>/chapters/5</code></td></tr>
+<tr><td>Defined term</td><td><code>/definitions#qualified-iir</code></td></tr>
+<tr><td>Machine-readable</td><td><code>/model-rules.json</code>, <code>/articles/3.2.json</code>, <code>/llms.txt</code></td></tr>
+</tbody></table>
+</section>
+<h2 id="contents">Contents</h2>
+<div class="contents"><section class="chap"><h3><a href="/chapters/1">Chapter 1. Scope</a></h3><ol class="artlist"><li><a href="/articles/1.1"><span class="n">1.1</span> Scope of GloBE Rules</a></li><li><a href="/articles/1.2"><span class="n">1.2</span> MNE Group and Group</a></li><li><a href="/articles/1.3"><span class="n">1.3</span> Constituent Entity</a></li><li><a href="/articles/1.4"><span class="n">1.4</span> Ultimate Parent Entity</a></li><li><a href="/articles/1.5"><span class="n">1.5</span> Excluded Entity</a></li></ol></section><section class="chap"><h3><a href="/chapters/2">Chapter 2. Charging Provisions</a></h3><ol class="artlist"><li><a href="/articles/2.1"><span class="n">2.1</span> Application of the IIR</a></li><li><a href="/articles/2.2"><span class="n">2.2</span> Allocation of Top-Up Tax under the IIR</a></li><li><a href="/articles/2.3"><span class="n">2.3</span> IIR Offset Mechanism</a></li><li><a href="/articles/2.4"><span class="n">2.4</span> Application of the UTPR</a></li><li><a href="/articles/2.5"><span class="n">2.5</span> UTPR Top-up Tax Amount</a></li><li><a href="/articles/2.6"><span class="n">2.6</span> Allocation of Top-Up Tax for the UTPR</a></li></ol></section><section class="chap"><h3><a href="/chapters/3">Chapter 3. Computation of GloBE Income or Loss</a></h3><ol class="artlist"><li><a href="/articles/3.1"><span class="n">3.1</span> Financial Accounts</a></li><li><a href="/articles/3.2"><span class="n">3.2</span> Adjustments to determine GloBE Income or Loss</a></li><li><a href="/articles/3.3"><span class="n">3.3</span> International Shipping Income exclusion</a></li><li><a href="/articles/3.4"><span class="n">3.4</span> Allocation of Income or Loss between a Main Entity and a Permanent Establishment</a></li><li><a href="/articles/3.5"><span class="n">3.5</span> Allocation of Income or Loss from a Flow-through Entity</a></li></ol></section><section class="chap"><h3><a href="/chapters/4">Chapter 4. Computation of Adjusted Covered Taxes</a></h3><ol class="artlist"><li><a href="/articles/4.1"><span class="n">4.1</span> Adjusted Covered Taxes</a></li><li><a href="/articles/4.2"><span class="n">4.2</span> Definition of Covered Taxes</a></li><li><a href="/articles/4.3"><span class="n">4.3</span> Allocation of Covered Taxes from one Constituent Entity to another Constituent Entity</a></li><li><a href="/articles/4.4"><span class="n">4.4</span> Mechanism to address temporary differences</a></li><li><a href="/articles/4.5"><span class="n">4.5</span> The GloBE Loss Election</a></li><li><a href="/articles/4.6"><span class="n">4.6</span> Post-filing Adjustments and Tax Rate Changes</a></li></ol></section><section class="chap"><h3><a href="/chapters/5">Chapter 5. Computation of Effective Tax Rate and Top-up Tax</a></h3><ol class="artlist"><li><a href="/articles/5.1"><span class="n">5.1</span> Determination of Effective Tax Rate</a></li><li><a href="/articles/5.2"><span class="n">5.2</span> Top-up Tax</a></li><li><a href="/articles/5.3"><span class="n">5.3</span> Substance-based Income Exclusion</a></li><li><a href="/articles/5.4"><span class="n">5.4</span> Additional Current Top-up Tax</a></li><li><a href="/articles/5.5"><span class="n">5.5</span> De minimis exclusion</a></li><li><a href="/articles/5.6"><span class="n">5.6</span> Minority-Owned Constituent Entities</a></li></ol></section><section class="chap"><h3><a href="/chapters/6">Chapter 6. Corporate Restructurings and Holding Structures</a></h3><ol class="artlist"><li><a href="/articles/6.1"><span class="n">6.1</span> Application of Consolidated Revenue Threshold to Group Mergers and Demergers</a></li><li><a href="/articles/6.2"><span class="n">6.2</span> Constituent Entities joining and leaving an MNE Group</a></li><li><a href="/articles/6.3"><span class="n">6.3</span> Transfer of Assets and Liabilities</a></li><li><a href="/articles/6.4"><span class="n">6.4</span> Joint Ventures</a></li><li><a href="/articles/6.5"><span class="n">6.5</span> Multi-Parented MNE Groups</a></li></ol></section><section class="chap"><h3><a href="/chapters/7">Chapter 7. Tax Neutrality and Distribution Regimes</a></h3><ol class="artlist"><li><a href="/articles/7.1"><span class="n">7.1</span> Ultimate Parent Entity that is a Flow-through Entity</a></li><li><a href="/articles/7.2"><span class="n">7.2</span> Ultimate Parent Entity subject to Deductible Dividend Regime</a></li><li><a href="/articles/7.3"><span class="n">7.3</span> Eligible Distribution Tax Systems</a></li><li><a href="/articles/7.4"><span class="n">7.4</span> Effective Tax Rate Computation for Investment Entities</a></li><li><a href="/articles/7.5"><span class="n">7.5</span> Investment Entity Tax Transparency Election</a></li><li><a href="/articles/7.6"><span class="n">7.6</span> Taxable Distribution Method Election</a></li></ol></section><section class="chap"><h3><a href="/chapters/8">Chapter 8. Administration</a></h3><ol class="artlist"><li><a href="/articles/8.1"><span class="n">8.1</span> Filing obligation</a></li><li><a href="/articles/8.2"><span class="n">8.2</span> Safe Harbours</a></li><li><a href="/articles/8.3"><span class="n">8.3</span> Administrative Guidance</a></li></ol></section><section class="chap"><h3><a href="/chapters/9">Chapter 9. Transition Rules</a></h3><ol class="artlist"><li><a href="/articles/9.1"><span class="n">9.1</span> Tax Attributes Upon Transition</a></li><li><a href="/articles/9.2"><span class="n">9.2</span> Transitional relief for the Substance-based Income Exclusion</a></li><li><a href="/articles/9.3"><span class="n">9.3</span> Exclusion from the UTPR of MNE Groups in the initial phase of their international activity</a></li><li><a href="/articles/9.4"><span class="n">9.4</span> Transitional relief for filing obligations</a></li></ol></section><section class="chap"><h3><a href="/chapters/10">Chapter 10. Definitions</a></h3><ol class="artlist"><li><a href="/articles/10.1"><span class="n">10.1</span> Defined Terms</a></li><li><a href="/articles/10.2"><span class="n">10.2</span> Definitions of Flow-through Entity, Tax Transparent Entity, Reverse Hybrid Entity, and Hybrid Entity</a></li><li><a href="/articles/10.3"><span class="n">10.3</span> Location of an Entity and a Permanent Establishment</a></li></ol></section></div>
+</main>
+</div>
+<footer class="foot">Text: OECD (2021), <cite>Tax Challenges Arising from the Digitalisation of the Economy – Global Anti-Base Erosion Model Rules (Pillar Two)</cite>, OECD Publishing, Paris. © OECD 2021. Unofficial HTML rendering for navigation; the PDF is authoritative.</footer>
+<script src="/assets/site.js" defer></script>
 </body>
 </html>

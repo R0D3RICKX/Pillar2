@@ -1,0 +1,209 @@
+{
+ "chapter": 4,
+ "id": "4.4",
+ "title": "Mechanism to address temporary differences",
+ "page": 26,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "4.4.1",
+   "page": 26,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The Total Deferred Tax Adjustment Amount for a Constituent Entity for the Fiscal Year is equal to the deferred tax expense accrued in its financial accounts if the applicable tax rate is below the Minimum Rate or, in any other case, such deferred tax expense recast at the Minimum Rate, with respect to Covered Taxes for the Fiscal Year subject to the adjustments set forth in Articles 4.4.2 and 4.4.3 and the following exclusions:",
+     "label": "4.4.1"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "The amount of deferred tax expense with respect to items excluded from the computation of GloBE Income or Loss under Chapter 3;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "The amount of deferred tax expense with respect to Disallowed Accruals and Unclaimed Accruals;",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "The impact of a valuation adjustment or accounting recognition adjustment with respect to a deferred tax asset;",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "The amount of deferred tax expense arising from a re-measurement with respect to a change in the applicable domestic tax rate; and",
+     "label": "(d)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "The amount of deferred tax expense with respect to the generation and use of tax credits.",
+     "label": "(e)"
+    }
+   ]
+  },
+  {
+   "id": "4.4.2",
+   "page": 26,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The Total Deferred Tax Adjustment Amount is adjusted as follows:",
+     "label": "4.4.2"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Increased by the amount of any Disallowed Accrual or Unclaimed Accrual paid during the Fiscal Year;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Increased by the amount of any Recaptured Deferred Tax Liability determined in a preceding Fiscal Year which has been paid during the Fiscal Year; and",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Reduced by the amount that would be a reduction to the Total Deferred Tax Adjustment Amount due to recognition of a loss deferred tax asset for a current year tax loss, where a loss deferred tax asset has not been recognised because the recognition criteria are not met.",
+     "label": "(c)"
+    }
+   ]
+  },
+  {
+   "id": "4.4.3",
+   "page": 26,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "A deferred tax asset that has been recorded at a rate lower than the Minimum Rate may be recast at the Minimum Rate in the Fiscal Year such deferred tax asset is recorded, if the taxpayer can demonstrate that the deferred tax asset is attributable to a GloBE Loss. The Total Deferred Tax Adjustment Amount is reduced by the amount that a deferred tax asset is increased due to being recast under this Article.",
+     "label": "4.4.3"
+    }
+   ]
+  },
+  {
+   "id": "4.4.4",
+   "page": 26,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "To the extent a deferred tax liability, that is not a Recapture Exception Accrual, is taken into account under this Article and such amount is not paid within the five subsequent Fiscal Years, the amount must be recaptured pursuant to this article. The Amount of the Recaptured Deferred Tax Liability determined for the current Fiscal Year shall be treated as a reduction to Covered Taxes in the fifth preceding Fiscal Year and the Effective Tax Rate and Top-up Tax of such Fiscal Year shall be recalculated under the rules of Article 5.4.1. The Recaptured Deferred Tax Liability for the current Fiscal Year is the amount of the increase in a category of deferred tax liability that was included in the Total Deferred Tax Adjustment Amount in the fifth preceding Fiscal Year that has not reversed by the end of the last day of the current Fiscal Year, unless such amount relates to a Recapture Exception Accrual as set forth in Article 4.4.5.",
+     "label": "4.4.4"
+    }
+   ]
+  },
+  {
+   "id": "4.4.5",
+   "page": 26,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Recapture Exception Accrual means the tax expense accrued attributable to changes in associated deferred tax liabilities, in respect of:",
+     "label": "4.4.5"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Cost recovery allowances on tangible assets",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "The cost of a licence or similar arrangement from the government for the use of immovable property or exploitation of natural resources that entails significant investment in tangible assets;",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Research and development expenses;",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "De-commissioning and remediation expenses;",
+     "label": "(d)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Fair value accounting on unrealised net gains;",
+     "label": "(e)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Foreign currency exchange net gains;",
+     "label": "(f)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Insurance reserves and insurance policy deferred acquisition costs;",
+     "label": "(g)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Gains from the sale of tangible property located in the same jurisdiction as the Constituent Entity that are reinvested in tangible property in the same jurisdiction; and",
+     "label": "(h)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Additional amounts accrued as a result of accounting principle changes with respect to categories (a) through (h).",
+     "label": "(i)"
+    }
+   ]
+  },
+  {
+   "id": "4.4.6",
+   "page": 27,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Disallowed Accrual means:",
+     "label": "4.4.6"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Any movement in deferred tax expense accrued in the financial accounts of a Constituent Entity which relates to an uncertain tax position; and",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Any movement in deferred tax expense accrued in the financial accounts of a Constituent Entity which relates to distributions from a Constituent Entity.",
+     "label": "(b)"
+    }
+   ]
+  },
+  {
+   "id": "4.4.7",
+   "page": 27,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Unclaimed Accrual means any increase in a deferred tax liability recorded in the financial accounts of a Constituent Entity for a Fiscal Year that is not expected to be paid within the time period set forth in Article 4.4.4 and for which the Filing Constituent Entity makes an Annual Election not to include in Total Deferred Tax Adjustment Amount for such Fiscal Year.",
+     "label": "4.4.7"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/4.4"
+}

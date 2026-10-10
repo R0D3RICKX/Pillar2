@@ -1,0 +1,47 @@
+{
+ "chapter": 2,
+ "id": "2.5",
+ "title": "UTPR Top-up Tax Amount",
+ "page": 14,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "2.5.1",
+   "page": 14,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The Total UTPR Top-up Tax Amount for a Fiscal Year shall be equal to the sum of the Top-up Tax calculated for each Low-Taxed Constituent Entity of an MNE Group for that Fiscal Year (determined in accordance with Article 5.2), subject to the adjustments set out in this Article 2.5 and Article 9.3.",
+     "label": "2.5.1"
+    }
+   ]
+  },
+  {
+   "id": "2.5.2",
+   "page": 14,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The Top-up Tax calculated for a Low-Taxed Constituent Entity that is otherwise taken into account under Article 2.5.1 shall be reduced to zero if all of the Ultimate Parent Entity’s Ownership Interests in such Low-Taxed Constituent Entity are held directly or indirectly by one or more Parent Entities that are required to apply a Qualified IIR in the jurisdiction where they are located with respect to that Low-Taxed Constituent Entity for the Fiscal Year.",
+     "label": "2.5.2"
+    }
+   ]
+  },
+  {
+   "id": "2.5.3",
+   "page": 14,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Where Article 2.5.2 does not apply, the Top-up Tax calculated for a Low-Taxed Constituent Entity that is otherwise taken into account under Article 2.5.1 shall be reduced by a Parent Entity’s Allocable Share of the Top-up Tax of that Low-Taxed Constituent Entity that is brought into charge under a Qualified IIR.",
+     "label": "2.5.3"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/2.5"
+}

@@ -1,0 +1,83 @@
+{
+ "chapter": 4,
+ "id": "4.5",
+ "title": "The GloBE Loss Election",
+ "page": 27,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "4.5.1",
+   "page": 27,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "In lieu of applying the rules set forth in Article 4.4, a Filing Constituent Entity may make a GloBE Loss Election for a jurisdiction. When a GloBE Loss Election is made for a jurisdiction, a GloBE Loss Deferred Tax Asset is established in each Fiscal Year in which there is a Net GloBE Loss for the jurisdiction. The GloBE Loss Deferred Tax Asset is equal to the Net GloBE Loss in a Fiscal Year for the jurisdiction multiplied by the Minimum Rate.",
+     "label": "4.5.1"
+    }
+   ]
+  },
+  {
+   "id": "4.5.2",
+   "page": 27,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The balance of the GloBE Loss Deferred Tax Asset is carried forward to subsequent Fiscal Years, reduced by the amount of GloBE Loss Deferred Tax Asset used in a Fiscal Year.",
+     "label": "4.5.2"
+    }
+   ]
+  },
+  {
+   "id": "4.5.3",
+   "page": 27,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The GloBE Loss Deferred Tax Asset must be used in any subsequent Fiscal Year in which there is Net GloBE Income for the jurisdiction in an amount equal to the lower of the Net GloBE Income multiplied by the Minimum Rate or the amount of available GloBE Loss Deferred Tax Asset.",
+     "label": "4.5.3"
+    }
+   ]
+  },
+  {
+   "id": "4.5.4",
+   "page": 27,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "If the GloBE Loss Election is subsequently revoked, any remaining GloBE Loss Deferred Tax Asset is reduced to zero, effective as of the first day of the first Fiscal Year in which the GloBE Loss Election is no longer applicable.",
+     "label": "4.5.4"
+    }
+   ]
+  },
+  {
+   "id": "4.5.5",
+   "page": 27,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The GloBE Loss Election must be filed with the first GloBE Information Return of the MNE Group that includes the jurisdiction for which the election is made. A GloBE Loss Election cannot be made for a jurisdiction with an Eligible Distribution Tax System as defined in Article 7.3.",
+     "label": "4.5.5"
+    }
+   ]
+  },
+  {
+   "id": "4.5.6",
+   "page": 27,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "A Flow-through Entity that is a UPE of an MNE Group may make a GloBE Loss Election under this Article. When such an election is made, the GloBE Loss Deferred Tax Asset shall be calculated in accordance with Articles 4.5.1 to 4.5.5, however, the GloBE Loss Deferred Tax Asset shall be calculated with reference to the GloBE Loss of the Flow-through Entity after reduction in accordance with Article 7.1.2.",
+     "label": "4.5.6"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/4.5"
+}

@@ -1,0 +1,154 @@
+{
+ "chapter": 5,
+ "id": "5.3",
+ "title": "Substance-based Income Exclusion",
+ "page": 31,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "5.3.1",
+   "page": 31,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The Net GloBE Income for the jurisdiction shall be reduced by the Substance-based Income Exclusion for the jurisdiction to determine the Excess Profit for purposes of computing the Top-up Tax under Article 5.2. A Filing Constituent Entity of an MNE Group may make an Annual Election not to apply the Substance-based Income Exclusion for a jurisdiction by not computing the exclusion or claiming it in the computation of Top-up Tax for the jurisdiction in the GloBE Information Return(s) filed for the Fiscal Year.",
+     "label": "5.3.1"
+    }
+   ]
+  },
+  {
+   "id": "5.3.2",
+   "page": 31,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The Substance-based Income Exclusion amount for a jurisdiction is the sum of the payroll carve-out and the tangible asset carve-out for each Constituent Entity, except for Constituent Entities that are Investment Entities, in that jurisdiction.",
+     "label": "5.3.2"
+    }
+   ]
+  },
+  {
+   "id": "5.3.3",
+   "page": 31,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The payroll carve-out for a Constituent Entity located in a jurisdiction is equal to 5% of its Eligible Payroll Costs of Eligible Employees that perform activities for the MNE Group in such jurisdiction, except Eligible Payroll costs that are:",
+     "label": "5.3.3"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "capitalised and included in the carrying value of Eligible Tangible Assets;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "attributable to a Constituent Entity’s International Shipping Income and Qualified Ancillary International Shipping Income under Article 3.3.5 that is excluded from the computation of GloBE Income or Loss for the Fiscal Year.",
+     "label": "(b)"
+    }
+   ]
+  },
+  {
+   "id": "5.3.4",
+   "page": 31,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The tangible asset carve-out for a Constituent Entity located in a jurisdiction is equal to 5% of the carrying value of Eligible Tangible Assets located in such jurisdiction. Eligible Tangible Assets means:",
+     "label": "5.3.4"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "property, plant, and equipment located in that jurisdiction;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "natural resources located in that jurisdiction;",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "a lessee’s right of use of tangible assets located in that jurisdiction; and",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "a licence or similar arrangement from the government for the use of immovable property or exploitation of natural resources that entails significant investment in tangible assets.",
+     "label": "(d)"
+    },
+    {
+     "type": "text",
+     "level": 0,
+     "text": "For this purpose, the tangible asset carve-out computation shall not include the carrying value of property (including land or buildings) that is held for sale, lease or investment. The tangible asset carve-out computation shall not include the carrying value of tangible assets used in the generation of a Constituent Entity’s International Shipping Income and Qualified Ancillary International Shipping Income (i.e. ships and other maritime equipment and infrastructure). The carrying value of tangible assets attributable to a Constituent Entity’s excess income over the cap for Qualified Ancillary International Shipping Income under Article 3.3.4 shall be included in the tangible asset carve-out computation."
+    }
+   ]
+  },
+  {
+   "id": "5.3.5",
+   "page": 32,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The computation of carrying value of Eligible Tangible Assets for purposes of Article 5.3.4 shall be based on the average of the carrying value (net of accumulated depreciation, amortisation, or depletion and including any amount attributable to capitalisation of payroll expense) at the beginning and ending of the Reporting Fiscal Year as recorded for the purposes of preparing the Consolidated Financial Statements of the Ultimate Parent Entity.",
+     "label": "5.3.5"
+    }
+   ]
+  },
+  {
+   "id": "5.3.6",
+   "page": 32,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "For purposes of Articles 5.3.3 and 5.3.4, the Eligible Payroll Costs and Eligible Tangible Assets of a Constituent Entity that is a Permanent Establishment are those included in its separate financial accounts as determined by Article 3.4.1 and adjusted in accordance with Article 3.4.2, provided that the Eligible Employees and Eligible Tangible Assets are located in the jurisdiction where the Permanent Establishment is located. The Eligible Payroll Costs and Eligible Tangible Assets of a Permanent Establishment are not taken into account for the Eligible Payroll Costs and Eligible Tangible Assets of the Main Entity. The Eligible Payroll Costs and Eligible Tangible Assets of a Permanent Establishment whose income has been wholly or partly excluded in accordance with Articles 3.5.3 and 7.1.4 are excluded from the Substance-based Income Exclusion computations of the MNE Group in the same proportion.",
+     "label": "5.3.6"
+    }
+   ]
+  },
+  {
+   "id": "5.3.7",
+   "page": 32,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "For purposes of Articles 5.3.3 and 5.3.4, Eligible Payroll Costs and Eligible Tangible Assets of a Flow-through Entity that are not allocated under Article 5.3.6 are allocated as follows:",
+     "label": "5.3.7"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "if the Financial Accounting Net Income or Loss of the Flow-through Entity has been allocated to the Constituent Entity-owner under Article 3.5.1(b), then the Entity’s Eligible Payroll Costs and Eligible Tangible Assets are allocated in the same proportion to the Constituent Entity-owner provided it is located in the jurisdiction where the Eligible Employees and Eligible Tangible Assets are located;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "if the Flow-through Entity is the Ultimate Parent Entity, then Eligible Payroll Costs and Eligible Tangible Assets located in the jurisdiction where the Ultimate Parent Entity is located are allocated to it and reduced in proportion to the income that is excluded under Article 7.1.1; and",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "all other Eligible Payroll Costs and Eligible Tangible Assets of the Flow-through Entity are excluded from the Substance-based Income Exclusion computations of the MNE Group.",
+     "label": "(c)"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/5.3"
+}

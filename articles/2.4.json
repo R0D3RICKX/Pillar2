@@ -1,0 +1,47 @@
+{
+ "chapter": 2,
+ "id": "2.4",
+ "title": "Application of the UTPR",
+ "page": 13,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "2.4.1",
+   "page": 13,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Constituent Entities of an MNE Group located in [insert name of implementing-Jurisdiction] shall be denied a deduction (or required to make an equivalent adjustment under domestic law) in an amount resulting in those Constituent Entities having an additional cash tax expense equal to the UTPR Top-up Tax Amount for the Fiscal Year allocated to that jurisdiction.",
+     "label": "2.4.1"
+    }
+   ]
+  },
+  {
+   "id": "2.4.2",
+   "page": 13,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The adjustment mentioned in Article 2.4.1 shall apply to the extent possible with respect to the taxable year in which the Fiscal Year ends. If this adjustment is insufficient to produce an additional cash tax expense for this taxable year equal to the UTPR Top-up Tax Amount allocated to [insert name of implementing-Jurisdiction] for the Fiscal Year, the difference shall be carried forward to the extent necessary to the succeeding Fiscal Years and be subject to the adjustment mentioned in Article 2.4.1 to the extent possible for each taxable year.",
+     "label": "2.4.2"
+    }
+   ]
+  },
+  {
+   "id": "2.4.3",
+   "page": 14,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Article 2.4.1 shall not apply to a Constituent Entity that is an Investment Entity.",
+     "label": "2.4.3"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/2.4"
+}

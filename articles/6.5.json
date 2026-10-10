@@ -1,0 +1,65 @@
+{
+ "chapter": 6,
+ "id": "6.5",
+ "title": "Multi-Parented MNE Groups",
+ "page": 38,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "6.5.1",
+   "page": 38,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The following provisions apply to Multi-Parented MNE Groups:",
+     "label": "6.5.1"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the Entities and Constituent Entities of each Group are treated as members of a single MNE Group for purposes of the GloBE Rules (the Multi-Parented MNE Group);",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "an Entity (other than an Excluded Entity) shall be treated as a Constituent Entity if it is consolidated on a line-by-line basis by the Multi-Parented MNE Group or its Controlling Interests are held by Entities in the Multi-Parented MNE Group;",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the Consolidated Financial Statements of the Multi-Parented MNE Group shall be the Consolidated Financial Statements referred to in the definition of Stapled Structure or Dual-listed arrangement (as relevant) prepared under an Acceptable Financial Accounting Standard, which is deemed to be the accounting standard of the Ultimate Parent Entity;",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the Ultimate Parent Entities of the separate Groups that comprise the Multi-Parented MNE Group shall be the Ultimate Parent Entities of the Multi-Parented MNE Group (when applying the GloBE Rules in respect of a Multi-Parented MNE Group, references to an Ultimate Parent Entity shall apply, as required, as if they were references to multiple Ultimate Parent Entities);",
+     "label": "(d)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the Parent Entities of the Multi-Parented MNE Group (including each Ultimate Parent Entity) located in [insert name of implementing jurisdiction] shall apply the IIR in accordance with Article 2.1 to Article 2.3 with respect to their Allocable Share of the Top-up Tax of the Low-Taxed Constituent Entity;",
+     "label": "(e)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "all of the Constituent Entities of the Multi-Parented MNE Group located in [insert name of implementing jurisdiction] shall apply the UTPR in accordance with Article 2.4 to Article 2.6 taking into account the Top-up Tax of each Low-Taxed Constituent Entity of the Multi-Parented MNE Group; and",
+     "label": "(f)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the Ultimate Parent Entities are required to submit the GloBE Information Return in accordance with Article 8.1, unless they appoint a single Designated Filing Entity and that return shall include the information concerning each of the Groups that comprise the Multi-Parented MNE Group.",
+     "label": "(g)"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/6.5"
+}

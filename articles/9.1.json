@@ -1,0 +1,47 @@
+{
+ "chapter": 9,
+ "id": "9.1",
+ "title": "Tax Attributes Upon Transition",
+ "page": 50,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "9.1.1",
+   "page": 50,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "When determining the Effective Tax Rate for a jurisdiction in a Transition Year, and for each subsequent year, the MNE Group shall take into account all of the deferred tax assets and deferred tax liabilities reflected or disclosed in the financial accounts of all of the Constituent Entities in a jurisdiction for the Transition Year. Such deferred tax assets and liabilities must be taken into account at the lower of the Minimum Rate or the applicable domestic tax rate. A deferred tax asset that has been recorded at a rate lower than the Minimum Rate may be taken into account at the Minimum Rate if the taxpayer can demonstrate that the deferred tax asset is attributable to a GloBE Loss. For purposes of applying this Article, the impact of any valuation adjustment, or accounting recognition adjustment with respect to a deferred tax asset is disregarded.",
+     "label": "9.1.1"
+    }
+   ]
+  },
+  {
+   "id": "9.1.2",
+   "page": 50,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Deferred tax assets arising from items excluded from the computation of GloBE Income or Loss under Chapter 3 must be excluded from the Article 9.1.1 computation when such deferred tax assets are generated in a transaction that takes place after 30 November 2021.",
+     "label": "9.1.2"
+    }
+   ]
+  },
+  {
+   "id": "9.1.3",
+   "page": 50,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "In the case of a transfer of assets between Constituent Entities after 30 November 2021 and before the commencement of a Transition Year, the basis in the acquired assets (other than inventory) shall be based upon the disposing Entity’s carrying value of the transferred assets upon disposition with the deferred tax assets and liabilities brought into GloBE determined on that basis.",
+     "label": "9.1.3"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/9.1"
+}

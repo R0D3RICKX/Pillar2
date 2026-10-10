@@ -1,0 +1,76 @@
+{
+ "chapter": 5,
+ "id": "5.4",
+ "title": "Additional Current Top-up Tax",
+ "page": 32,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "5.4.1",
+   "page": 32,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "If the Effective Tax Rate and Top-up Tax for a prior Fiscal Year is required or permitted to be recalculated pursuant to an ETR Adjustment Article,",
+     "label": "5.4.1"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the Effective Tax Rate and Top-Up Tax for the prior Fiscal Year shall be recalculated in accordance with the rules of Article 5.1 through Article 5.3 after taking into account the adjustments to Adjusted Covered Taxes and GloBE Income or Loss required by the relevant ETR Adjustment Article; and",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "any amount of incremental Top-up Tax resulting from such recalculation shall be treated as Additional Current Top-up Tax under Article 5.2.3 arising in the current Fiscal Year.",
+     "label": "(b)"
+    }
+   ]
+  },
+  {
+   "id": "5.4.2",
+   "page": 33,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "If there is Additional Current Top-up Tax attributable to a recalculation under Article 5.4.1 and the jurisdiction does not have Net GloBE Income for the current Fiscal Year, the GloBE Income of each Constituent Entity located in the jurisdiction for purposes of Article 2.2.2 shall be equal to the result of the Top-up Tax allocated to such Entity under Articles 5.2.4 and 5.2.5 divided by the Minimum Rate.",
+     "label": "5.4.2"
+    }
+   ]
+  },
+  {
+   "id": "5.4.3",
+   "page": 33,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "If there is Additional Current Top-up Tax attributable to the operation of Article 4.1.5, the GloBE Income of each Constituent Entity located in the jurisdiction for purposes of Article 2.2.2 shall be equal to the result of the Top-up Tax allocated to such Entity under this Article divided by the Minimum Rate. The amount of Additional Current Top-up Tax allocated to each Constituent Entity for purposes of this Article shall be allocated only to Constituent Entities that record an Adjusted Covered Taxes amount that is less than zero and less than the GloBE Income or Loss of such Constituent Entity multiplied by the Minimum Rate. The allocation shall be made pro-rata based upon the following amount for each of those Constituent Entities:",
+     "label": "5.4.3"
+    },
+    {
+     "type": "formula",
+     "level": 0,
+     "text": "(GloBE Income or Loss × Minimum Rate) − Adjusted Covered Taxes"
+    }
+   ]
+  },
+  {
+   "id": "5.4.4",
+   "page": 33,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "If a Constituent Entity is allocated Additional Current top-up Tax pursuant to this Article and Article 5.2.4 such Constituent Entity shall be treated as a Low-Taxed Constituent Entity for the purposes of Chapter 2.",
+     "label": "5.4.4"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/5.4"
+}

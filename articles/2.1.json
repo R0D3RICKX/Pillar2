@@ -1,0 +1,95 @@
+{
+ "chapter": 2,
+ "id": "2.1",
+ "title": "Application of the IIR",
+ "page": 12,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "2.1.1",
+   "page": 12,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "A Constituent Entity, that is the Ultimate Parent Entity of an MNE Group, located in [insert name of implementing-jurisdiction] that owns (directly or indirectly) an Ownership Interest in a Low-Taxed Constituent Entity at any time during the Fiscal Year shall pay a tax in an amount equal to its Allocable Share of the Top-Up Tax of that Low-Taxed Constituent Entity for the Fiscal Year.",
+     "label": "2.1.1"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2",
+   "page": 12,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "An Intermediate Parent Entity of an MNE Group located in [insert name of implementing-jurisdiction] that owns (directly or indirectly) an Ownership Interest in a Low-Taxed Constituent Entity at any time during a Fiscal Year shall pay a tax in an amount equal to its Allocable Share of the Top-Up Tax of that Low-Taxed Constituent Entity for the Fiscal Year.",
+     "label": "2.1.2"
+    }
+   ]
+  },
+  {
+   "id": "2.1.3",
+   "page": 12,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Article 2.1.2 shall not apply if:",
+     "label": "2.1.3"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the Ultimate Parent Entity of the MNE Group is required to apply a Qualified IIR for that Fiscal Year; or",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "another Intermediate Parent Entity that owns (directly or indirectly) a Controlling Interest in the Intermediate Parent Entity is required to apply a Qualified IIR for that Fiscal Year.",
+     "label": "(b)"
+    }
+   ]
+  },
+  {
+   "id": "2.1.4",
+   "page": 12,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Notwithstanding Articles 2.1.1 to 2.1.3, a Partially-Owned Parent Entity located in [insert name of implementing-jurisdiction] that owns (directly or indirectly) an Ownership Interest in a Low-Taxed Constituent Entity at any time during the Fiscal Year shall pay a tax in an amount equal to its Allocable Share of the Top-up Tax of that Low-Taxed Constituent Entity for the Fiscal Year.",
+     "label": "2.1.4"
+    }
+   ]
+  },
+  {
+   "id": "2.1.5",
+   "page": 12,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Article 2.1.4 shall not apply if the Partially-Owned Parent Entity is wholly owned (directly or indirectly) by another Partially-Owned Parent Entity that is required to apply a Qualified IIR for that Fiscal Year.",
+     "label": "2.1.5"
+    }
+   ]
+  },
+  {
+   "id": "2.1.6",
+   "page": 12,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "A Parent Entity located in [insert name of implementing-jurisdiction] shall apply the provisions of Articles 2.1.1 to 2.1.5 with respect to a Low-Taxed Constituent Entity that is not located in [insert name of implementing-jurisdiction].",
+     "label": "2.1.6"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/2.1"
+}

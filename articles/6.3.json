@@ -1,0 +1,125 @@
+{
+ "chapter": 6,
+ "id": "6.3",
+ "title": "Transfer of Assets and Liabilities",
+ "page": 37,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "6.3.1",
+   "page": 37,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "In the case of a disposition or acquisition of assets and liabilities, a disposing Constituent Entity will include the gain or loss on disposition in the computation of its GloBE Income or Loss and an acquiring Constituent Entity will determine its GloBE Income or Loss using the acquiring Constituent Entity’s carrying value of the acquired assets and liabilities determined under the accounting standard used in preparing Consolidated Financial Statements of the Ultimate Parent Entity.",
+     "label": "6.3.1"
+    }
+   ]
+  },
+  {
+   "id": "6.3.2",
+   "page": 37,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "If the disposition or acquisition of assets and liabilities is part of a GloBE Reorganisation Article 6.3.1 shall not apply and:",
+     "label": "6.3.2"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "a disposing Constituent Entity will exclude any gain or loss on the disposition from the computation of its GloBE Income or Loss; and",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "an acquiring Constituent Entity will determine its GloBE Income or Loss after the acquisition using the disposing Entity’s carrying values of the acquired assets and liabilities upon disposition.",
+     "label": "(b)"
+    }
+   ]
+  },
+  {
+   "id": "6.3.3",
+   "page": 37,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "If a disposition or acquisition of assets and liabilities is part of a GloBE Reorganisation in which a disposing Constituent Entity recognises Non-qualifying Gain or Loss, Articles 6.3.1 and 6.3.2 shall not apply and:",
+     "label": "6.3.3"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the disposing Constituent Entity will include gain or loss on the disposition in its GloBE Income or Loss computation to the extent of the Non-qualifying Gain or Loss; and",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "an acquiring Constituent Entity will determine its GloBE Income or Loss after the acquisition using the disposing Entity’s carrying value of the acquired assets and liabilities upon disposition adjusted consistent with local tax rules to account for the Non-qualifying Gain or Loss.",
+     "label": "(b)"
+    }
+   ]
+  },
+  {
+   "id": "6.3.4",
+   "page": 37,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "At the election of the Filing Constituent Entity, a Constituent Entity of an MNE Group that is required or permitted to adjust the basis of its assets and the amount of its liabilities to fair value for tax purposes in the jurisdiction in which it is located, shall:",
+     "label": "6.3.4"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Include in the computation of its GloBE Income or Loss an amount of gain or loss in respect of each of its assets and liabilities that is equal to:",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "the difference between the carrying value for financial accounting purposes of the asset or liability immediately before and the fair value of the asset or liability immediately after the date of the event that triggered the tax adjustment (the triggering event);",
+     "label": "i."
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "decreased (or increased) by the Non-Qualifying Gain (or Loss), if any, arising in connection with the triggering event;",
+     "label": "ii."
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "use the fair value for financial accounting purposes of the asset or liability immediately after the triggering event to determine GloBE Income or Loss in Fiscal Years ending after the triggering event; and",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "include the net total of the amounts determined in 6.3.4(a) in the Constituent Entity’s GloBE Income or Loss in one of the following ways:",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "the net total of the amounts is included in the Fiscal Year in which the triggering event occurs; or",
+     "label": "i."
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "an amount equal to the net total of the amounts divided by five is included in the Fiscal Year in which the triggering event occurs and in each of the immediate four subsequent Fiscal Years, unless the Constituent Entity leaves the MNE Group in a Fiscal Year within this period, in which case the remaining amount will be wholly included in that Fiscal Year.",
+     "label": "ii."
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/6.3"
+}

@@ -1,0 +1,89 @@
+{
+ "chapter": 6,
+ "id": "6.1",
+ "title": "Application of Consolidated Revenue Threshold to Group Mergers and Demergers",
+ "page": 35,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "6.1.1",
+   "page": 35,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "For the purposes of Article 1.1",
+     "label": "6.1.1"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "If two or more Groups merge to form a single Group in any of the four Fiscal Years prior to the tested Fiscal Year, then the consolidated revenue threshold of the MNE Group for any Fiscal Year prior to the merger is deemed to be met for that year if the sum of the revenue included in each of their Consolidated Financial Statements for that year is equal to or greater than EUR 750 million.",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Where an Entity that is not a member of any Group (target) merges with an Entity or Group (acquirer) in the tested Fiscal Year and the target or acquirer does not have Consolidated Financial Statements in any of the four Fiscal Years prior to the tested Fiscal Year because it was not a member of any Group in that year, the consolidated revenue threshold of the MNE Group is deemed to be met for that year if the sum of the revenue included in each of their Financial Statements or Consolidated Financial Statements for that year is equal to or greater than EUR 750 million.",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Where a single MNE Group within the scope of the GloBE Rules demerges into two or more Groups (each a demerged Group), the consolidated revenue threshold is deemed to be met by a demerged Group:",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "with respect to the first tested Fiscal Year ending after the demerger, if the demerged Group has annual revenues of EUR 750 million or more in that year;",
+     "label": "i."
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "with respect to the second to fourth tested Fiscal Years ending after the demerger, if the demerged Group has annual revenues of EUR 750 million or more in at least two of the Fiscal Years following the year of the demerger.",
+     "label": "ii."
+    }
+   ]
+  },
+  {
+   "id": "6.1.2",
+   "page": 36,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "For the purposes of Article 6.1.1 a merger is any arrangement where :",
+     "label": "6.1.2"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "all or substantially all of the Group Entities of two or more separate Groups are brought under common control such that they constitute Group Entities of a combined Group; or",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "an Entity that is not a member of any Group is brought under common control with another Entity or Group such that they constitute Group Entities of a combined Group.",
+     "label": "(b)"
+    }
+   ]
+  },
+  {
+   "id": "6.1.3",
+   "page": 36,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "For the purposes of Article 6.1.1 a demerger is any arrangement where the Group Entities of a single Group are separated into two or more Groups that are no longer consolidated by the same Ultimate Parent Entity.",
+     "label": "6.1.3"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/6.1"
+}

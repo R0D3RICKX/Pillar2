@@ -1,0 +1,35 @@
+{
+ "chapter": 5,
+ "id": "5.6",
+ "title": "Minority-Owned Constituent Entities",
+ "page": 34,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "5.6.1",
+   "page": 34,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The computation of the Effective Tax Rate and Top-up Tax for a jurisdiction in accordance with Chapters 3 to 7, and Article 8.2 with respect to members of a Minority-Owned Subgroup shall apply as if they were a separate MNE Group. The Adjusted Covered Taxes and GloBE Income or Loss of members of a Minority-Owned Subgroup are excluded from the determination of the remainder of the MNE Group’s Effective Tax Rate in Article 5.1.1 and Net GloBE Income in Article 5.1.2.",
+     "label": "5.6.1"
+    }
+   ]
+  },
+  {
+   "id": "5.6.2",
+   "page": 34,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The Effective Tax Rate and Top-up Tax of a Minority-Owned Constituent Entity that is not a member of a Minority-Owned Subgroup is computed on an entity basis in accordance with Chapters 3 to 7, and Article 8.2. The Adjusted Covered Taxes and GloBE Income or Loss of the Minority-Owned Constituent Entity are excluded from the determination of the remainder of the MNE Group’s Effective Tax Rate in Article 5.1.1 and Net GloBE Income in Article 5.1.2. This provision does not apply if the Minority-Owned Constituent Entity is an Investment Entity.",
+     "label": "5.6.2"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/5.6"
+}

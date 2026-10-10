@@ -1,0 +1,106 @@
+{
+ "chapter": 3,
+ "id": "3.5",
+ "title": "Allocation of Income or Loss from a Flow-through Entity",
+ "page": 21,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "3.5.1",
+   "page": 21,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The Financial Accounting Net Income or Loss of a Constituent Entity that is a Flow-through Entity is allocated as follows:",
+     "label": "3.5.1"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "in the case of a Permanent Establishment through which the business of the Entity is wholly or partly carried out, the Financial Accounting Net Income or Loss of the Entity is allocated to that Permanent Establishment in accordance with Article 3.4;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "in the case of a Tax Transparent Entity that is not the Ultimate Parent Entity, any Financial Accounting Net Income or Loss remaining after application of paragraph (a) is allocated to its Constituent Entity-owners in accordance with their Ownership Interests; and",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "in the case of a Tax Transparent Entity that is the Ultimate Parent Entity or a Reverse Hybrid Entity, any Financial Accounting Net Income or Loss remaining after application of paragraph (a) is allocated to it.",
+     "label": "(c)"
+    }
+   ]
+  },
+  {
+   "id": "3.5.2",
+   "page": 21,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The rules of Article 3.5.1 shall be applied separately with respect to each Ownership Interest in the Flow-through Entity.",
+     "label": "3.5.2"
+    }
+   ]
+  },
+  {
+   "id": "3.5.3",
+   "page": 21,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Prior to the application of Article 3.5.1, the Financial Accounting Net Income or Loss of a Flow-through Entity shall be reduced by the amount allocable to its owners that are not Group Entities and that hold their Ownership Interest in the Flow-through Entity directly or through a Tax Transparent Structure.",
+     "label": "3.5.3"
+    }
+   ]
+  },
+  {
+   "id": "3.5.4",
+   "page": 22,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Article 3.5.3 does not apply to:",
+     "label": "3.5.4"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "an Ultimate Parent Entity that is a Flow-through Entity; or",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "any Flow-through Entity owned by such an Ultimate Parent Entity (directly or through a Tax Transparent Structure).",
+     "label": "(b)"
+    },
+    {
+     "type": "text",
+     "level": 0,
+     "text": "The treatment of these Entities is addressed in Article 7.1."
+    }
+   ]
+  },
+  {
+   "id": "3.5.5",
+   "page": 22,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The Financial Accounting Net Income or Loss of a Flow-through Entity is reduced by the amount that is allocated to another Constituent Entity.",
+     "label": "3.5.5"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/3.5"
+}

@@ -1,0 +1,167 @@
+{
+ "chapter": 8,
+ "id": "8.1",
+ "title": "Filing obligation",
+ "page": 47,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "8.1.1",
+   "page": 47,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Subject to Article 8.1.2, each Constituent Entity located in [insert name of implementing-Jurisdiction] shall file a GloBE Information Return conforming to the requirements of Articles 8.1.4 to 8.1.6 with the tax administration of [insert name of implementing-Jurisdiction]. The return may be filed by either the Constituent Entity itself or by a Designated Local Entity on its behalf.",
+     "label": "8.1.1"
+    }
+   ]
+  },
+  {
+   "id": "8.1.2",
+   "page": 47,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "A Constituent Entity is not obligated to file a GloBE Information Return with the tax administration of [insert name of implementing-Jurisdiction] if a GloBE Information Return conforming to the requirements of Articles 8.1.4 to 8.1.6 has been filed by either:",
+     "label": "8.1.2"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the Ultimate Parent Entity located in a jurisdiction that has a Qualifying Competent Authority Agreement in effect with [insert name of implementing-Jurisdiction] for the Reporting Fiscal Year; or",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the Designated Filing Entity located in a jurisdiction that has a Qualifying Competent Authority Agreement in effect with [insert name of implementing-Jurisdiction] for the Reporting Fiscal Year.",
+     "label": "(b)"
+    }
+   ]
+  },
+  {
+   "id": "8.1.3",
+   "page": 47,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Where Article 8.1.2 applies, a Constituent Entity located in [insert name of implementing-Jurisdiction] or the Designated Local Entity on its behalf, shall notify the tax administration of [insert name of implementing-Jurisdiction] of the identity of the Entity that is filing the GloBE Information Return and the jurisdiction in which it is located.",
+     "label": "8.1.3"
+    }
+   ]
+  },
+  {
+   "id": "8.1.4",
+   "page": 47,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The GloBE Information Return shall be filed in a standard template that is developed in accordance with the GloBE Implementation Framework and shall include the following information concerning the MNE Group (which shall be specified, expanded or restricted in accordance with the GloBE Implementation Framework including through the development of simplified reporting procedures):",
+     "label": "8.1.4"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "identification of the Constituent Entities, including their tax identification numbers (if they exist), the jurisdiction in which they are located and their status under the GloBE Rules,",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Information on the overall corporate structure of the MNE Group including the Controlling Interests in the Constituent Entities held by other Constituent Entities;",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the information necessary to compute:",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "the Effective Tax Rate for each jurisdiction and the Top-up Tax of each Constituent Entity under Chapter 5;",
+     "label": "i."
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "the Top-up Tax of a member of the JV Group under Chapter 6;",
+     "label": "ii."
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "the allocation of Top-Up Tax under the IIR, and the UTPR Top-Up Tax Amount to each jurisdiction, under Chapter 2;",
+     "label": "iii."
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "a record of the elections made in accordance with the relevant provisions of the GloBE Rules; and",
+     "label": "(d)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "other information that is agreed as part of the GloBE Implementation Framework and is necessary to carry out the administration of the GloBE Rules.",
+     "label": "(e)"
+    }
+   ]
+  },
+  {
+   "id": "8.1.5",
+   "page": 48,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The GloBE Information Return shall apply the definitions and instructions contained in the standard template that is developed in accordance with the GloBE Implementation Framework.",
+     "label": "8.1.5"
+    }
+   ]
+  },
+  {
+   "id": "8.1.6",
+   "page": 48,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The GloBE Information Return and the notifications pursuant to this Article shall be filed with the tax administration of [insert name of implementing-Jurisdiction] no later than 15 months after the last day of the Reporting Fiscal Year.",
+     "label": "8.1.6"
+    }
+   ]
+  },
+  {
+   "id": "8.1.7",
+   "page": 48,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The tax administration of [insert name of implementing-Jurisdiction] may modify the information, filing and notification requirements of the GloBE Information Return to align those requirements with those provided under the GloBE Implementation Framework (including the development of simplified reporting procedures).",
+     "label": "8.1.7"
+    }
+   ]
+  },
+  {
+   "id": "8.1.8",
+   "page": 48,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The laws of [insert name of implementing-Jurisdiction] with respect to penalties, sanctions and the confidentiality of returns and return information shall apply to the GloBE Information Return.",
+     "label": "8.1.8"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/8.1"
+}

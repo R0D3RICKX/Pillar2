@@ -1,0 +1,133 @@
+{
+ "chapter": 9,
+ "id": "9.2",
+ "title": "Transitional relief for the Substance-based Income Exclusion",
+ "page": 50,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "9.2.1",
+   "page": 50,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "For the purposes of applying Article 5.3.3, the value of 5% shall be replaced with the value set out in the table set out below for each Fiscal Year beginning in each of the following calendar years:",
+     "label": "9.2.1"
+    },
+    {
+     "type": "table",
+     "header": [
+      "Fiscal Year Beginning In",
+      "Article 5.3.3 Rate"
+     ],
+     "rows": [
+      [
+       "2023",
+       "10%"
+      ],
+      [
+       "2024",
+       "9.8%"
+      ],
+      [
+       "2025",
+       "9.6%"
+      ],
+      [
+       "2026",
+       "9.4%"
+      ],
+      [
+       "2027",
+       "9.2%"
+      ],
+      [
+       "2028",
+       "9.0%"
+      ],
+      [
+       "2029",
+       "8.2%"
+      ],
+      [
+       "2030",
+       "7.4%"
+      ],
+      [
+       "2031",
+       "6.6%"
+      ],
+      [
+       "2032",
+       "5.8%"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "9.2.2",
+   "page": 51,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "For the purposes of applying Article 5.3.4, the value of 5% shall be replaced with the value set out in the table set out below for each Fiscal Year beginning in each of the following calendar years:",
+     "label": "9.2.2"
+    },
+    {
+     "type": "table",
+     "header": [
+      "Fiscal Year Beginning In",
+      "Article 5.3.4 Rate"
+     ],
+     "rows": [
+      [
+       "2023",
+       "8.0%"
+      ],
+      [
+       "2024",
+       "7.8%"
+      ],
+      [
+       "2025",
+       "7.6%"
+      ],
+      [
+       "2026",
+       "7.4%"
+      ],
+      [
+       "2027",
+       "7.2%"
+      ],
+      [
+       "2028",
+       "7.0%"
+      ],
+      [
+       "2029",
+       "6.6%"
+      ],
+      [
+       "2030",
+       "6.2%"
+      ],
+      [
+       "2031",
+       "5.8%"
+      ],
+      [
+       "2032",
+       "5.4%"
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/9.2"
+}

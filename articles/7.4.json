@@ -1,0 +1,83 @@
+{
+ "chapter": 7,
+ "id": "7.4",
+ "title": "Effective Tax Rate Computation for Investment Entities",
+ "page": 43,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "7.4.1",
+   "page": 43,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The rules of Article 7.4 apply to Constituent Entities that meet the definition of an Investment Entity, except Investment Entities that are Tax Transparent Entities or subject to an election under Article 7.5 or Article 7.6.",
+     "label": "7.4.1"
+    }
+   ]
+  },
+  {
+   "id": "7.4.2",
+   "page": 43,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The Effective Tax Rate for an Investment Entity that is a Constituent Entity shall be calculated separately from the Effective Tax Rate of the jurisdiction in which it is located. The Effective Tax Rate for each such Investment Entity is equal to the Investment Entity’s Adjusted Covered Taxes divided by the MNE Group’s Allocable Share of the Investment Entity’s GloBE Income determined under Chapter 3. If there is more than one Investment Entity located in the jurisdiction, the Adjusted Covered Taxes and the MNE Group’s Allocable Share of each Investment Entity’s GloBE Income or Loss determined for each such Investment Entity are combined to compute the Effective Tax Rate of all such Investment Entities.",
+     "label": "7.4.2"
+    }
+   ]
+  },
+  {
+   "id": "7.4.3",
+   "page": 43,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "An Investment Entity’s Adjusted Covered Taxes is the sum of the Adjusted Covered Taxes determined for the Investment Entity under Article 4.1 attributable to the MNE Group’s Allocable Share of the Investment Entity’s GloBE Income and the Covered Taxes allocated to the Investment Entity under Article 4.3. The Investment Entity’s Adjusted Covered Taxes does not include any Covered Taxes accrued by the Investment Entity attributable to income that is not part of the MNE Group’s Allocable Share of the Investment Entity’s GloBE Income.",
+     "label": "7.4.3"
+    }
+   ]
+  },
+  {
+   "id": "7.4.4",
+   "page": 44,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The MNE Group’s Allocable Share of the Investment Entity’s GloBE Income is equal to the Allocable Share of the Investment Entity’s GloBE Income or Loss that would be determined for the Ultimate Parent Entity in accordance with the rules of Article 2.2.2 taking into account only interests that are not subject to an election under Article 7.5 or Article 7.6.",
+     "label": "7.4.4"
+    }
+   ]
+  },
+  {
+   "id": "7.4.5",
+   "page": 44,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The Top-up Tax of a Constituent Entity that is an Investment Entity shall be an amount equal to the Top-up Tax Percentage for the Investment Entity multiplied by the excess of the MNE Group’s Allocable Share of the Investment Entity’s GloBE Income over the Substance-based Income Exclusion for the Investment Entity. The Top-up Tax Percentage for an Investment Entity shall be the percentage point excess, if any, of the Minimum Rate over the Effective Tax Rate of the Investment Entity. If there is more than one Investment Entity located in the jurisdiction, the MNE Group’s Allocable Share of the Investment Entity’s GloBE Income and the Substance-based Income Exclusion determined for each such Investment Entity are combined to compute the Effective Tax Rate of all such Investment Entities.",
+     "label": "7.4.5"
+    }
+   ]
+  },
+  {
+   "id": "7.4.6",
+   "page": 44,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The Substance-based Income Exclusion for an Investment Entity shall be determined in accordance with the principles in Article 5.3 without regard to the exception in Article 5.3.2, and by taking into account only Eligible Tangible Assets and Eligible Payroll Costs of Eligible Employees of the Investment Entities reduced in proportion to the MNE Group’s Allocable Share of the Investment Entity’s GloBE Income to the Investment Entity’s total GloBE Income.",
+     "label": "7.4.6"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/7.4"
+}

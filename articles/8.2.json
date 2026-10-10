@@ -1,0 +1,53 @@
+{
+ "chapter": 8,
+ "id": "8.2",
+ "title": "Safe Harbours",
+ "page": 48,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "8.2.1",
+   "page": 48,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "At the election of the Filing Constituent Entity, and notwithstanding Chapter 5, the Top-up Tax for a jurisdiction (the safe harbour jurisdiction) shall be deemed to be zero for a Fiscal Year when the Constituent Entities located in this jurisdiction are eligible for a GloBE Safe Harbour, pursuant to the conditions provided under the GloBE Implementation Framework and applicable for that Fiscal Year.",
+     "label": "8.2.1"
+    }
+   ]
+  },
+  {
+   "id": "8.2.2",
+   "page": 48,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "An election made for a jurisdiction under Article 8.2.1 shall not apply in circumstances where:",
+     "label": "8.2.2"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "[insert name of implementing-Jurisdiction] could be allocated Top-up Tax under the GloBE Rules if the Effective Tax Rate for the safe harbour jurisdiction computed in accordance with Chapter 5 was below the Minimum Rate; and",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the tax administration of [insert name of implementing-Jurisdiction] notifies the Liable Constituent Entity (or Entities) within 36 months after the filing of the GloBE Information Return of specific facts and circumstances that may have materially affected the eligibility of the Constituent Entities located in the safe harbour jurisdiction for the relevant safe harbour and invites the Liable Constituent Entity (or Entities) to clarify within six months the effect of those facts and circumstances on the eligibility of those Constituent Entities for that safe harbour; and",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the Liable Constituent Entity (or Entities) fail(s) to demonstrate within the response period that those facts and circumstances did not materially affect the eligibility of the Constituent Entities for the relevant safe harbour.",
+     "label": "(c)"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/8.2"
+}
