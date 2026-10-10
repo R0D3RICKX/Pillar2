@@ -1,0 +1,154 @@
+{
+ "chapter": 3,
+ "id": "3.3",
+ "title": "International Shipping Income exclusion",
+ "page": 19,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "3.3.1",
+   "page": 19,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "For an MNE Group that has International Shipping Income, each Constituent Entity’s International Shipping Income and Qualified Ancillary International Shipping Income shall be excluded from the computation of its GloBE Income or Loss under Article 3.2 for the jurisdiction in which it is located. Where the computation of a Constituent Entity’s International Shipping Income and Qualified Ancillary International Shipping Income results in a loss, the loss shall be excluded from the computation of its GloBE Income or Loss.",
+     "label": "3.3.1"
+    }
+   ]
+  },
+  {
+   "id": "3.3.2",
+   "page": 19,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "International Shipping Income means the net income obtained by a Constituent Entity from:",
+     "label": "3.3.2"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the transportation of passengers or cargo by ships that it operates in international traffic, whether the ship is owned, leased or otherwise at the disposal of the Constituent Entity;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the transportation of passengers or cargo by ships operated in international traffic under slot-chartering arrangements;",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "leasing a ship, to be used for the transportation of passengers or cargo in international traffic, on charter fully equipped, crewed and supplied;",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "leasing a ship on a bare boat charter basis, for the use of transportation of passengers or cargo in international traffic, to another Constituent Entity;",
+     "label": "(d)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the participation in a pool, a joint business or an international operating agency for the transportation of passengers or cargo by ships in international traffic; and",
+     "label": "(e)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the sale of a ship used for the transportation of passengers or cargo in international traffic provided that the ship has been held for use by the Constituent Entity for a minimum of one year.",
+     "label": "(f)"
+    },
+    {
+     "type": "text",
+     "level": 0,
+     "text": "International Shipping Income shall not include net income obtained from the transportation of passengers or cargo by ships via inland waterways within the same jurisdiction."
+    }
+   ]
+  },
+  {
+   "id": "3.3.3",
+   "page": 20,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Qualified Ancillary International Shipping Income means net income obtained by a Constituent Entity from the following activities that are performed primarily in connection with the transportation of passengers or cargo by ships in international traffic:",
+     "label": "3.3.3"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "leasing a ship on a bare boat charter basis to another shipping enterprise that is not a Constituent Entity, provided that the charter does not exceed three years;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "sale of tickets issued by other shipping enterprises for the domestic leg of an international voyage;",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "leasing and short-term storage of containers or detention charges for the late return of containers;",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "provision of services to other shipping enterprises by engineers, maintenance staff, cargo handlers, catering staff, and customer services personnel; and",
+     "label": "(d)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "investment income where the investment that generates the income is made as an integral part of the carrying on the business of operating the ships in international traffic.",
+     "label": "(e)"
+    }
+   ]
+  },
+  {
+   "id": "3.3.4",
+   "page": 20,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The aggregated Qualified Ancillary International Shipping Income of all Constituent Entities located in a jurisdiction shall not exceed 50% of those Constituent Entities’ International Shipping Income.",
+     "label": "3.3.4"
+    }
+   ]
+  },
+  {
+   "id": "3.3.5",
+   "page": 20,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The costs incurred by a Constituent Entity that are directly attributable to its international shipping activities listed in Article 3.3.2 and the costs directly attributable to its qualified ancillary activities listed in Article 3.3.3 shall be deducted from the Constituent Entity’s revenues from such activities to compute its International Shipping Income and Qualified Ancillary International Shipping Income. Other costs incurred by a Constituent Entity that are indirectly attributable to a Constituent Entity’s international shipping activities and qualified ancillary activities shall be allocated on the basis of the Constituent Entity’s revenues from such activities in proportion to its total revenues. All direct and indirect costs attributed to a Constituent Entity’s International Shipping Income and Qualified Ancillary International Shipping Income shall be excluded from the computation of its GloBE Income or Loss.",
+     "label": "3.3.5"
+    }
+   ]
+  },
+  {
+   "id": "3.3.6",
+   "page": 20,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "In order for a Constituent Entity’s International Shipping Income and Qualified Ancillary International Shipping Income to qualify for the exclusion from its GloBE Income or Loss under this Article, the Constituent Entity must demonstrate that the strategic or commercial management of all ships concerned is effectively carried on from within the jurisdiction where the Constituent Entity is located.",
+     "label": "3.3.6"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/3.3"
+}

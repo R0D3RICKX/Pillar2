@@ -1,0 +1,107 @@
+{
+ "chapter": 1,
+ "id": "1.5",
+ "title": "Excluded Entity",
+ "page": 10,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "1.5.1",
+   "page": 10,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "An Excluded Entity is an Entity that is:",
+     "label": "1.5.1"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "a Governmental Entity;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "an International Organisation;",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "a Non-profit Organisation;",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "a Pension Fund;",
+     "label": "(d)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "an Investment Fund that is an Ultimate Parent Entity; or",
+     "label": "(e)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "a Real Estate Investment Vehicle that is an Ultimate Parent Entity.",
+     "label": "(f)"
+    }
+   ]
+  },
+  {
+   "id": "1.5.2",
+   "page": 10,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "An Excluded Entity is also an Entity:",
+     "label": "1.5.2"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "where at least 95% of the value of the Entity is owned (directly or through a chain of Excluded Entities) by one or more Excluded Entities referred to in Article 1.5.1 (other than a Pension Services Entity) and where that Entity:",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "operates exclusively or almost exclusively to hold assets or invest funds for the benefit of the Excluded Entity or Entities; or",
+     "label": "i."
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "only carries out activities that are ancillary to those carried out by the Excluded Entity or Entities; or",
+     "label": "ii."
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "where at least 85% of the value of the Entity is owned (directly or through a chain of Excluded Entities), by one or more Excluded Entities referred to in Article 1.5.1 (other than a Pension Services Entity) provided that substantially all of the Entity’s income is Excluded Dividends or Excluded Equity Gain or Loss that is excluded from the computation of GloBE Income or Loss in accordance with Articles 3.2.1(b) or (c).",
+     "label": "(b)"
+    }
+   ]
+  },
+  {
+   "id": "1.5.3",
+   "page": 11,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "A Filing Constituent Entity may elect not to treat an Entity as an Excluded Entity under Article 1.5.2. An election under this Article is a Five-Year Election.",
+     "label": "1.5.3"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/1.5"
+}

@@ -1,0 +1,95 @@
+{
+ "chapter": 9,
+ "id": "9.3",
+ "title": "Exclusion from the UTPR of MNE Groups in the initial phase of their international activity",
+ "page": 51,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "9.3.1",
+   "page": 51,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Subject to Article 9.3.4 the Top-up Tax that would otherwise be taken into account under Article 2.5.1 shall be reduced to zero during the initial phase of an MNE Group’s international activity, notwithstanding the requirements otherwise provided in Chapter 5.",
+     "label": "9.3.1"
+    }
+   ]
+  },
+  {
+   "id": "9.3.2",
+   "page": 51,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "For the purposes of Article 9.3, an MNE Group is in its initial phase of its international activity if, for a Fiscal Year:",
+     "label": "9.3.2"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "it has Constituent Entities in no more than six jurisdictions; and",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the sum of the Net Book Values of Tangible Assets of all Constituent Entities located in all jurisdictions other than the Reference Jurisdiction does not exceed EUR 50 million.",
+     "label": "(b)"
+    }
+   ]
+  },
+  {
+   "id": "9.3.3",
+   "page": 51,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "For the purposes of Article 9.3.2, the Reference Jurisdiction of an MNE Group is the jurisdiction where the MNE Group has the highest total value of Tangible Assets for the Fiscal Year in which the MNE Group originally comes within the scope of the GloBE Rules. The total value of Tangible Assets in a jurisdiction is the sum of the Net Book Values of all Tangible Assets of all the Constituent Entities of the MNE Group that are located in that jurisdiction.",
+     "label": "9.3.3"
+    }
+   ]
+  },
+  {
+   "id": "9.3.4",
+   "page": 51,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "This Article 9.3 shall not apply for any Fiscal Year that starts later than five years after the first day of the first Fiscal Year when the MNE Group originally came within the scope of the GloBE Rules. For MNE Groups that are in scope of the GloBE Rules when they come into effect, the period of five years will start at the time the UTPR rules come into effect.",
+     "label": "9.3.4"
+    }
+   ]
+  },
+  {
+   "id": "9.3.5",
+   "page": 51,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "[Optional provision] If [insert name of implementing-Jurisdiction] is the Reference Jurisdiction of the MNE Group pursuant to Article 9.3.3, then Article 9.3.1 shall not apply during the initial phase of that MNE Group’s international activity and, during that initial phase:",
+     "label": "9.3.5"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "[Optional provision] the Top-up Tax calculated for a Low-Taxed Constituent Entity that would be taken into account under Article 2.5.1 shall be reduced to zero if that Low-Taxed Constituent Entity is located in the Reference Jurisdiction, notwithstanding the requirements otherwise provided in Chapter 5; and",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the UTPR Percentage of the jurisdictions other than the Reference Jurisdiction is deemed to be zero.",
+     "label": "(b)"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/9.3"
+}

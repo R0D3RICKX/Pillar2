@@ -1,0 +1,165 @@
+{
+ "chapter": 5,
+ "id": "5.2",
+ "title": "Top-up Tax",
+ "page": 30,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "5.2.1",
+   "page": 30,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The Top-up Tax Percentage for a jurisdiction for a Fiscal Year shall be the positive percentage point difference, if any, computed in accordance with the following formula:",
+     "label": "5.2.1"
+    },
+    {
+     "type": "formula",
+     "level": 0,
+     "text": "Top-up Tax Percentage = Minimum Rate − Effective Tax Rate"
+    },
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Where the Effective Tax Rate is the Effective Tax Rate determined in accordance with Article 5.1 for the jurisdiction for the Fiscal Year."
+    }
+   ]
+  },
+  {
+   "id": "5.2.2",
+   "page": 30,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The Excess Profit for the jurisdiction for the Fiscal Year is the positive amount, if any, computed in accordance with the following formula:",
+     "label": "5.2.2"
+    },
+    {
+     "type": "formula",
+     "level": 0,
+     "text": "Excess Profit = Net GloBE Income − Substance-based Income Exclusion"
+    },
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Where:"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "The Net GloBE Income is the Net GloBE Income determined under Article 5.1.2 for the jurisdiction for the Fiscal Year; and",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "The Substance-based Income Exclusion is the Substance-based Income Exclusion determined under Article 5.3 for the jurisdiction for the Fiscal Year (if any).",
+     "label": "(b)"
+    }
+   ]
+  },
+  {
+   "id": "5.2.3",
+   "page": 30,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The Jurisdictional Top-up Tax for a jurisdiction for a Fiscal Year is equal to the positive amount, if any, computed in accordance with the following formula:",
+     "label": "5.2.3"
+    },
+    {
+     "type": "formula",
+     "level": 0,
+     "text": "Jurisdictional Top-up Tax = (Top-up Tax Percentage × Excess Profit) + Additional Current Top-up Tax − Domestic Top-up Tax"
+    },
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Where:"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "The Top-up Tax Percentage is percentage point difference determined in accordance with Article 5.2.1 for the jurisdiction for the Fiscal Year;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "The Excess Profit is the Excess Profit determined in accordance with Article 5.2.2 for the jurisdiction for the Fiscal Year;",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "The Additional Current Top-up Tax is the amount determined, or treated as Additional Current Top-up Tax, under Article 4.1.5 or Article 5.4.1 for the jurisdiction for the Fiscal Year; and",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "The Domestic Top-up Tax is the amount payable under a Qualified Domestic Minimum Top-Up Tax of the jurisdiction for the Fiscal Year.",
+     "label": "(d)"
+    }
+   ]
+  },
+  {
+   "id": "5.2.4",
+   "page": 31,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Except as provided in Article 5.4.3, the Top-up Tax of a Constituent Entity shall be determined for each Constituent Entity of a jurisdiction that has GloBE Income determined in accordance with Chapter 3 for the Fiscal Year included in the computation of Net GloBE Income of that jurisdiction in accordance with the following formula:",
+     "label": "5.2.4"
+    },
+    {
+     "type": "formula",
+     "level": 0,
+     "text": "Top-up Tax of a CE = Jurisdictional Top-up Tax × <span class=\"frac\"><span class=\"num\">GloBE Income of the CE</span><span class=\"den\">Aggregate GloBE Income of all CEs</span></span>"
+    },
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Where:"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "The Jurisdictional Top-up Tax is the Top-up Tax determined in accordance with Article 5.2.3 for the jurisdiction for the Fiscal Year;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "The GloBE Income of the CE is the GloBE Income of the Constituent Entity determined in accordance with Article 3.2 for the jurisdiction for the Fiscal Year;",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "The aggregate GloBE Income of all CEs is the aggregate GloBE Income of all Constituent Entities that have GloBE Income for the Fiscal Year included in the computation of Net GloBE Income in accordance with Article 5.1.2 for the jurisdiction for the Fiscal Year.",
+     "label": "(c)"
+    }
+   ]
+  },
+  {
+   "id": "5.2.5",
+   "page": 31,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "If the Jurisdictional Top-up Tax is attributable to a recalculation under the Article 5.4.1 and the jurisdiction does not have Net GloBE Income for the current Fiscal Year, Top-up Tax shall be allocated using the formula in Article 5.2.4 based on the GloBE Income of the Constituent Entities in the Fiscal Years for which the recalculations under Article 5.4.1 were performed.",
+     "label": "5.2.5"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/5.2"
+}

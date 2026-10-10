@@ -1,0 +1,59 @@
+{
+ "chapter": 1,
+ "id": "1.2",
+ "title": "MNE Group and Group",
+ "page": 9,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "1.2.1",
+   "page": 9,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "An MNE Group means any Group that includes at least one Entity or Permanent Establishment that is not located in the jurisdiction of the Ultimate Parent Entity.",
+     "label": "1.2.1"
+    }
+   ]
+  },
+  {
+   "id": "1.2.2",
+   "page": 9,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "A Group means a collection of Entities that are related through ownership or control such that the assets, liabilities, income, expenses and cash flows of those Entities:",
+     "label": "1.2.2"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "are included in the Consolidated Financial Statements of the Ultimate Parent Entity; or",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "are excluded from the Consolidated Financial Statements of the Ultimate Parent Entity solely on size or materiality grounds, or on the grounds that the Entity is held for sale.",
+     "label": "(b)"
+    }
+   ]
+  },
+  {
+   "id": "1.2.3",
+   "page": 9,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "A Group also means an Entity that is located in one jurisdiction and has one or more Permanent Establishments located in other jurisdictions provided that the Entity is not a part of another Group described in Article 1.2.2.",
+     "label": "1.2.3"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/1.2"
+}

@@ -1,0 +1,59 @@
+{
+ "chapter": 4,
+ "id": "4.6",
+ "title": "Post-filing Adjustments and Tax Rate Changes",
+ "page": 28,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "4.6.1",
+   "page": 28,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "An adjustment to a Constituent Entity’s liability for Covered Taxes for a previous Fiscal Year recorded in the financial accounts shall be treated as an adjustment to Covered Taxes in the Fiscal Year in which the adjustment is made, unless the adjustment relates to a Fiscal Year in which there is a decrease in Covered Taxes for the jurisdiction. In the case of a decrease in Covered Taxes included in the Constituent Entity’s Adjusted Covered Taxes for a previous Fiscal Year, the Effective Tax Rate and Top-up Tax for such Fiscal Year must be recalculated under Article 5.4.1. In the Article 5.4.1 recalculations, the Adjusted Covered Taxes determined for the Fiscal Year shall be reduced by the amount of the decrease in Covered Taxes and GloBE Income determined for the Fiscal Year and any intervening Fiscal Years shall be adjusted as necessary and appropriate. A Filing Constituent Entity may make an Annual Election to treat an immaterial decrease in Covered Taxes as an adjustment to Covered Taxes in the Fiscal Year in which the adjustment is made. An immaterial decrease in Covered Taxes is an aggregate decrease of less than EUR 1 million in the Adjusted Covered Taxes determined for the jurisdiction for a Fiscal Year.",
+     "label": "4.6.1"
+    }
+   ]
+  },
+  {
+   "id": "4.6.2",
+   "page": 28,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The amount of deferred tax expense resulting from a reduction to the applicable domestic tax rate shall be treated as an adjustment to a Constituent Entity’s liability for Covered Taxes claimed under Article 4.1 for a previous Fiscal Year when such reduction results in the application of a rate that is less than the Minimum Rate.",
+     "label": "4.6.2"
+    }
+   ]
+  },
+  {
+   "id": "4.6.3",
+   "page": 28,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The amount of deferred tax expense, when paid, that has resulted from an increase to the applicable domestic tax rate shall be treated as an adjustment under Article 4.6.1 to a Constituent Entity’s liability for Covered Taxes claimed under Article 4.1 for a previous Fiscal Year when such amount was originally recorded at a rate less than the Minimum Rate. This adjustment is limited to an amount that is equal to an increase of deferred tax expense up to such deferred tax expense recast at the Minimum Rate.",
+     "label": "4.6.3"
+    }
+   ]
+  },
+  {
+   "id": "4.6.4",
+   "page": 28,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "If more than EUR 1 million of the amount accrued by a Constituent Entity as current tax expense and included in Adjusted Covered Taxes for a Fiscal Year is not paid within three years of the last day of such year, the Effective Tax Rate and Top-up Tax for the Fiscal Year in which the unpaid amount was claimed as a Covered Tax must be recalculated in accordance with Article 5.4.1 by excluding such unpaid amount from Adjusted Covered Taxes.",
+     "label": "4.6.4"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/4.6"
+}

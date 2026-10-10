@@ -1,0 +1,101 @@
+{
+ "chapter": 10,
+ "id": "10.2",
+ "title": "Definitions of Flow-through Entity, Tax Transparent Entity, Reverse Hybrid Entity, and Hybrid Entity",
+ "page": 68,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "10.2.1",
+   "page": 68,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "An Entity is a Flow-through Entity to the extent it is fiscally transparent with respect to its income, expenditure, profit or loss in the jurisdiction where it was created unless it is tax resident and subject to a Covered Tax on its income or profit in another jurisdiction.",
+     "label": "10.2.1"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "A Flow-Through Entity is a Tax Transparent Entity with respect to its income, expenditure, profit or loss to the extent that it is fiscally transparent in the jurisdiction in which its owner is located.",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "A Flow-Through Entity is a Reverse Hybrid Entity with respect to its income, expenditure, profit or loss to the extent that it is not fiscally transparent in the jurisdiction in which the owner is located.",
+     "label": "(b)"
+    }
+   ]
+  },
+  {
+   "id": "10.2.2",
+   "page": 68,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "An Entity is treated as fiscally transparent under the laws of a jurisdiction, if that jurisdiction treats the income, expenditure, profit or loss of that Entity as if it were derived or incurred by the direct owner of that Entity in proportion to its interest in that Entity.",
+     "label": "10.2.2"
+    }
+   ]
+  },
+  {
+   "id": "10.2.3",
+   "page": 68,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "An Ownership Interest in an Entity or a Permanent Establishment that is a Constituent Entity shall be treated as held through a Tax Transparent Structure if that Ownership Interest is held indirectly through a chain of Tax Transparent Entities.",
+     "label": "10.2.3"
+    }
+   ]
+  },
+  {
+   "id": "10.2.4",
+   "page": 68,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "A Constituent Entity that is not a tax resident and not subject to a Covered Tax or a Qualified Domestic Minimum Top-up Tax based on its place of management, place of creation, or similar criteria shall be treated as a Flow-Through Entity and a Tax Transparent Entity in respect of its income, expenditure, profit or loss to the extent that:",
+     "label": "10.2.4"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "its owners are located in a jurisdiction that treats the Entity as fiscally transparent;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "it does not have a place of business in the jurisdiction where it was created; and",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the income, expenditure, profit or loss is not attributable to a Permanent Establishment.",
+     "label": "(c)"
+    }
+   ]
+  },
+  {
+   "id": "10.2.5",
+   "page": 68,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "An Entity that is treated as a separate taxable person for income tax purposes in the jurisdiction where it is located is a Hybrid Entity with respect to its income, expenditure, profit or loss to the extent that it is fiscally transparent in the jurisdiction in which its owner is located.",
+     "label": "10.2.5"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/10.2"
+}

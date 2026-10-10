@@ -1,0 +1,171 @@
+{
+ "chapter": 7,
+ "id": "7.3",
+ "title": "Eligible Distribution Tax Systems",
+ "page": 42,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "7.3.1",
+   "page": 42,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "A Filing Constituent Entity may make an annual election with respect to a Constituent Entity that is subject to an Eligible Distribution Tax System to add the amount of Deemed Distribution Tax determined under Article 7.3.2 to Adjusted Covered Taxes for the Fiscal Year. An election under this Article shall apply to all Constituent Entities located in the jurisdiction.",
+     "label": "7.3.1"
+    }
+   ]
+  },
+  {
+   "id": "7.3.2",
+   "page": 42,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The amount of Deemed Distribution Tax is the lesser of:",
+     "label": "7.3.2"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the amount of Adjusted Covered Taxes necessary to increase the Effective Tax Rate computed under Article 5.2.1 for the jurisdiction for the Fiscal Year to the Minimum Rate; or",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the amount of tax that would have been due if the Constituent Entities located in the jurisdiction had distributed all of their income that is subject to the Eligible Distribution Tax Regime during such year.",
+     "label": "(b)"
+    }
+   ]
+  },
+  {
+   "id": "7.3.3",
+   "page": 42,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "An annual Deemed Distribution Tax Recapture Account is established for each Fiscal Year in which the election in Article 7.3.1 applies. A Deemed Distribution Tax Recapture Account is increased by the amount of the Deemed Distribution Tax determined under Article 7.3.2 for the jurisdiction for the Fiscal Year for which it was established. At the end of each succeeding Fiscal Year, the outstanding balances of Deemed Distribution Tax Recapture Accounts established for prior Fiscal Years are reduced in chronological order and to the extent thereof, but not below zero:",
+     "label": "7.3.3"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "first by Taxes paid by the Constituent Entities during the Fiscal Year in relation to actual or deemed distributions;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "then by the amount of any Net GloBE Loss of the jurisdiction multiplied by the Minimum Rate; and",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "then by any amount of Recapture Account Loss Carry-forward applied to the current Fiscal Year pursuant to Article 7.3.4.",
+     "label": "(c)"
+    }
+   ]
+  },
+  {
+   "id": "7.3.4",
+   "page": 42,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "A Recapture Account Loss Carry-forward shall be established for the jurisdiction when the amount described in Article 7.3.3(b) exceeds the outstanding balance of the Deemed Distribution Tax Recapture Accounts. The Recapture Account Loss Carry-forward shall be in an amount equal to such excess and shall be taken into account in subsequent Fiscal Years as a reduction to Deemed Distribution Tax Recapture Accounts in such Fiscal Years. When such amount is taken into account in a subsequent Fiscal Year, the Recapture Account Loss Carry-forward must be reduced by that amount.",
+     "label": "7.3.4"
+    }
+   ]
+  },
+  {
+   "id": "7.3.5",
+   "page": 42,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "If there is an outstanding balance of a Deemed Distribution Tax Recapture Account (maintained in accordance with Article 7.3.3) on the last day of the fourth Fiscal Year after the Fiscal Year for which such account was established, the Effective Tax Rate and Top-up Tax for the Fiscal Year for which the account was established must be recalculated under Article 5.4.1 by treating the balance of the Deemed Distribution Tax Recapture Account as a reduction to the Adjusted Covered Taxes previously determined for such year.",
+     "label": "7.3.5"
+    }
+   ]
+  },
+  {
+   "id": "7.3.6",
+   "page": 43,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Taxes paid during the Fiscal Year in relation to actual or deemed distributions are not included in Adjusted Covered Taxes to the extent they reduce a Deemed Distribution Tax Recapture Account under Article 7.3.3.",
+     "label": "7.3.6"
+    }
+   ]
+  },
+  {
+   "id": "7.3.7",
+   "page": 43,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "In the Fiscal Year that a Departing Constituent Entity leaves the MNE Group or transfers substantially all of its assets,",
+     "label": "7.3.7"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the Effective Tax Rate and Top-up Tax for each preceding year for which a Deemed Distribution Tax Recapture Account is outstanding is re-calculated in accordance with the principles of Article 5.4.1. by treating the balance of the Deemed Distribution Tax Recapture Account as a reduction to the Adjusted Covered Taxes previously determined for such year; and",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "any amount of incremental Top-up Tax resulting from such recalculation shall be multiplied by the Disposition Recapture Ratio to determine the Additional Current Top-up Tax for purposes of Article 5.2.3.",
+     "label": "(b)"
+    }
+   ]
+  },
+  {
+   "id": "7.3.8",
+   "page": 43,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The Disposition Recapture Ratio is determined for each Departing Constituent Entity using the following formula:",
+     "label": "7.3.8"
+    },
+    {
+     "type": "formula",
+     "level": 0,
+     "text": "Disposition Recapture Ratio = <span class=\"frac\"><span class=\"num\">GloBE Income of the CE</span><span class=\"den\">Net Income of the jurisdiction</span></span>"
+    },
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Where:"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "GloBE Income of the CE is the sum of GloBE Income of the Departing Constituent Entity determined in accordance with Chapter 3 for each Fiscal Year corresponding to the Deemed Distribution Tax Recapture Accounts for the jurisdiction; and",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Net Income of the jurisdiction is the sum of the Net GloBE Income of the jurisdiction determined In accordance with Article 5.1.2 for each Fiscal Year corresponding to the Deemed Distribution Tax Recapture Accounts for the jurisdiction.",
+     "label": "(b)"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/7.3"
+}

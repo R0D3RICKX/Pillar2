@@ -1,0 +1,2632 @@
+{
+ "chapter": 10,
+ "id": "10.1",
+ "title": "Defined Terms",
+ "page": 53,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "10.1.1",
+   "page": 53,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The terms set out below have the following definitions:",
+     "label": "10.1.1"
+    }
+   ]
+  }
+ ],
+ "definitions": [
+  {
+   "term": "Acceptable Financial Accounting Standard",
+   "id": "acceptable-financial-accounting-standard",
+   "page": 53,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Acceptable Financial Accounting Standard means International Financial Reporting Standards (IFRS) and the generally accepted accounting principles of Australia, Brazil, Canada, Member States of the European Union, Member States of the European Economic Area, Hong Kong (China), Japan, Mexico, New Zealand, the People’s Republic of China, the Republic of India, the Republic of Korea, Russia, Singapore, Switzerland, the United Kingdom, and the United States of America."
+    }
+   ]
+  },
+  {
+   "term": "Accrued Pension Expense",
+   "id": "accrued-pension-expense",
+   "page": 53,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Accrued Pension Expense means the difference between the amount of pension liability expense included in the Financial Accounting Net Income or Loss and the amount contributed to a Pension Fund for the Fiscal Year."
+    }
+   ]
+  },
+  {
+   "term": "Additional Current Top-up Tax",
+   "id": "additional-current-top-up-tax",
+   "page": 53,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Additional Current Top-up Tax is the amount of tax determined in Article 5.4 and any amount treated as Additional Current Top-up Tax determined under Article 5.4, such as the amount determined under Article 4.1.5 or Article 7.3."
+    }
+   ]
+  },
+  {
+   "term": "Additional Tier One Capital",
+   "id": "additional-tier-one-capital",
+   "page": 53,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Additional Tier One Capital means an instrument issued by a Constituent Entity pursuant to prudential regulatory requirements applicable to the banking sector that is convertible to equity or written down if a pre-specified trigger event occurs and that has other features which are designed to aid loss absorbency in the event of a financial crisis."
+    }
+   ]
+  },
+  {
+   "term": "Additions to Covered Taxes",
+   "id": "additions-to-covered-taxes",
+   "page": 53,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Additions to Covered Taxes is defined in Article 4.1.2."
+    }
+   ]
+  },
+  {
+   "term": "Adjusted Asset Gain",
+   "id": "adjusted-asset-gain",
+   "page": 53,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Adjusted Asset Gain in respect of Aggregate Asset Gain that is subject to an election under Article 3.2.6 means an amount equal to the Aggregate Asset Gain in the Election Year, reduced by any amount of such gain that has been applied against the Net Asset Loss in a prior Loss Year under Article 3.2.6(b) or (c)."
+    }
+   ]
+  },
+  {
+   "term": "Adjusted Covered Taxes",
+   "id": "adjusted-covered-taxes",
+   "page": 53,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Adjusted Covered Taxes is defined in Article 4.1.1."
+    }
+   ]
+  },
+  {
+   "term": "Aggregate Asset Gain",
+   "id": "aggregate-asset-gain",
+   "page": 53,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Aggregate Asset Gain in respect of an election under Article 3.2.6, means the net gain in the Election Year from the disposition of Local Tangible Assets by all Constituent Entities located in the jurisdiction excluding the gain or loss on a transfer of assets between Group Members."
+    }
+   ]
+  },
+  {
+   "term": "Agreed Administrative Guidance",
+   "id": "agreed-administrative-guidance",
+   "page": 54,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Agreed Administrative Guidance means guidance on the interpretation or administration of the GloBE Rules issued by the Inclusive Framework."
+    }
+   ]
+  },
+  {
+   "term": "Allocable Share of the Top-up Tax",
+   "id": "allocable-share-of-the-top-up-tax",
+   "page": 54,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Allocable Share of the Top-up Tax is defined in Article 2.2.1."
+    }
+   ]
+  },
+  {
+   "term": "Annual Election",
+   "id": "annual-election",
+   "page": 54,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Annual Election means an election made by a Filing Constituent Entity and that applies only for the Fiscal Year for which the election is made."
+    }
+   ]
+  },
+  {
+   "term": "Allocated Asset Gain",
+   "id": "allocated-asset-gain",
+   "page": 54,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Allocated Asset Gain in respect of an election under Article 3.2.6, means the Adjusted Asset Gain that is allocated to a Fiscal Year in the Lookback Period under Article 3.2.6(d)."
+    }
+   ]
+  },
+  {
+   "term": "Arm’s Length Principle",
+   "id": "arms-length-principle",
+   "page": 54,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Arm’s Length Principle means the principle under which transactions between Constituent Entities must be recorded by reference to the conditions that would have been obtained between independent enterprises in comparable transactions and under comparable circumstances."
+    }
+   ]
+  },
+  {
+   "term": "Asymmetric Foreign Currency Gains or Losses",
+   "id": "asymmetric-foreign-currency-gains-or-losses",
+   "page": 54,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Asymmetric Foreign Currency Gains or Losses means foreign currency gains or losses of an entity whose accounting and tax functional currencies are different and that are:"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "included in the computation of a Constituent Entity’s taxable income or loss and attributable to fluctuations in the exchange rate between its accounting functional currency and its tax functional currency;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "included in the computation of a Constituent Entity’s Financial Accounting Net Income or Loss and attributable to fluctuations in the exchange rate between its tax functional currency and its accounting functional currency;",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "included in the computation of a Constituent Entity’s Financial Accounting Net Income or Loss and attributable to fluctuations in the exchange rate between a third foreign currency and its accounting functional currency; and",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "attributable to fluctuations in the exchange rate between a third foreign currency and its tax functional currency, whether or not such foreign currency gain or loss is included in taxable income.",
+     "label": "(d)"
+    },
+    {
+     "type": "text",
+     "level": 0,
+     "text": "The tax functional currency is the functional currency used to determine the Constituent Entity’s taxable income or loss for a Covered Tax in the jurisdiction in which it is located. The accounting functional currency is the functional currency used to determine the Constituent Entity’s Financial Accounting Net Income or Loss. A third foreign currency is a currency that is not the Constituent Entity’s tax functional currency or accounting functional currency."
+    }
+   ]
+  },
+  {
+   "term": "Authorised Accounting Body",
+   "id": "authorised-accounting-body",
+   "page": 54,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Authorised Accounting Body is the body with legal authority in a jurisdiction to prescribe, establish, or accept accounting standards for financial reporting purposes."
+    }
+   ]
+  },
+  {
+   "term": "Authorised",
+   "id": "authorised",
+   "page": 54,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Authorised Financial Accounting Standard, in respect of any Entity, means a set of generally acceptable accounting principles permitted by an Authorised Accounting Body in the jurisdiction where that Entity is located."
+    }
+   ]
+  },
+  {
+   "term": "Average GloBE Income or Loss",
+   "id": "average-globe-income-or-loss",
+   "page": 54,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Average GloBE Income or Loss is defined in Article 5.5.2."
+    }
+   ]
+  },
+  {
+   "term": "Average GloBE Revenue",
+   "id": "average-globe-revenue",
+   "page": 54,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Average GloBE Revenue is defined in Article 5.5.2."
+    }
+   ]
+  },
+  {
+   "term": "Commentary",
+   "id": "commentary",
+   "page": 54,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Commentary means the Commentary to the GloBE Rules as developed by the OECD/G20 Inclusive Framework on Base Erosion and Profit Shifting."
+    }
+   ]
+  },
+  {
+   "term": "Consolidated Financial Statements",
+   "id": "consolidated-financial-statements",
+   "page": 54,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Consolidated Financial Statements means:"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the financial statements prepared by an Entity in accordance with an Acceptable Financial Accounting Standard, in which the assets, liabilities, income, expenses and cash flows of that Entity and the Entities in which it has a Controlling Interest are presented as those of a single economic unit;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "where an Entity meets the definition of a Group under Article 1.2.3, the financial statements of the Entity that are prepared in accordance with an Acceptable Financial Accounting Standard;",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "where the Ultimate Parent Entity has financial statements described in paragraph (a) or (b) that are not prepared in accordance with an Acceptable Financial Accounting Standard, the financial statements are those that have been prepared subject to adjustments to prevent any Material Competitive Distortions; and",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "where the Ultimate Parent Entity does not prepare financial statements described in the paragraphs above, the Consolidated Financial Statements of the Ultimate Parent Entity are those that would have been prepared if such Entity were required to prepare such statements in accordance with an Authorised Financial Accounting Standard that is either an Acceptable Financial Accounting Standard or another financial accounting standard that is adjusted to prevent any Material Competitive Distortions.",
+     "label": "(d)"
+    }
+   ]
+  },
+  {
+   "term": "Constituent Entity",
+   "id": "constituent-entity",
+   "page": 55,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Constituent Entity (CE) is defined in Article 1.3.1."
+    }
+   ]
+  },
+  {
+   "term": "Constituent Entity-owner",
+   "id": "constituent-entity-owner",
+   "page": 55,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Constituent Entity-owner means a Constituent Entity that directly or indirectly owns an Ownership Interest in another Constituent Entity of the same MNE Group."
+    }
+   ]
+  },
+  {
+   "term": "Controlled Foreign Company Tax Regime",
+   "id": "controlled-foreign-company-tax-regime",
+   "page": 55,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Controlled Foreign Company Tax Regime means a set of tax rules (other than an IIR) under which a direct or indirect shareholder of a foreign entity (the controlled foreign company or CFC) is subject to current taxation on its share of part or all of the income earned by the CFC, irrespective of whether that income is distributed currently to the shareholder."
+    }
+   ]
+  },
+  {
+   "term": "Controlling Interest",
+   "id": "controlling-interest",
+   "page": 55,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Controlling Interest means an Ownership Interest in an Entity such that the interest holder:"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "is required to consolidate the assets, liabilities, income, expenses and cash flows of the Entity on a line-by-line basis in accordance with an Acceptable Financial Accounting Standard; or",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "would have been required to consolidate the assets, liabilities, income, expenses and cash flows of the Entity on a line-by-line basis if the interest holder had prepared Consolidated Financial Statements.",
+     "label": "(b)"
+    },
+    {
+     "type": "text",
+     "level": 0,
+     "text": "A Main Entity is deemed to have the Controlling Interests of its Permanent Establishments."
+    }
+   ]
+  },
+  {
+   "term": "Cooperative",
+   "id": "cooperative",
+   "page": 55,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Cooperative means an Entity that collectively markets or acquires goods or services on behalf of its members and that is subject to a tax regime in the jurisdiction in which it is located that is designed to ensure tax neutrality in respect of members’ property or services sold through the cooperative and property or services acquired by members through the cooperative."
+    }
+   ]
+  },
+  {
+   "term": "Covered Taxes",
+   "id": "covered-taxes",
+   "page": 55,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Covered Taxes is defined in Article 4.2."
+    }
+   ]
+  },
+  {
+   "term": "Deductible Dividend",
+   "id": "deductible-dividend",
+   "page": 55,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Deductible Dividend means, with respect to a Constituent Entity that is subject to a Deductible Dividend Regime,"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "a distribution of profits to the holder of an Ownership Interest that is deductible from taxable income of the Constituent Entity under the laws of the jurisdiction in which it is located; or",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "a patronage dividend to a member of a Cooperative.",
+     "label": "(b)"
+    }
+   ]
+  },
+  {
+   "term": "Deductible Dividend Regime",
+   "id": "deductible-dividend-regime",
+   "page": 55,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Deductible Dividend Regime means a tax regime designed to yield a single level of taxation on the owners of an Entity through a deduction from the income of the Entity for distributions of profits to the owners. For this purpose, patronage dividends of a Cooperative are treated as distributions to owners. A Deductible Dividend Regime also includes a regime applicable to Cooperatives that exempts the Cooperative from taxation."
+    }
+   ]
+  },
+  {
+   "term": "Deemed Distribution Tax",
+   "id": "deemed-distribution-tax",
+   "page": 55,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Deemed Distribution Tax is defined in Article 7.3.2."
+    }
+   ]
+  },
+  {
+   "term": "Deemed Distribution Tax Recapture Account",
+   "id": "deemed-distribution-tax-recapture-account",
+   "page": 56,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Deemed Distribution Tax Recapture Account means an account maintained in accordance with Article 7.3.3."
+    }
+   ]
+  },
+  {
+   "term": "Departing Constituent Entity",
+   "id": "departing-constituent-entity",
+   "page": 56,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Departing Constituent Entity means a Constituent Entity that is subject to an election under Article 7.3.1 and that leaves the MNE Group or transfers substantially all of its assets to a person that is not a Constituent Entity of the same MNE Group located in the same jurisdiction."
+    }
+   ]
+  },
+  {
+   "term": "Designated Filing Entity",
+   "id": "designated-filing-entity",
+   "page": 56,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Designated Filing Entity means the Constituent Entity, other the Ultimate Parent Entity, that has been appointed by the MNE Group to file the GloBE Information Return on behalf of the MNE Group."
+    }
+   ]
+  },
+  {
+   "term": "Designated Local Entity",
+   "id": "designated-local-entity",
+   "page": 56,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Designated Local Entity means the Constituent Entity of an MNE Group that is located in [insert name of implementing-Jurisdiction] and that has been appointed by the other Constituent Entities located in [insert name of implementing-Jurisdiction] of the MNE Group to file the GloBE Information Return, or to submit the notifications under Article 8.1.3."
+    }
+   ]
+  },
+  {
+   "term": "Disallowed Accrual",
+   "id": "disallowed-accrual",
+   "page": 56,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Disallowed Accrual is defined in Article 4.4.6."
+    }
+   ]
+  },
+  {
+   "term": "Disposition Recapture Ratio",
+   "id": "disposition-recapture-ratio",
+   "page": 56,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Disposition Recapture Ratio is defined in Article 7.3.8."
+    }
+   ]
+  },
+  {
+   "term": "Disqualified Refundable Imputation Tax",
+   "id": "disqualified-refundable-imputation-tax",
+   "page": 56,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Disqualified Refundable Imputation Tax means any amount of Tax, other than a Qualified Imputation Tax, accrued or paid by a Constituent Entity that is:"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "refundable to the beneficial owner of a dividend distributed by such Constituent Entity in respect of that dividend or creditable by the beneficial owner against a tax liability other than a tax liability in respect of such dividend; or",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "refundable to the distributing corporation upon distribution of a dividend.",
+     "label": "(b)"
+    }
+   ]
+  },
+  {
+   "term": "Dual-listed Arrangement",
+   "id": "dual-listed-arrangement",
+   "page": 56,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Dual-listed Arrangement means an arrangement entered into by two or more Ultimate Parent Entities of separate Groups, under which:"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the Ultimate Parent Entities agree to combine their business by contract alone;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "pursuant to contractual arrangements the Ultimate Parent Entities will make distributions (with respect to dividends and in liquidation) to their shareholders based on a fixed ratio;",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "their activities are managed as a single economic entity under contractual arrangements while retaining their separate legal identities;",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the Ownership Interests in the Ultimate Parent Entities comprising the agreement are quoted, traded or transferred independently in different capital markets; and",
+     "label": "(d)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the Ultimate Parent Entities prepare Consolidated Financial Statements in which the assets, liabilities, income, expenses and cash flows of all the Entities of the Groups are presented together as those of a single economic unit and that are required by a regulatory regime to be externally audited.",
+     "label": "(e)"
+    }
+   ]
+  },
+  {
+   "term": "Effective Tax Rate",
+   "id": "effective-tax-rate",
+   "page": 56,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Effective Tax Rate (ETR) is defined in Article 5.1.1."
+    }
+   ]
+  },
+  {
+   "term": "Election Year",
+   "id": "election-year",
+   "page": 56,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Election Year in respect of an Annual Election means the year for which the election is made."
+    }
+   ]
+  },
+  {
+   "term": "Eligible Distribution Tax System",
+   "id": "eligible-distribution-tax-system",
+   "page": 56,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Eligible Distribution Tax System means a corporate income tax system that"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "imposes an income tax on the corporation with the tax generally payable only when the corporation distributes profits to shareholders, is deemed to distribute profits to shareholders, or incurs certain non-business expenses;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "imposes tax at a rate equal to or in excess of the Minimum Rate; and",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "was in force on or before 1 July 2021.",
+     "label": "(c)"
+    }
+   ]
+  },
+  {
+   "term": "Eligible Employees",
+   "id": "eligible-employees",
+   "page": 57,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Eligible Employees means employees, including part-time employees, of a Constituent Entity that is a member of the MNE Group and independent contractors participating in the ordinary operating activities of the MNE Group under the direction and control of the MNE Group."
+    }
+   ]
+  },
+  {
+   "term": "Eligible Payroll Costs",
+   "id": "eligible-payroll-costs",
+   "page": 57,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Eligible Payroll Costs means employee compensation expenditures (including salaries, wages, and other expenditures that provide a direct and separate personal benefit to the employee, such as health insurance and pension contributions), payroll and employment taxes, and employer social security contributions."
+    }
+   ]
+  },
+  {
+   "term": "Eligible Tangible Assets",
+   "id": "eligible-tangible-assets",
+   "page": 57,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Eligible Tangible Assets is defined in Article 5.3.4."
+    }
+   ]
+  },
+  {
+   "term": "Entity",
+   "id": "entity",
+   "page": 57,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Entity means:"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "any legal person (other than a natural person); or",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "an arrangement that prepares separate financial accounts, such as a partnership or trust.",
+     "label": "(b)"
+    }
+   ]
+  },
+  {
+   "term": "ETR Adjustment Article",
+   "id": "etr-adjustment-article",
+   "page": 57,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "ETR Adjustment Article means Article 3.2.6, Article 4.4.4, Article 4.6.1, Article 4.6.4, and Article 7.3."
+    }
+   ]
+  },
+  {
+   "term": "Excess Profit",
+   "id": "excess-profit",
+   "page": 57,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Excess Profit is defined in Article 5.2.2."
+    }
+   ]
+  },
+  {
+   "term": "Excluded Dividends",
+   "id": "excluded-dividends",
+   "page": 57,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Excluded Dividends means dividends or other distributions received or accrued in respect of an Ownership Interest, except for:"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "a Short-term Portfolio Shareholding, and",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "an Ownership Interest in an Investment Entity that is subject to an election under Article 7.6.",
+     "label": "(b)"
+    }
+   ]
+  },
+  {
+   "term": "Excluded Entity",
+   "id": "excluded-entity",
+   "page": 57,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Excluded Entity is defined in Article 1.5.1 and Article 1.5.2."
+    }
+   ]
+  },
+  {
+   "term": "Excluded Equity Gain or Loss",
+   "id": "excluded-equity-gain-or-loss",
+   "page": 57,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Excluded Equity Gain or Loss means the gain, profit or loss included in the Financial Accounting Net Income or Loss of the Constituent Entity arising from:"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "gains and losses from changes in fair value of an Ownership Interest, except for a Portfolio Shareholding;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "profit or loss in respect of an Ownership Interest included under the equity method of accounting; and",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "gains and losses from disposition of an Ownership Interest, except for a disposition of a Portfolio Shareholding.",
+     "label": "(c)"
+    }
+   ]
+  },
+  {
+   "term": "Filing Constituent Entity",
+   "id": "filing-constituent-entity",
+   "page": 57,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Filing Constituent Entity is an Entity filing the GloBE Information Return in accordance with Article 8.1."
+    }
+   ]
+  },
+  {
+   "term": "Financial Accounting Net Income or Loss",
+   "id": "financial-accounting-net-income-or-loss",
+   "page": 57,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Financial Accounting Net Income or Loss is defined in Article 3.1.2."
+    }
+   ]
+  },
+  {
+   "term": "Fiscal Year",
+   "id": "fiscal-year",
+   "page": 57,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Fiscal Year means an accounting period with respect to which the Ultimate Parent Entity of the MNE Group prepares its Consolidated Financial Statements. In the case of Consolidated Financial Statements as defined in paragraph (d) of its definition, Fiscal Year means the calendar year."
+    }
+   ]
+  },
+  {
+   "term": "Five-Year Election",
+   "id": "five-year-election",
+   "page": 57,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Five-Year Election means an election made by a Filing Constituent Entity with respect to a Fiscal Year (the election year) that cannot be revoked with respect to the election year or the four succeeding Fiscal Years. If a Five-Year Election is revoked with respect to a Fiscal Year (the revocation year), a new election cannot be made with respect to the four Fiscal Years succeeding the revocation year."
+    }
+   ]
+  },
+  {
+   "term": "General Government",
+   "id": "general-government",
+   "page": 57,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "General Government means the central administration, agencies whose operations are under its effective control, state and local governments and their administrations."
+    }
+   ]
+  },
+  {
+   "term": "GloBE Implementation Framework",
+   "id": "globe-implementation-framework",
+   "page": 57,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "GloBE Implementation Framework means the procedures to be developed by the Inclusive Framework on BEPS in order to develop administrative rules, guidance, and procedures that will facilitate the co-ordinated implementation of the GloBE Rules."
+    }
+   ]
+  },
+  {
+   "term": "GloBE Income of all Constituent Entities",
+   "id": "globe-income-of-all-constituent-entities",
+   "page": 57,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "GloBE Income of all Constituent Entities is defined in Article 5.1.2(a)"
+    }
+   ]
+  },
+  {
+   "term": "GloBE Income or Loss",
+   "id": "globe-income-or-loss",
+   "page": 58,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "GloBE Income or Loss of a Constituent Entity is defined in Article 3.1.1."
+    }
+   ]
+  },
+  {
+   "term": "GloBE Information Return",
+   "id": "globe-information-return",
+   "page": 58,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "GloBE Information Return means that standardized return to be developed in accordance with the GloBE Implementation Framework that contains the information described in Article 8.1.4."
+    }
+   ]
+  },
+  {
+   "term": "GloBE Loss Deferred Tax Asset",
+   "id": "globe-loss-deferred-tax-asset",
+   "page": 58,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "GloBE Loss Deferred Tax Asset is defined in Article 4.5."
+    }
+   ]
+  },
+  {
+   "term": "GloBE Loss Election",
+   "id": "globe-loss-election",
+   "page": 58,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "GloBE Loss Election is defined in Article 4.5.1."
+    }
+   ]
+  },
+  {
+   "term": "GloBE Losses of all Constituent Entities",
+   "id": "globe-losses-of-all-constituent-entities",
+   "page": 58,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "GloBE Losses of all Constituent Entities is defined in Article 5.1.2(b)."
+    }
+   ]
+  },
+  {
+   "term": "GloBE Reorganisation",
+   "id": "globe-reorganisation",
+   "page": 58,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "GloBE Reorganisation means a transformation or transfer of assets and liabilities such as in a merger, demerger, liquidation, or similar transaction where:"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the consideration for the transfer is, in whole or in significant part, equity interests issued by the acquiring Constituent Entity or by a person connected with the acquiring Constituent Entity, or, in the case of a liquidation, equity interests of the target (or, when no consideration is provided, where the issuance of an equity interest would have no economic significance);",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the disposing Constituent Entity’s gain or loss on those assets is not subject to tax, in whole or in part; and",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the tax laws of the jurisdiction in which the acquiring Constituent Entity is located require the acquiring Constituent Entity to compute taxable income after the disposition or acquisition using the disposing Constituent Entity’s tax basis in the assets, adjusted for any Non-qualifying Gain or Loss on the disposition or acquisition.",
+     "label": "(c)"
+    }
+   ]
+  },
+  {
+   "term": "GloBE Revenue",
+   "id": "globe-revenue",
+   "page": 58,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "GloBE Revenue is defined in Article 5.5.3(a) for the purposes of Article 5.5.2."
+    }
+   ]
+  },
+  {
+   "term": "GloBE Rules",
+   "id": "globe-rules",
+   "page": 58,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "GloBE Rules means this set of rules as developed by the OECD/G20 Inclusive Framework on Base Erosion and Profit Shifting."
+    }
+   ]
+  },
+  {
+   "term": "GloBE Safe Harbour",
+   "id": "globe-safe-harbour",
+   "page": 58,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "GloBE Safe Harbour means the exception provided in Article 8.2.1 to facilitate compliance by MNEs and administration by tax authorities. The conditions under which the Constituent Entities of an MNE Group located in a jurisdiction are eligible to the GloBE Safe Harbour will be established in accordance with a common and agreed process to be defined as part of the work undertaken by the Inclusive Framework on BEPS to develop the GloBE Implementation Framework."
+    }
+   ]
+  },
+  {
+   "term": "Governmental Entity",
+   "id": "governmental-entity",
+   "page": 58,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Governmental Entity means an Entity that meets all of the following criteria set out in paragraphs (a) to (d) below:"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "it is part of or wholly-owned by a government (including any political subdivision or local authority thereof);",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "it has the principal purpose of:",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "fulfilling a government function; or",
+     "label": "(i)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "managing or investing that government’s or jurisdiction’s assets through the making and holding of investments, asset management, and related investment activities for the government’s or jurisdiction’s assets;",
+     "label": "(ii)"
+    },
+    {
+     "type": "text",
+     "level": 1,
+     "text": "and does not carry on a trade or business;"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "it is accountable to the government on its overall performance, and provides annual information reporting to the government; and",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "its assets vest in such government upon dissolution and to the extent it distributes net earnings, such net earnings are distributed solely to such government with no portion of its net earnings inuring to the benefit of any private person.",
+     "label": "(d)"
+    }
+   ]
+  },
+  {
+   "term": "Group",
+   "id": "group",
+   "page": 59,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Group is defined in Article 1.2.2 and 1.2.3."
+    }
+   ]
+  },
+  {
+   "term": "Group Entity",
+   "id": "group-entity",
+   "page": 59,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Group Entity, in respect of any Entity or Group, means an Entity that is a member of the same Group."
+    }
+   ]
+  },
+  {
+   "term": "High-Tax Counterparty",
+   "id": "high-tax-counterparty",
+   "page": 59,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "High-Tax Counterparty means a Constituent Entity that is located in a jurisdiction that is not a Low-Tax Jurisdiction or that is located in a jurisdiction that would not be a Low-Tax Jurisdiction if its ETR were determined without regard to any income or expense accrued by that Entity in respect of an Intragroup Financing Arrangement."
+    }
+   ]
+  },
+  {
+   "term": "IFRS",
+   "id": "ifrs",
+   "page": 59,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "IFRS means the International Financial Reporting Standards."
+    }
+   ]
+  },
+  {
+   "term": "IIR",
+   "id": "iir",
+   "page": 59,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "IIR means the rules set out in Article 2.1 to Article 2.3."
+    }
+   ]
+  },
+  {
+   "term": "Included Revaluation Method Gain or Loss",
+   "id": "included-revaluation-method-gain-or-loss",
+   "page": 59,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Included Revaluation Method Gain or Loss means the net gain or loss, increased or decreased by any associated Covered Taxes, for the Fiscal Year in respect of all property, plant and equipment that arises under an accounting method or practice that:"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "periodically adjusts the carrying value of such property to its fair value;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "records the changes in value in Other Comprehensive Income; and",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "does not subsequently report the gains or losses recorded in Other Comprehensive Income through profit and loss.",
+     "label": "(c)"
+    }
+   ]
+  },
+  {
+   "term": "Insurance Investment Entity",
+   "id": "insurance-investment-entity",
+   "page": 59,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Insurance Investment Entity means an Entity that would meet the definition of an Investment Fund or a Real Estate Investment Vehicle except that it is established in relation to liabilities under an insurance or annuity contract and is wholly-owned by an Entity that is subject to regulation in its location as an insurance company."
+    }
+   ]
+  },
+  {
+   "term": "Intermediate Parent Entity",
+   "id": "intermediate-parent-entity",
+   "page": 59,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Intermediate Parent Entity means a Constituent Entity (other than a Ultimate Parent Entity, Partially-Owned Parent Entity, Permanent Establishment, or Investment Entity) that owns (directly or indirectly) an Ownership Interest in another Constituent Entity in the same MNE Group."
+    }
+   ]
+  },
+  {
+   "term": "International Organisation",
+   "id": "international-organisation",
+   "page": 59,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "International Organisation means any intergovernmental organisation (including a supranational organisation) or wholly-owned agency or instrumentality thereof that meets all of the criteria set out in paragraphs (a) to (c) below:"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "it is comprised primarily of governments;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "it has in effect a headquarters or substantially similar agreement (for example, arrangements that entitle the organisation’s offices or establishments in the jurisdiction (e.g. a subdivision, or a local, or regional office) to privileges and immunities) with the jurisdiction in which it is established; and",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "law or its governing documents prevent its income inuring to the benefit of private persons.",
+     "label": "(c)"
+    }
+   ]
+  },
+  {
+   "term": "International Shipping Income",
+   "id": "international-shipping-income",
+   "page": 59,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "International Shipping Income is defined in Article 3.3.2."
+    }
+   ]
+  },
+  {
+   "term": "Intragroup Financing Arrangement",
+   "id": "intragroup-financing-arrangement",
+   "page": 59,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Intragroup Financing Arrangement means any arrangement entered into between two or more members of the MNE Group whereby a High Tax Counterparty directly or indirectly provides credit or otherwise makes an investment in a Low Tax Entity."
+    }
+   ]
+  },
+  {
+   "term": "Investment Entity",
+   "id": "investment-entity",
+   "page": 59,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Investment Entity means:"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "an Investment Fund or a Real Estate Investment Vehicle;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "an Entity that is at least 95% owned directly by an Entity described in paragraph (a) or through a chain of such Entities and that operates exclusively or almost exclusively to hold assets or invest funds for the benefit of such Investment Entities; and",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "an Entity where at least 85% of the value of the Entity is owned by an Entity referred to in paragraph (a) provided that substantially all of the Entity’s income is Excluded Dividends or Excluded Equity Gain or Loss that is excluded from the computation of GloBE Income or Loss in accordance with Articles 3.2.1 (b) or (c).",
+     "label": "(c)"
+    }
+   ]
+  },
+  {
+   "term": "Investment Fund",
+   "id": "investment-fund",
+   "page": 60,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Investment Fund means an Entity that meets all of the criteria set out in paragraphs (a) to (g) below:"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "it is designed to pool assets (which may be financial and non-financial) from a number of investors (some of which are not connected);",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "it invests in accordance with a defined investment policy;",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "it allows investors to reduce transaction, research, and analytical costs, or to spread risk collectively;",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "it is primarily designed to generate investment income or gains, or protection against a particular or general event or outcome;",
+     "label": "(d)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "investors have a right to return from the assets of the fund or income earned on those assets, based on the contributions made by those investors;",
+     "label": "(e)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the Entity or its management is subject to a regulatory regime in the jurisdiction in which it is established or managed (including appropriate anti-money laundering and investor protection regulation); and",
+     "label": "(f)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "it is managed by investment fund management professionals on behalf of the investors.",
+     "label": "(g)"
+    }
+   ]
+  },
+  {
+   "term": "Joint Venture",
+   "id": "joint-venture",
+   "page": 60,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Joint Venture (JV) means an Entity whose financial results are reported under the equity method in the Consolidated Financial Statements of the Ultimate Parent Entity provided that the Ultimate Parent Entity holds directly or indirectly at least 50% of its Ownership Interests. A Joint Venture does not include:"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "an Ultimate Parent Entity of an MNE Group that is subject to the GloBE Rules;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "an Excluded Entity as defined by Article 1.5.1;",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "an Entity whose Ownership Interest held by the MNE Group are held directly through an Excluded Entity referred in Article 1.5.1 and the Entity:",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "operates exclusively or almost exclusively to hold assets or invest funds for the benefit of its investors;",
+     "label": "(i)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "carries out activities that are ancillary to those carried out by the Excluded Entity; or",
+     "label": "(ii)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "substantially all of its income is excluded from the computation of GloBE Income or Loss in accordance with Articles 3.2.1(b) and (c).",
+     "label": "(iii)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "an Entity that is held by an MNE Group composed exclusively of Excluded Entities; or",
+     "label": "(d)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "a JV Subsidiary.",
+     "label": "(e)"
+    }
+   ]
+  },
+  {
+   "term": "JV Group",
+   "id": "jv-group",
+   "page": 60,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "JV Group means a Joint Venture and its JV Subsidiaries."
+    }
+   ]
+  },
+  {
+   "term": "JV Group Top-up Tax",
+   "id": "jv-group-top-up-tax",
+   "page": 60,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "JV Group Top-up Tax means the Ultimate Parent Entity’s Allocable Share of the Top-up Tax of all members of the JV Group."
+    }
+   ]
+  },
+  {
+   "term": "JV Subsidiary",
+   "id": "jv-subsidiary",
+   "page": 60,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "JV Subsidiary means an Entity whose assets, liabilities, income, expenses and cash flows are consolidated by a Joint Venture under an Acceptable Financial Accounting Standard (or would have been required had it been required to consolidate such items in accordance with an Acceptable Financial Accounting Standard). A Permanent Establishment whose Main Entity is the Joint Venture or a JV Subsidiary shall be treated as a separate JV Subsidiary."
+    }
+   ]
+  },
+  {
+   "term": "Liable Constituent Entity (or Entities)",
+   "id": "liable-constituent-entity-or-entities",
+   "page": 60,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Liable Constituent Entity (or Entities) means one or several Constituent Entities located in [insert name of implementing-Jurisdiction] that could be liable for Top-up Tax or subject to an adjustment under Chapter 2 if the GloBE Safe Harbour in Article 8.2.1 did not apply."
+    }
+   ]
+  },
+  {
+   "term": "Local Tangible Asset",
+   "id": "local-tangible-asset",
+   "page": 61,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Local Tangible Asset means immovable property located in the same jurisdiction as the Constituent Entity."
+    }
+   ]
+  },
+  {
+   "term": "Look-back Period",
+   "id": "look-back-period",
+   "page": 61,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Look-back Period in respect of an election under Article 3.2.6, means the Election Year and the four prior Fiscal Years."
+    }
+   ]
+  },
+  {
+   "term": "Loss Year",
+   "id": "loss-year",
+   "page": 61,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Loss Year in respect of jurisdiction for which the Filing Constituent Entity has made an election under Article 3.2.6, means a Fiscal Year in the Lookback Period for which there is a Net Asset Loss for a Constituent Entity located in that jurisdiction and the total amount of Net Asset Loss of all such Constituent Entities exceeds the total amount of their Net Asset Gain."
+    }
+   ]
+  },
+  {
+   "term": "Low-Taxed Constituent Entity",
+   "id": "low-taxed-constituent-entity",
+   "page": 61,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Low-Taxed Constituent Entity means a Constituent Entity of the MNE Group that is located in a Low-Tax Jurisdiction or a Stateless Constituent Entity that, in respect of a Fiscal Year, has GloBE Income and is subject to an Effective Tax Rate (as determined under Chapter 5) in that Fiscal Year is lower than the Minimum Rate."
+    }
+   ]
+  },
+  {
+   "term": "Low-Tax Entity",
+   "id": "low-tax-entity",
+   "page": 61,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Low-Tax Entity means a Constituent Entity located in a Low Tax Jurisdiction or a jurisdiction that would be a Low-Tax Jurisdiction if the Effective Tax Rate for the jurisdiction were determined without regard to any income or expense accrued by that Entity in respect of an Intragroup Financing Arrangement."
+    }
+   ]
+  },
+  {
+   "term": "Low-Tax Jurisdiction",
+   "id": "low-tax-jurisdiction",
+   "page": 61,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Low-Tax Jurisdiction, in respect of an MNE Group in any Fiscal Year, means a jurisdiction where the MNE Group has Net GloBE Income and is subject to an Effective Tax Rate (as determined under Chapter 5) in that period that is lower than the Minimum Rate."
+    }
+   ]
+  },
+  {
+   "term": "Main Entity",
+   "id": "main-entity",
+   "page": 61,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Main Entity, in respect of a Permanent Establishment, is the Entity that includes the Financial Accounting Net Income or Loss of the Permanent Establishment in its financial statements."
+    }
+   ]
+  },
+  {
+   "term": "Material Competitive Distortion",
+   "id": "material-competitive-distortion",
+   "page": 61,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Material Competitive Distortion in respect of the application of a specific principle or procedure under a set of generally accepted accounting principles means an application that results in an aggregate variation greater than EUR 75 million in a Fiscal Year as compared to the amount that would have been determined by applying the corresponding IFRS principle or procedure. Where the application of a specific principle or procedure results in a Material Competitive Distortion, the accounting treatment of any item or transaction subject to that principle or procedure must be adjusted to conform to the treatment required for the item or transaction under IFRS in accordance with any Agreed Administrative Guidance."
+    }
+   ]
+  },
+  {
+   "term": "Minimum Rate",
+   "id": "minimum-rate",
+   "page": 61,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Minimum Rate means fifteen percent (15%)."
+    }
+   ]
+  },
+  {
+   "term": "Minority-Owned Constituent Entity",
+   "id": "minority-owned-constituent-entity",
+   "page": 61,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Minority-Owned Constituent Entity means a Constituent Entity where the Ultimate Parent Entity has a direct or indirect Ownership Interest in that Entity of 30% or less."
+    }
+   ]
+  },
+  {
+   "term": "Minority-Owned Parent Entity",
+   "id": "minority-owned-parent-entity",
+   "page": 61,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Minority-Owned Parent Entity means a Minority-Owned Constituent Entity that holds, directly or indirectly, the Controlling Interests of another Minority-Owned Constituent Entity, except where the Controlling Interests of the first-mentioned Entity are held, directly or indirectly, by another Minority-Owned Constituent Entity."
+    }
+   ]
+  },
+  {
+   "term": "Minority-Owned Subgroup",
+   "id": "minority-owned-subgroup",
+   "page": 61,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Minority-Owned Subgroup means a Minority-Owned Parent Entity and its Minority-Owned Subsidiaries."
+    }
+   ]
+  },
+  {
+   "term": "Minority-Owned Subsidiary",
+   "id": "minority-owned-subsidiary",
+   "page": 61,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Minority-Owned Subsidiary means a Minority-Owned Constituent Entity whose Controlling Interests are held, directly or indirectly, by a Minority-Owned Parent Entity."
+    }
+   ]
+  },
+  {
+   "term": "MNE Group",
+   "id": "mne-group",
+   "page": 61,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "MNE Group is defined in Articles 1.2.1."
+    }
+   ]
+  },
+  {
+   "term": "MNE Group’s Allocable Share of the Investment Entity’s GloBE Income",
+   "id": "mne-groups-allocable-share-of-the-investment-entitys-globe-income",
+   "page": 61,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "MNE Group’s Allocable Share of the Investment Entity’s GloBE Income is defined in Article 7.4.4."
+    }
+   ]
+  },
+  {
+   "term": "Multi-Parented MNE Group",
+   "id": "multi-parented-mne-group",
+   "page": 61,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Multi-Parented MNE Group means two or more Groups where:"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the Ultimate Parent Entities of those Groups enter into an arrangement that is a Stapled Structure or a Dual-listed Arrangement; and",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "at least one Entity or Permanent Establishment of the combined Group is located in a different jurisdiction with respect to the location of the other Entities of the combined Group.",
+     "label": "(b)"
+    }
+   ]
+  },
+  {
+   "term": "Net Asset Gain",
+   "id": "net-asset-gain",
+   "page": 62,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Net Asset Gain in respect of an election under Article 3.2.6, means the net gain from the disposition of Local Tangible Assets by a Constituent Entity located in the jurisdiction for which the election was made excluding the gain or loss on a transfer of assets to another Group Member."
+    }
+   ]
+  },
+  {
+   "term": "Net Asset Loss",
+   "id": "net-asset-loss",
+   "page": 62,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Net Asset Loss in respect of a Constituent Entity and a Fiscal Year, means the net loss from the disposition of Local Tangible Assets by that Constituent Entity in that year excluding the gain or loss on a transfer of assets to another Group Member. The amount of Net Asset Loss shall be reduced by the amount of Net Asset Gain or Adjusted Asset Gain which is set-off against such loss pursuant to the application of Article 3.2.6(b) or (c) as a result of a previous election made under Article 3.2.6."
+    }
+   ]
+  },
+  {
+   "term": "Net Book Value of Tangible Assets",
+   "id": "net-book-value-of-tangible-assets",
+   "page": 62,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Net Book Value of Tangible Assets means the average of the beginning and end values of Tangible Assets after taking into account accumulated depreciation, depletion, and impairment, as recorded in the financial statements."
+    }
+   ]
+  },
+  {
+   "term": "Net GloBE Income",
+   "id": "net-globe-income",
+   "page": 62,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Net GloBE Income of a jurisdiction is defined in Article 5.1.2."
+    }
+   ]
+  },
+  {
+   "term": "Net GloBE Loss",
+   "id": "net-globe-loss",
+   "page": 62,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Net GloBE Loss of a jurisdiction is the nil or negative amount, if any, computed in accordance with the following formula:"
+    },
+    {
+     "type": "formula",
+     "level": 0,
+     "text": "Net GloBE Loss = GloBE Income of all Constituent Entities − GloBE Losses of all Constituent Entities"
+    },
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Where:"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the GloBE Income of all Constituent Entities is the sum of the GloBE Income of all Constituent Entities located in the jurisdiction determined in accordance with Chapter 3 for the Fiscal Year; and",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the GloBE Losses of all Constituent Entities is the sum of the GloBE Losses of all Constituent Entities located in the jurisdiction determined in accordance with Chapter 3 for the Fiscal Year.",
+     "label": "(b)"
+    }
+   ]
+  },
+  {
+   "term": "Net Taxes Expense",
+   "id": "net-taxes-expense",
+   "page": 62,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Net Taxes Expense means the net amount of:"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "any Covered Taxes accrued as an expense and any current and deferred Covered Taxes included in the income tax expense, including Covered Taxes on income that is excluded from the GloBE Income or Loss computation;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "any deferred tax asset attributable to a loss for the Fiscal Year;",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "any Qualified Domestic Minimum Top-up Tax accrued as an expense;",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "any taxes arising pursuant to the GloBE rules accrued as an expense; and",
+     "label": "(d)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "any Disqualified Refundable Imputation Tax accrued as an expense.",
+     "label": "(e)"
+    }
+   ]
+  },
+  {
+   "term": "Non-profit Organisation",
+   "id": "non-profit-organisation",
+   "page": 62,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Non-profit Organisation means an Entity that meets all of the following criteria:"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "it is established and operated in its jurisdiction of residence:",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "exclusively for religious, charitable, scientific, artistic, cultural, athletic, educational, or other similar purposes; or",
+     "label": "(i)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "as a professional organisation, business league, chamber of commerce, labour organisation, agricultural or horticultural organisation, civic league or an organisation operated exclusively for the promotion of social welfare;",
+     "label": "(ii)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "substantially all of the income from the activities mentioned in paragraph (a) is exempt from income tax in its jurisdiction of residence;",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "it has no shareholders or members who have a proprietary or beneficial interest in its income or assets;",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the income or assets of the Entity may not be distributed to, or applied for the benefit of, a private person or non-charitable Entity other than:",
+     "label": "(d)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "pursuant to the conduct of the Entity’s charitable activities;",
+     "label": "(i)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "as payment of reasonable compensation for services rendered or for the use of property or capital; or",
+     "label": "(ii)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "as payment representing the fair market value of property which the Entity has purchased, and",
+     "label": "(iii)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "upon termination, liquidation or dissolution of the Entity, all of its assets must be distributed or revert to a Non-profit Organisation or to the government (including any Governmental Entity) of the Entity’s jurisdiction of residence or any political subdivision thereof;",
+     "label": "(e)"
+    },
+    {
+     "type": "text",
+     "level": 1,
+     "text": "but does not include any Entity carrying on a trade or business that is not directly related to the purposes for which it was established."
+    }
+   ]
+  },
+  {
+   "term": "Non-Qualified Refundable Tax Credit",
+   "id": "non-qualified-refundable-tax-credit",
+   "page": 63,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Non-Qualified Refundable Tax Credit means a tax credit that is not a Qualified Refundable Tax Credit but that is refundable in whole or in part."
+    }
+   ]
+  },
+  {
+   "term": "Non-qualifying Gain or Loss",
+   "id": "non-qualifying-gain-or-loss",
+   "page": 63,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Non-qualifying Gain or Loss means the lesser of the gain or loss of the disposing Constituent Entity arising in connection with a GloBE Reorganisation that is subject to tax in the disposing Constituent Entity’s location and the financial accounting gain or loss arising in connection with the GloBE Reorganisation."
+    }
+   ]
+  },
+  {
+   "term": "Number of Employees",
+   "id": "number-of-employees",
+   "page": 63,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Number of Employees, for the purposes of the UTPR percentage, means the total number of employees on a full-time equivalent (FTE) basis of all the Constituent Entities resident for tax purposes in the relevant tax jurisdiction. For this purpose, independent contractors participating in the ordinary operating activities of the Constituent Entity are reported as employees. With regard to Permanent Establishments, employees should be allocated to the tax jurisdiction in which the Permanent Establishment is located when the payroll costs of such employees are included in the separate financial accounts of that Permanent Establishment as determined by Article 3.4.1 and adjusted in accordance with 3.4.2. The Number of Employees attributed to the tax jurisdiction of a Permanent Establishment shall not be taken into account for the Number of Employees of the tax jurisdiction of the Main Entity."
+    }
+   ]
+  },
+  {
+   "term": "OECD Model Tax Convention",
+   "id": "oecd-model-tax-convention",
+   "page": 63,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "OECD Model Tax Convention means the OECD (2017), Model Tax Convention on Income and on Capital: Condensed Version 2017, OECD Publishing, Paris, https://doi.org/10.1787/mtc_cond-2017-en."
+    }
+   ]
+  },
+  {
+   "term": "Other Comprehensive Income",
+   "id": "other-comprehensive-income",
+   "page": 63,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Other Comprehensive Income means items of income and expense that are not recognised in profit or loss as required or permitted by the Authorised Financial Accounting Standard used in the Consolidated Financial Statements. Other Comprehensive Income is usually reported as an adjustment to equity in the statement of financial position (balance sheet)."
+    }
+   ]
+  },
+  {
+   "term": "Ownership Interest",
+   "id": "ownership-interest",
+   "page": 63,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Ownership Interest means any equity interest that carries rights to the profits, capital or reserves of an Entity, including the profits, capital or reserves of a Main Entity’s Permanent Establishment(s)."
+    }
+   ]
+  },
+  {
+   "term": "Parent Entity",
+   "id": "parent-entity",
+   "page": 63,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Parent Entity means an Ultimate Parent Entity that is not an Excluded Entity, an Intermediate Parent Entity, or a Partially-Owned Parent Entity."
+    }
+   ]
+  },
+  {
+   "term": "Parent Entity’s Inclusion Ratio",
+   "id": "parent-entitys-inclusion-ratio",
+   "page": 63,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Parent Entity’s Inclusion Ratio is defined in Article 2.2.2."
+    }
+   ]
+  },
+  {
+   "term": "Partially-Owned Parent Entity",
+   "id": "partially-owned-parent-entity",
+   "page": 63,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Partially-Owned Parent Entity means a Constituent Entity (other than a Ultimate Parent Entity, Permanent Establishment, or Investment Entity) that:"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "owns (directly or indirectly) an Ownership Interest in another Constituent Entity of the same MNE Group; and",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "has more than 20% of the Ownership Interests in its profits held directly or indirectly by persons that are not Constituent Entities of the MNE Group.",
+     "label": "(b)"
+    }
+   ]
+  },
+  {
+   "term": "Passive Income",
+   "id": "passive-income",
+   "page": 64,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Passive Income means income included in GloBE Income that is:"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "a dividend or dividend equivalents;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "interest or interest equivalent;",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "rent;",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "royalty;",
+     "label": "(d)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "annuity; or",
+     "label": "(e)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "net gains from property of a type that produces income described in paragraphs (a) to (e), but only to the extent a Constituent Entity-owner is subject to tax on such income under a Controlled Foreign Company Tax Regime or as a result of an Ownership Interest in a Hybrid Entity.",
+     "label": "(f)"
+    }
+   ]
+  },
+  {
+   "term": "Pension Fund",
+   "id": "pension-fund",
+   "page": 64,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Pension Fund means:"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "an Entity that is established and operated in a jurisdiction exclusively or almost exclusively to administer or provide retirement benefits and ancillary or incidental benefits to individuals:",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "regulated as such by that jurisdiction or one of its political subdivisions or local authorities; or",
+     "label": "i."
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "those benefits are secured or otherwise protected by national regulations and funded by a pool of assets held through a fiduciary arrangement or trustor to secure the fulfilment of the corresponding pension obligations against a case of insolvency of the MNE Group; and",
+     "label": "ii."
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "a Pension Services Entity.",
+     "label": "(b)"
+    }
+   ]
+  },
+  {
+   "term": "Pension Services Entity",
+   "id": "pension-services-entity",
+   "page": 64,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Pension Services Entity means an Entity that is established and operated exclusively or almost exclusively:"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "to invest funds for the benefit of Entities referred to in paragraph (a) of the definition of Pension Fund; or",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "to carry out activities that are ancillary to those regulated activities carried out by the Entities referred to in paragraph (a) of the definition of Pension Fund provided that they are members of the same Group.",
+     "label": "(b)"
+    }
+   ]
+  },
+  {
+   "term": "Permanent Establishment",
+   "id": "permanent-establishment",
+   "page": 64,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Permanent Establishment means:"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "a place of business (including a deemed place of business) situated in a jurisdiction and treated as a permanent establishment in accordance with an applicable Tax Treaty in force provided that such jurisdiction taxes the income attributable to it in accordance with a provision similar to Article 7 of the OECD Model Tax Convention on Income and on Capital;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "if there is no applicable Tax Treaty in force, a place of business (including a deemed place of business) in respect of which a jurisdiction taxes under its domestic law the income attributable to such place of business on a net basis similar to the manner in which it taxes its own tax residents;",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "if a jurisdiction has no corporate income tax system, a place of business (including a deemed place of business) situated in that jurisdiction that would be treated as a permanent establishment in accordance with the OECD Model Tax Convention on Income and on Capital provided that such jurisdiction would have had the right to tax the income attributable to it in accordance with Article 7 of that model; or",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "a place of business (or a deemed place of business) that is not already described in paragraphs (a) to (c) through which operations are conducted outside the jurisdiction where the Entity is located provided that such jurisdiction exempts the income attributable to such operations.",
+     "label": "(d)"
+    }
+   ]
+  },
+  {
+   "term": "Policy Disallowed Expenses",
+   "id": "policy-disallowed-expenses",
+   "page": 65,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Policy Disallowed Expenses means:"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "expenses accrued by the Constituent Entity for illegal payments, including bribes and kickbacks; and",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "expenses accrued by the Constituent Entity for fines and penalties that equal or exceed EUR 50 000 (or an equivalent in the functional currency in which the Constituent Entity’s Financial Accounting Net Income or Loss was calculated).",
+     "label": "(b)"
+    }
+   ]
+  },
+  {
+   "term": "Portfolio Shareholding",
+   "id": "portfolio-shareholding",
+   "page": 65,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Portfolio Shareholding means Ownership Interests in an Entity that are held by the MNE Group and that carry rights to less than 10% of the profits, capital, reserves, or voting rights of that Entity at the date of the distribution or disposition."
+    }
+   ]
+  },
+  {
+   "term": "Prior Period Errors and Changes in Accounting Principles",
+   "id": "prior-period-errors-and-changes-in-accounting-principles",
+   "page": 65,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Prior Period Errors and Changes in Accounting Principles means all changes in the opening equity at the beginning of the Fiscal Year of a Constituent Entity attributable to:"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "a correction of an error in the determination of Financial Accounting Net Income in a previous Fiscal Year that affected the income or expenses includible in the computation of GloBE Income or Loss for such Fiscal Year, except to the extent such error correction resulted in a material decrease to a liability for Covered Taxes subject to Article 4.6; or",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "a change in accounting principle or policy that affects income or expenses includible in the computation of GloBE Income or Loss.",
+     "label": "(b)"
+    }
+   ]
+  },
+  {
+   "term": "Qualified Ancillary International Shipping Income",
+   "id": "qualified-ancillary-international-shipping-income",
+   "page": 65,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Qualified Ancillary International Shipping Income is defined in Article 3.3.3."
+    }
+   ]
+  },
+  {
+   "term": "Qualified Domestic Minimum Top-up Tax",
+   "id": "qualified-domestic-minimum-top-up-tax",
+   "page": 65,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Qualified Domestic Minimum Top-up Tax means a minimum tax that is included in the domestic law of a jurisdiction and that:"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "determines the Excess Profits of the Constituent Entities located in the jurisdiction (domestic Excess Profits) in a manner that is equivalent to the GloBE Rules;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "operates to increase domestic tax liability with respect to domestic Excess Profits to the Minimum Rate for the jurisdiction and Constituent Entities for a Fiscal Year; and",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "is implemented and administered in a way that is consistent with the outcomes provided for under the GloBE Rules and the Commentary, provided that such jurisdiction does not provide any benefits that are related to such rules.",
+     "label": "(c)"
+    },
+    {
+     "type": "text",
+     "level": 0,
+     "text": "A Qualified Domestic Minimum Top-up Tax may compute domestic Excess Profits based on an Acceptable Financial Accounting Standard permitted by the Authorised Accounting Body or an Authorised Financial Accounting Standard adjusted to prevent any Material Competitive Distortions, rather than the financial accounting standard used in the Consolidated Financial Statements."
+    }
+   ]
+  },
+  {
+   "term": "Qualified IIR",
+   "id": "qualified-iir",
+   "page": 65,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Qualified IIR means a set of rules equivalent to Article 2.1 to Article 2.3 of the GloBE Rules (including any provisions of the GloBE Rules associated with those articles) that are included in the domestic law of a jurisdiction and that are implemented and administered in a way that is consistent with the outcomes provided for under the GloBE Rules and the Commentary provided that such jurisdiction does not provide any benefits that are related to such rules."
+    }
+   ]
+  },
+  {
+   "term": "Qualified Imputation Tax",
+   "id": "qualified-imputation-tax",
+   "page": 65,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Qualified Imputation Tax means a Covered Tax accrued or paid by a Constituent Entity that is refundable or creditable to the beneficial owner of a dividend distributed by such Constituent Entity (or, in the case of a Covered Tax accrued or paid by a Permanent Establishment, a dividend distributed by the Main Entity) to the extent that the refund is payable, or the credit is provided:"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "by a jurisdiction other than the jurisdiction which imposed the Covered Taxes under a foreign tax credit regime;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "to a beneficial owner of the dividend that is subject to tax at a nominal rate that equals or exceeds the Minimum Rate on the dividend on a current basis under the domestic law of the jurisdiction which imposed the Covered Taxes on the Constituent Entity;",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "to an individual beneficial owner of the dividend who is tax resident in the jurisdiction which imposed the Covered Taxes on the Constituent Entity and who is subject to tax on the dividends as ordinary income; or",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "to a Governmental Entity, an International Organisation, a resident Non-profit Organisation, a resident Pension Fund, a resident Investment Entity that is not a Group Entity, or a resident life insurance company to the extent that the dividends are received in connection with a pension fund business and subject to tax in a similar manner as a dividend received by Pension Fund.",
+     "label": "(d)"
+    },
+    {
+     "type": "text",
+     "level": 0,
+     "text": "For purposes of paragraph (d), a Non-Profit Organisation or Pension Fund is resident in a jurisdiction if it is created and managed in that jurisdiction, and an Investment Entity is resident in a jurisdiction if it is created and regulated in the jurisdiction. A life insurance company is resident in the jurisdiction in which it is located."
+    }
+   ]
+  },
+  {
+   "term": "Qualified Refundable Tax Credit",
+   "id": "qualified-refundable-tax-credit",
+   "page": 66,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Qualified Refundable Tax Credit means a refundable tax credit designed in a way such that it must be paid as cash or available as cash equivalents within four years from when a Constituent Entity satisfies the conditions for receiving the credit under the laws of the jurisdiction granting the credit. A tax credit that is refundable in part is a Qualified Refundable Tax Credit to the extent it must be paid as cash or available as cash equivalents within four years from when a Constituent Entity satisfies the conditions for receiving the credit under the laws of the jurisdiction granting the credit. A Qualified Refundable Tax Credit does not include any amount of tax creditable or refundable pursuant to a Qualified Imputation Tax or a Disqualified Refundable Imputation Tax."
+    }
+   ]
+  },
+  {
+   "term": "Qualified UTPR",
+   "id": "qualified-utpr",
+   "page": 66,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Qualified UTPR means a set of rules equivalent to Article 2.4 to Article 2.6 of the GloBE Rules (including any provisions of the GloBE Rules associated with those articles) that are included in the domestic law of a jurisdiction and that are implemented and administered in a way that is consistent with the outcomes provided for under the GloBE Rules and the Commentary provided that such jurisdiction does not provide any benefits that are related to such rules."
+    }
+   ]
+  },
+  {
+   "term": "Qualifying Competent Authority Agreement",
+   "id": "qualifying-competent-authority-agreement",
+   "page": 66,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Qualifying Competent Authority Agreement means a bilateral or multilateral agreement or arrangement between Competent Authorities that provides for the automatic exchange of annual GloBE Information Returns."
+    }
+   ]
+  },
+  {
+   "term": "Real Estate Investment Vehicle",
+   "id": "real-estate-investment-vehicle",
+   "page": 66,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Real Estate Investment Vehicle means an Entity the taxation of which achieves a single level of taxation either in its hands or the hands of its interest holders (with at most one year of deferral), provided that that person holds predominantly immovable property and is itself widely held."
+    }
+   ]
+  },
+  {
+   "term": "Recaptured Deferred Tax Liability",
+   "id": "recaptured-deferred-tax-liability",
+   "page": 66,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Recaptured Deferred Tax Liability is defined in Article 4.4.4."
+    }
+   ]
+  },
+  {
+   "term": "Recapture Exception Accrual",
+   "id": "recapture-exception-accrual",
+   "page": 66,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Recapture Exception Accrual is defined in Article 4.4.5."
+    }
+   ]
+  },
+  {
+   "term": "Reductions to Covered Taxes",
+   "id": "reductions-to-covered-taxes",
+   "page": 66,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Reductions to Covered Taxes is defined in Article 4.1.3."
+    }
+   ]
+  },
+  {
+   "term": "Reference Jurisdiction",
+   "id": "reference-jurisdiction",
+   "page": 66,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Reference Jurisdiction is defined in Article 9.3.3."
+    }
+   ]
+  },
+  {
+   "term": "Reporting Fiscal Year",
+   "id": "reporting-fiscal-year",
+   "page": 66,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Reporting Fiscal Year means the Fiscal Year that is the subject of the GloBE Information Return."
+    }
+   ]
+  },
+  {
+   "term": "Short-term Portfolio Shareholding",
+   "id": "short-term-portfolio-shareholding",
+   "page": 66,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Short-term Portfolio Shareholding means a Portfolio Shareholding that has been economically held by the Constituent Entity that receives or accrues the dividends or other distributions for less than one year at the date of the distribution."
+    }
+   ]
+  },
+  {
+   "term": "Stapled Structure",
+   "id": "stapled-structure",
+   "page": 67,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Stapled Structure means an arrangement entered into by two or more Ultimate Parent Entities of separate Groups, under which:"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "50% or more of the Ownership Interests in the Ultimate Parent Entities of the separate Groups are by reason of form of ownership, restrictions on transfer, or other terms or conditions combined with each other, and cannot be transferred or traded independently. If the combined Ownership Interests are listed, they are quoted at a single price; and",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "one of those Ultimate Parent Entities prepares Consolidated Financial Statements in which the assets, liabilities, income, expenses and cash flows of all the Entities of the Groups are presented together as those of a single economic unit and that are required by a regulatory regime to be externally audited.",
+     "label": "(b)"
+    }
+   ]
+  },
+  {
+   "term": "Stateless Constituent Entity",
+   "id": "stateless-constituent-entity",
+   "page": 67,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Stateless Constituent Entity means a Constituent Entity described in Article 10.3.2(b) and Article 10.3.3(d)."
+    }
+   ]
+  },
+  {
+   "term": "Substance-based Income Exclusion",
+   "id": "substance-based-income-exclusion",
+   "page": 67,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Substance-based Income Exclusion is defined in Article 5.3."
+    }
+   ]
+  },
+  {
+   "term": "Tangible Assets",
+   "id": "tangible-assets",
+   "page": 67,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Tangible Assets, for the purposes of the UTPR percentage and for Article 9.3, means the Tangible Assets of all the Constituent Entities resident for tax purposes in the relevant tax jurisdiction. Tangible Assets do not include cash or cash equivalents, intangibles, or financial assets. With regard to Permanent Establishments, Tangible Assets should be allocated to the tax jurisdiction in which the Permanent Establishment is located provided those Tangible Assets are included in the separate financial accounts of that Permanent Establishment as determined by Article 3.4.1 and adjusted in accordance with Article 3.4.2. The Tangible Assets allocated to the tax jurisdiction of a Permanent Establishment shall not be taken into account for the Tangible Assets of the tax jurisdiction of the Main Entity."
+    }
+   ]
+  },
+  {
+   "term": "Tax",
+   "id": "tax",
+   "page": 67,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Tax means a compulsory unrequited payment to General Government."
+    }
+   ]
+  },
+  {
+   "term": "Taxable Distribution Method",
+   "id": "taxable-distribution-method",
+   "page": 67,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Taxable Distribution Method is defined in Article 7.6.2."
+    }
+   ]
+  },
+  {
+   "term": "Tax Treaty",
+   "id": "tax-treaty",
+   "page": 67,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Tax Treaty means an agreement for the avoidance of double taxation with respect to taxes on income and on capital."
+    }
+   ]
+  },
+  {
+   "term": "Tested Year",
+   "id": "tested-year",
+   "page": 67,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Tested Year is defined in Article 7.6.5."
+    }
+   ]
+  },
+  {
+   "term": "Testing Period",
+   "id": "testing-period",
+   "page": 67,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Testing Period is defined in Article 7.6.5."
+    }
+   ]
+  },
+  {
+   "term": "Top-up Tax",
+   "id": "top-up-tax",
+   "page": 67,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Top-up Tax means the top-up tax computed for the jurisdiction or Constituent Entity pursuant to Article 5.2."
+    }
+   ]
+  },
+  {
+   "term": "Top-up Tax Percentage",
+   "id": "top-up-tax-percentage",
+   "page": 67,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Top-up Tax Percentage is defined in Article 5.2.1."
+    }
+   ]
+  },
+  {
+   "term": "Total Deferred Tax Adjustment Amount",
+   "id": "total-deferred-tax-adjustment-amount",
+   "page": 67,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Total Deferred Tax Adjustment Amount is defined in Article 4.4.1."
+    }
+   ]
+  },
+  {
+   "term": "Total UTPR Top-up Tax Amount",
+   "id": "total-utpr-top-up-tax-amount",
+   "page": 67,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Total UTPR Top-up Tax Amount means the total amount of Top-up Tax that is allocable under the UTPR as defined in Article 2.4.1."
+    }
+   ]
+  },
+  {
+   "term": "Transition Year",
+   "id": "transition-year",
+   "page": 67,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Transition Year, for a jurisdiction, means the first Fiscal Year that the MNE Group comes within the scope of the GloBE Rules in respect of that jurisdiction."
+    }
+   ]
+  },
+  {
+   "term": "Ultimate Parent Entity",
+   "id": "ultimate-parent-entity",
+   "page": 67,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Ultimate Parent Entity (UPE) is defined in Article 1.4."
+    }
+   ]
+  },
+  {
+   "term": "Undistributed Net GloBE Income",
+   "id": "undistributed-net-globe-income",
+   "page": 67,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Undistributed Net GloBE Income is defined in Article 7.6.3."
+    }
+   ]
+  },
+  {
+   "term": "UPE Jurisdiction",
+   "id": "upe-jurisdiction",
+   "page": 67,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "UPE Jurisdiction means the jurisdiction where the Ultimate Parent Entity is located."
+    }
+   ]
+  },
+  {
+   "term": "UTPR",
+   "id": "utpr",
+   "page": 67,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "UTPR means the rules set out in Article 2.4 to Article 2.6."
+    }
+   ]
+  },
+  {
+   "term": "UTPR Jurisdiction",
+   "id": "utpr-jurisdiction",
+   "page": 67,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "UTPR Jurisdiction means a jurisdiction that has a Qualified UTPR in force."
+    }
+   ]
+  },
+  {
+   "term": "UTPR Percentage",
+   "id": "utpr-percentage",
+   "page": 67,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "UTPR Percentage means the percentage of Total UTPR Top-up Tax Amount that is allocated to a UTPR Jurisdiction in accordance with the formula provided in 2.6.1."
+    }
+   ]
+  },
+  {
+   "term": "UTPR Top-up Tax Amount",
+   "id": "utpr-top-up-tax-amount",
+   "page": 68,
+   "blocks": [
+    {
+     "type": "text",
+     "level": 0,
+     "text": "UTPR Top-up Tax Amount means the amount of Top-up Tax allocated to a UTPR Jurisdiction under the UTPR."
+    }
+   ]
+  }
+ ],
+ "url": "/articles/10.1"
+}

@@ -1,0 +1,155 @@
+{
+ "chapter": 7,
+ "id": "7.6",
+ "title": "Taxable Distribution Method Election",
+ "page": 44,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "7.6.1",
+   "page": 44,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "At the election of the Filing Constituent Entity, a Constituent Entity-owner that is not an Investment Entity may apply the Taxable Distribution Method with respect to its Ownership Interest in a Constituent Entity that is an Investment Entity if the Constituent Entity-owner can be reasonably expected to be subject to tax on distributions from the Investment Entity at a tax rate that equals or exceeds the Minimum Rate.",
+     "label": "7.6.1"
+    }
+   ]
+  },
+  {
+   "id": "7.6.2",
+   "page": 44,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Under the Taxable Distribution Method:",
+     "label": "7.6.2"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "distributions and deemed distributions of the Investment Entity’s GloBE Income are included in the GloBE Income of the Constituent Entity-owner (other than an Investment Entity) that received the distribution;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the Local Creditable Tax Gross-up is included in the GloBE Income and Adjusted Covered Taxes of the Constituent Entity-owner (other than an Investment Entity) that received the distribution;",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the Constituent Entity-owner’s proportionate share of the Investment Entity’s Undistributed Net GloBE Income for the Tested Year is treated as GloBE Income of the Investment Entity for the Reporting Fiscal Year and the result of multiplying the Minimum Rate by such GloBE Income is treated as Top-up Tax of a Low-Tax Constituent Entity in the Fiscal Year for purposes of Chapter 2; and",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the Investment Entity’s GloBE Income or Loss for the Fiscal Year and any Adjusted Covered Taxes attributable to such income are excluded from all Effective Tax Rate computations under Chapter 5 and Articles 7.4.2 to 7.4.5, except as provided in paragraph (b).",
+     "label": "(d)"
+    }
+   ]
+  },
+  {
+   "id": "7.6.3",
+   "page": 45,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The Undistributed Net GloBE Income for a Fiscal Year is the amount of the Investment Entity’s GloBE Income, if any, for the Tested Year reduced (but not below zero) by:",
+     "label": "7.6.3"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "any Covered Taxes of the Investment Entity;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "distributions and deemed distributions to shareholders other than Constituent Entities that are Investment Entities in the Testing Period;",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "GloBE Losses arising in the Testing Period; and",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Investment Loss Carry-forwards.",
+     "label": "(d)"
+    }
+   ]
+  },
+  {
+   "id": "7.6.4",
+   "page": 45,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Undistributed Net GloBE Income for the Tested Year cannot be reduced by distributions or deemed distributions to the extent that such distributions were treated as a reduction to Undistributed Net GloBE Income of a previous Tested Year. For purposes of computing Undistributed Net GloBE Income, a GloBE Loss is reduced to the extent it reduced Undistributed Net GloBE Income at the end of a previous Fiscal Year. If a GloBE Loss for a Fiscal Year is not reduced to zero before the end of the end of the last Tested Period that includes such Fiscal Year, the remainder becomes an Investment Loss Carry-forward and is reduced in the same manner as a GloBE Loss in subsequent Fiscal Years.",
+     "label": "7.6.4"
+    }
+   ]
+  },
+  {
+   "id": "7.6.5",
+   "page": 45,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "For purposes of Article 7.6,",
+     "label": "7.6.5"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the Tested Year is the third year preceding the Reporting Fiscal Year;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the Testing Period is the period beginning with the first day of the Tested Year and ending with the last day of the Reporting Fiscal Year that the Ownership Interest was held by a Group Entity;",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "a deemed distribution arises when a direct or indirect Ownership Interest in the Investment Entity is transferred to a non-Group Entity and is equal to the proportionate share of the Undistributed Net GloBE Income attributable to such Ownership Interest on the date of such transfer (determined without regard to the deemed distribution); and",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the Local Creditable Tax Gross-up is the amount of Covered Taxes incurred by the Investment Entity that is allowed as a credit against the Constituent Entity-owner’s tax liability arising in connection with a distribution from the Investment Entity.",
+     "label": "(d)"
+    }
+   ]
+  },
+  {
+   "id": "7.6.6",
+   "page": 45,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The election under this Article is a Five-Year Election. If the election is revoked, Constituent Entity-owner’s proportionate share of the Investment Entity’s Undistributed Net GloBE Income for the Tested Year at the end of the Fiscal Year preceding the revocation year is treated as GloBE Income of the Investment Entity for the revocation year and the result of multiplying the Minimum Rate by such GloBE Income is treated as Top-up Tax of a Low-Tax Constituent Entity in the revocation year for purposes of Chapter 2.",
+     "label": "7.6.6"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/7.6"
+}

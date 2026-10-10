@@ -1,0 +1,83 @@
+{
+ "chapter": 2,
+ "id": "2.2",
+ "title": "Allocation of Top-Up Tax under the IIR",
+ "page": 13,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "2.2.1",
+   "page": 13,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "A Parent Entity’s Allocable Share of the Top-up Tax of a Low-Taxed Constituent Entity is an amount equal to the Top-up Tax of the Low-Taxed Constituent Entity as calculated under Chapter 5 multiplied by the Parent Entity’s Inclusion Ratio for the Low-Taxed Constituent Entity for the Fiscal Year.",
+     "label": "2.2.1"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "page": 13,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "A Parent Entity’s Inclusion Ratio for a Low-Taxed Constituent Entity for a Fiscal Year is the ratio of (a) the GloBE Income of the Low-Taxed Constituent Entity for the Fiscal Year, reduced by the amount of such income attributable to Ownership Interests held by other owners, to (b) the GloBE Income of the Low-Taxed Constituent Entity for the Fiscal Year.",
+     "label": "2.2.2"
+    }
+   ]
+  },
+  {
+   "id": "2.2.3",
+   "page": 13,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The amount of GloBE Income attributable to Ownership Interests in a Low-Taxed Constituent Entity held by other owners is the amount that would have been treated as attributable to such owners under the principles of the Acceptable Financial Accounting Standard used in the Ultimate Parent Entity’s Consolidated Financial Statements if the Low-Taxed Constituent Entity’s net income were equal to its GloBE Income and:",
+     "label": "2.2.3"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the Parent Entity had prepared Consolidated Financial Statements in accordance with that accounting standard (the hypothetical Consolidated Financial Statements);",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the Parent Entity owned a Controlling Interest in the Low-Taxed Constituent Entity such that all of the income and expenses of the Low-Taxed Constituent Entity were consolidated on a line-by-line basis with those of the Parent Entity in the hypothetical Consolidated Financial Statements;",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "all of the Low-Taxed Constituent Entity’s GloBE Income were attributable to transactions with persons that are not Group Entities; and",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "all Ownership Interests not directly or indirectly held by the Parent Entity were held by persons other than Group Entities.",
+     "label": "(d)"
+    }
+   ]
+  },
+  {
+   "id": "2.2.4",
+   "page": 13,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "In the case of a Flow-through Entity, GloBE Income under this Article shall not include any income allocated, pursuant to Article 3.5.3, to an owner that is not a Group Entity.",
+     "label": "2.2.4"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/2.2"
+}

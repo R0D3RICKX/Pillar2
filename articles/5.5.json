@@ -1,0 +1,88 @@
+{
+ "chapter": 5,
+ "id": "5.5",
+ "title": "De minimis exclusion",
+ "page": 33,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "5.5.1",
+   "page": 33,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "At the election of the Filing Constituent Entity, and notwithstanding the requirements otherwise provided in Chapter 5, the Top-up Tax for the Constituent Entities located in a jurisdiction shall be deemed to be zero for a Fiscal Year if, for such Fiscal Year:",
+     "label": "5.5.1"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the Average GloBE Revenue of such jurisdiction is less than EUR 10 million; and",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the Average GloBE Income or Loss of such jurisdiction is a loss or is less than EUR 1 million.",
+     "label": "(b)"
+    },
+    {
+     "type": "text",
+     "level": 0,
+     "text": "The election under this Article is an Annual Election."
+    }
+   ]
+  },
+  {
+   "id": "5.5.2",
+   "page": 33,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "For purposes of Article 5.5.1, the Average GloBE Revenue (or GloBE Income or Loss) of a jurisdiction is the average of the GloBE Revenue (or GloBE Income or Loss) of the jurisdiction for the current and the two preceding Fiscal Years. If there were no Constituent Entities with GloBE Revenue or GloBE Losses that were located in the jurisdiction in the first or second preceding Fiscal Year, such year or years shall be excluded from the calculation of the Average GloBE Revenue and the Average GloBE Income or Loss of the relevant jurisdiction.",
+     "label": "5.5.2"
+    }
+   ]
+  },
+  {
+   "id": "5.5.3",
+   "page": 33,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "For purposes of Article 5.5.2:",
+     "label": "5.5.3"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the GloBE Revenue of a jurisdiction for a Fiscal Year is the sum of the revenue of all Constituent Entities located in the jurisdiction for such Fiscal Year, taking into account the adjustments calculated in accordance with Chapter 3; and",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the GloBE Income or Loss of a jurisdiction for a Fiscal Year is the Net GloBE Income of that jurisdiction, if any, or the Net GloBE Loss of that jurisdiction.",
+     "label": "(b)"
+    }
+   ]
+  },
+  {
+   "id": "5.5.4",
+   "page": 33,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "An election under Article 5.5 shall not apply to a Constituent Entity that is a Stateless Constituent Entity or an Investment Entity and the revenue and GloBE Income or Loss of a Stateless Constituent Entity and of an Investment Entity shall be excluded from the computations in Article 5.5.3.",
+     "label": "5.5.4"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/5.5"
+}

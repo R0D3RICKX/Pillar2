@@ -1,0 +1,106 @@
+{
+ "chapter": 4,
+ "id": "4.3",
+ "title": "Allocation of Covered Taxes from one Constituent Entity to another Constituent Entity",
+ "page": 25,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "4.3.1",
+   "page": 25,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Article 4.3.2 applies to the allocation of Covered Taxes in respect of Permanent Establishments, Tax Transparent Entities and Hybrid Entities as well as the allocation of CFC taxes and taxes on distributions from one Constituent Entity to another.",
+     "label": "4.3.1"
+    }
+   ]
+  },
+  {
+   "id": "4.3.2",
+   "page": 25,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Covered Taxes are allocated from one Constituent Entity to another Constituent Entity as follows:",
+     "label": "4.3.2"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the amount of any Covered Taxes included in the financial accounts of a Constituent Entity with respect to GloBE Income or Loss of a Permanent Establishment is allocated to the Permanent Establishment;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the amount of any Covered Taxes included in the financial accounts of a Tax Transparent Entity with respect to GloBE Income or Loss allocated to a Constituent Entity-owner pursuant to Article 3.5.1(b) is allocated to that Constituent Entity-owner;",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "in the case of a Constituent Entity whose Constituent Entity-owners are subject to a Controlled Foreign Company Tax Regime, the amount of any Covered Taxes included in the financial accounts of its direct or indirect Constituent Entity-owners under a Controlled Foreign Company Tax Regime on their share of the Controlled Foreign Company’s income are allocated to the Constituent Entity;",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "in the case of a Constituent Entity that is a Hybrid Entity the amount of any Covered Taxes included in the financial accounts of a Constituent Entity-owner on income of the Hybrid Entity is allocated to the Hybrid Entity; and",
+     "label": "(d)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the amount of any Covered Taxes accrued in the financial accounts of a Constituent Entity’s direct Constituent Entity-owners on distributions from the Constituent Entity during the Fiscal Year are allocated to the distributing Constituent Entity.",
+     "label": "(e)"
+    }
+   ]
+  },
+  {
+   "id": "4.3.3",
+   "page": 25,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Covered Taxes allocated to a Constituent Entity pursuant to Article 4.3.2(c) and (d) in respect of Passive Income are included in such Constituent Entity’s Adjusted Covered Taxes in an amount equal to the lesser of:",
+     "label": "4.3.3"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the Covered Taxes allocated in respect of such Passive Income; or",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the Top-up Tax Percentage for the Constituent Entity’s jurisdiction, determined without regard to the Covered Taxes incurred with respect to such Passive Income by the Constituent Entity-owner, multiplied by the amount of the Constituent Entity’s Passive Income includible under any Controlled Foreign Company Tax Regime or fiscal transparency rule.",
+     "label": "(b)"
+    },
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Any Covered Taxes of the Constituent Entity-owner incurred with respect to such Passive Income that remain after the application of this Article shall not be allocated under Article 4.3.2(c) or (d)."
+    }
+   ]
+  },
+  {
+   "id": "4.3.4",
+   "page": 25,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Where the GloBE Income of a Permanent Establishment is treated as GloBE Income of the Main Entity pursuant to Article 3.4.5, any Covered Taxes arising in the location of the Permanent Establishment and associated with such income are treated as Covered Taxes of the Main Entity up to an amount not exceeding such income multiplied by the highest corporate tax rate on ordinary income in the jurisdiction where the Main Entity is located.",
+     "label": "4.3.4"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/4.3"
+}

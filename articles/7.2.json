@@ -1,0 +1,131 @@
+{
+ "chapter": 7,
+ "id": "7.2",
+ "title": "Ultimate Parent Entity subject to Deductible Dividend Regime",
+ "page": 41,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "7.2.1",
+   "page": 41,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "For purposes of computing its GloBE Income or Loss for a Fiscal year, an Ultimate Parent Entity that is subject to a Deductible Dividend Regime shall reduce (but not below zero) its GloBE Income for such Fiscal Year by the amount that is distributed as a Deductible Dividend within 12 months of the end of the Fiscal Year if:",
+     "label": "7.2.1"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the dividend is subject to tax in the hands of the dividend recipient for a taxable period that ends within 12 months of the end of the MNE Group’s Fiscal Year, and:",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "the dividend recipient is subject to tax on such dividend at a nominal rate that equals or exceeds the Minimum Rate;",
+     "label": "(i)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "it can be reasonably expected that the aggregate amount of Adjusted Covered Taxes of the Ultimate Parent Entity and Taxes paid by the dividend recipient on the dividend income equals or exceeds the amount that results from multiplying the full amount of such income by the Minimum Rate; or",
+     "label": "(ii)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "the dividend recipient is a natural person and the dividend is a patronage dividend from a supply Cooperative; or",
+     "label": "(iii)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the dividend recipient is a natural person that:",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "is a tax resident in the UPE Jurisdiction; and",
+     "label": "(i)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "holds Ownership Interests that, in the aggregate, are a right to 5% or less of the profits and assets of the Ultimate Parent Entity.",
+     "label": "(ii)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the dividend recipient is resident in the UPE Jurisdiction and is:",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "a Governmental Entity,",
+     "label": "(i)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "an International Organisation,",
+     "label": "(ii)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "a Non-profit Organisation or",
+     "label": "(iii)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "a Pension Fund that is not a Pension Services Entity.",
+     "label": "(iv)"
+    }
+   ]
+  },
+  {
+   "id": "7.2.2",
+   "page": 42,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "An Ultimate Parent Entity that reduces its GloBE Income pursuant to Article 7.2.1 shall reduce its Covered Taxes (other than the Taxes for which the dividend deduction was allowed) proportionally and shall reduce its GloBE Income by the same amount.",
+     "label": "7.2.2"
+    }
+   ]
+  },
+  {
+   "id": "7.2.3",
+   "page": 42,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "If the Ultimate Parent Entity holds an Ownership Interest in another Constituent Entity subject to the Deductible Dividend Regime (directly or through a chain of such Constituent Entities), Articles 7.2.1 and 7.2.2 shall apply to each other Constituent Entity in the UPE Jurisdiction that is subject to the Deductible Dividend Regime to the extent that its GloBE Income is further distributed by the Ultimate Parent Entity to recipients that meet the requirements of Article 7.2.1.",
+     "label": "7.2.3"
+    }
+   ]
+  },
+  {
+   "id": "7.2.4",
+   "page": 42,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Patronage dividends from a supply Cooperative are subject to tax to the extent they reduce an expense or cost that is deductible in the computation of the recipient’s taxable income.",
+     "label": "7.2.4"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/7.2"
+}

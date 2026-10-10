@@ -1,0 +1,273 @@
+{
+ "chapter": 3,
+ "id": "3.2",
+ "title": "Adjustments to determine GloBE Income or Loss",
+ "page": 16,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "3.2.1",
+   "page": 16,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "A Constituent Entity’s Financial Accounting Net Income or Loss is adjusted for the following items to arrive at that Entity’s GloBE Income or Loss:",
+     "label": "3.2.1"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Net Taxes Expense;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Excluded Dividends;",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Excluded Equity Gain or Loss;",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Included Revaluation Method Gain or Loss;",
+     "label": "(d)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Gain or loss from disposition of assets and liabilities excluded under Article 6.3;",
+     "label": "(e)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Asymmetric Foreign Currency Gains or Losses;",
+     "label": "(f)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Policy Disallowed Expenses;",
+     "label": "(g)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Prior Period Errors and Changes in Accounting Principles; and",
+     "label": "(h)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Accrued Pension Expense.",
+     "label": "(i)"
+    }
+   ]
+  },
+  {
+   "id": "3.2.2",
+   "page": 17,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "At the election of the Filing Constituent Entity, a Constituent Entity may substitute the amount allowed as a deduction in the computation of its taxable income in its location for the amount expensed in its financial accounts for a cost or expense of such Constituent Entity that was paid with stock-based compensation. If the stock-based compensation expense arises in connection with an option that expires without exercise, the Constituent Entity must include the total amount previously deducted in the computation of its GloBE Income or Loss for the Fiscal Year in which the option expires. The election is a Five-Year Election and must be applied consistently to the stock-based compensation of all Constituent Entities located in the same jurisdiction for the year in which the election is made and all subsequent Fiscal Years. If the election is made in a Fiscal Year after some of the stock-based compensation of a transaction has been recorded in the financial accounts, the Constituent Entity must include in the computation of its GloBE Income or Loss for that Fiscal Year an amount equal to the excess of the cumulative amount allowed as an expense in the computation of its GloBE Income or Loss in previous Fiscal Years over the cumulative amount that would have been allowed as an expense if the election had been in place in those Fiscal Years. If the election is revoked, the Constituent Entity must include in the computation of its GloBE Income or Loss for the revocation year the amount deducted pursuant to the election that exceeds financial accounting expense accrued in respect of the stock-based compensation that has not been paid.",
+     "label": "3.2.2"
+    }
+   ]
+  },
+  {
+   "id": "3.2.3",
+   "page": 17,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Any transaction between Constituent Entities located in different jurisdictions that is not recorded in the same amount in the financial accounts of both Constituent Entities or that is not consistent with the Arm’s Length Principle must be adjusted so as to be in the same amount and consistent with the Arm’s Length Principle. A loss from a sale or other transfer of an asset between two Constituent Entities located in the same jurisdiction that is not recorded consistent with the Arm’s Length Principle shall be recomputed based on the Arm’s Length Principle if that loss is included in the computation of GloBE Income or Loss. Rules for allocating income or loss between a Main Entity and its Permanent Establishments are found in Article 3.4.",
+     "label": "3.2.3"
+    }
+   ]
+  },
+  {
+   "id": "3.2.4",
+   "page": 17,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Qualified Refundable Tax Credits shall be treated as income in the computation of GloBE Income or Loss of a Constituent Entity. Non-Qualified Refundable Tax Credits shall not be treated as income in the computation of GloBE Income or Loss of a Constituent Entity.",
+     "label": "3.2.4"
+    }
+   ]
+  },
+  {
+   "id": "3.2.5",
+   "page": 17,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "With respect to assets and liabilities that are subject to fair value or impairment accounting in the Consolidated Financial Statements, a Filing Constituent Entity may elect to determine gains and losses using the realisation principle for purposes of computing GloBE Income. The election is a Five-Year Election and applies to all Constituent Entities located in the jurisdiction to which the election applies. The election applies to all assets and liabilities of such Constituent Entities, unless the Filing Constituent Entity chooses to limit the election to tangible assets of such Constituent Entities or to Constituent Entities that are Investment Entities. Under this election:",
+     "label": "3.2.5"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "all gains or losses attributable to fair value or impairment accounting with respect to an asset or liability shall be excluded from the computation of GloBE Income or Loss;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the carrying value of an asset or liability for purposes of determining gain or loss shall be its carrying value at the later of:",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "the first day of the election year, or",
+     "label": "(i)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "the date the asset was acquired or liability was incurred; and",
+     "label": "(ii)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "if the election is revoked, the GloBE Income or Loss of the Constituent Entities is adjusted by the difference at the beginning of the revocation year between the fair value of the asset or liability and the carrying value of the asset or liability determined pursuant to the election.",
+     "label": "(c)"
+    }
+   ]
+  },
+  {
+   "id": "3.2.6",
+   "page": 18,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Where there is Aggregate Asset Gain in a jurisdiction in a Fiscal Year, the Filing Constituent Entity may make, under this Article 3.2.6, an Annual Election for that jurisdiction to adjust GloBE Income or Loss with respect to each previous Fiscal Year in the Look-back Period in the manner described in paragraphs (b) and (c) and to spread any remaining Adjusted Asset Gain over the Look-back Period in the manner described in paragraph (d). The Effective Tax Rate (ETR) and Top-up Tax, if any, for any previous Fiscal Year must be re-calculated under Article 5.4.1. When an election is made under this Article:",
+     "label": "3.2.6"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Covered Taxes with respect to any Net Asset Gain or Net Asset Loss in the Election Year shall be excluded from the computation of Adjusted Covered Taxes.",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "The Aggregate Asset Gain in the Election Year shall be carried-back to the earliest Loss Year and set-off ratably against any Net Asset Loss of any Constituent Entity located in that jurisdiction.",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "If, for any Loss Year, the Adjusted Asset Gain exceeds the total amount of Net Asset Loss of all Constituent Entities located in that jurisdiction, the Adjusted Asset Gain shall be carried forward to the following Loss Year (if any) and applied ratably against any Net Asset Loss of any Constituent Entity located in that jurisdiction.",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Any Adjusted Asset Gain that remains after the application of paragraphs (b) and (c) shall be allocated evenly to each Fiscal Year in the Look-back Period. The Allocated Asset Gain for the relevant year shall be included in the computation of GloBE Income or Loss for a Constituent Entity located in that jurisdiction in that year in accordance with the following formula:",
+     "label": "(d)"
+    },
+    {
+     "type": "formula",
+     "level": 0,
+     "text": "Allocated Asset Gain for relevant year × <span class=\"frac\"><span class=\"num\">The specified Constituent Entity’s Net Asset Gain in the Election Year</span><span class=\"den\">The Net Asset Gain of all specified Constituent Entities in the Election Year</span></span>"
+    },
+    {
+     "type": "text",
+     "level": 0,
+     "text": "For the purposes of the above formula, a specified Constituent Entity is Constituent Entity that has Net Asset Gain in the Election Year and was located in the jurisdiction in the relevant year. If there is no specified Constituent Entity for a relevant year the Adjusted Asset Gain allocated to that year will be allocated equally to each Constituent Entity in the jurisdiction in that year."
+    }
+   ]
+  },
+  {
+   "id": "3.2.7",
+   "page": 18,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The computation of a Low-Tax Entity’s GloBE Income or Loss shall exclude any expense attributable to an Intragroup Financing Arrangement that can reasonably be anticipated, over the expected duration of the arrangement to:",
+     "label": "3.2.7"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "increase the amount of expenses taken into account in calculating the GloBE Income or Loss of the Low-Tax Entity;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "without resulting in a commensurate increase in the taxable income of the High-Tax Counterparty.",
+     "label": "(b)"
+    }
+   ]
+  },
+  {
+   "id": "3.2.8",
+   "page": 19,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "An Ultimate Parent Entity may elect to apply its consolidated accounting treatment to eliminate income, expense, gains, and losses from transactions between Constituent Entities that are located, and included in a tax consolidation group, in the same jurisdiction for purposes of computing each such Constituent Entity’s Net GloBE Income or Loss. The election under this Article is a Five-Year Election. Upon making or revoking such election, appropriate adjustments shall be made for GloBE purposes such that there shall not be duplications or omissions of items of GloBE Income or Loss as a result of having made or revoked the election.",
+     "label": "3.2.8"
+    }
+   ]
+  },
+  {
+   "id": "3.2.9",
+   "page": 19,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "An insurance company shall exclude from the computation of GloBE Income or Loss amounts charged to policyholders for Taxes paid by the insurance company in respect of returns to the policy holders. An insurance company shall include in the computation of GloBE Income or Loss any returns to policyholders that are not reflected in Financial Accounting Net Income or Loss to the extent the corresponding increase or decrease in liability to the policyholders is reflected in its Financial Accounting Net Income or Loss.",
+     "label": "3.2.9"
+    }
+   ]
+  },
+  {
+   "id": "3.2.10",
+   "page": 19,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Amounts recognised as a decrease to the equity of a Constituent Entity attributable to distributions paid or payable in respect of Additional Tier One Capital issued by the Constituent Entity shall be treated as an expense in the computation of its GloBE Income or Loss. Amounts recognised as an increase to the equity of a Constituent Entity attributable to distributions received or receivable in respect of Additional Tier One Capital held by the Constituent Entity shall be included in the computation of its GloBE Income or Loss.",
+     "label": "3.2.10"
+    }
+   ]
+  },
+  {
+   "id": "3.2.11",
+   "page": 19,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "A Constituent Entity’s Financial Accounting Net Income or Loss must be adjusted as necessary to reflect the requirements of the relevant provisions of Chapters 6 and 7.",
+     "label": "3.2.11"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/3.2"
+}

@@ -1,0 +1,41 @@
+{
+ "chapter": 6,
+ "id": "6.4",
+ "title": "Joint Ventures",
+ "page": 38,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "6.4.1",
+   "page": 38,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The GloBE Rules shall apply to a Joint Venture and its JV Subsidiaries as follows for each Fiscal Year:",
+     "label": "6.4.1"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Chapters 3 to 7, and Article 8.2 shall apply for purposes of computing any Top-Up Tax of the Joint Venture and its JV Subsidiaries as if they were Constituent Entities of a separate MNE Group and as if the Joint Venture was the Ultimate Parent Entity of that Group;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "a Parent Entity that holds directly or indirectly Ownership Interests in the Joint Venture or a JV Subsidiary shall apply the IIR with respect to its Allocable Share of the Top-up Tax of a member of the JV Group in accordance with Article 2.1 to Article 2.3; and",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the JV Group Top-up Tax shall be reduced by each Parent Entity’s Allocable Share of the Top-up Tax of each member of the JV Group that is brought into charge under a Qualified IIR under paragraph (b), and any remaining amount shall be added to the Total UTPR Top-up Tax Amount taken into account under Article 2.5.1.",
+     "label": "(c)"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/6.4"
+}

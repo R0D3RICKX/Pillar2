@@ -1,0 +1,89 @@
+{
+ "chapter": 4,
+ "id": "4.2",
+ "title": "Definition of Covered Taxes",
+ "page": 24,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "4.2.1",
+   "page": 24,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Covered Taxes means:",
+     "label": "4.2.1"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Taxes recorded in the financial accounts of a Constituent Entity with respect to its income or profits or its share of the income or profits of a Constituent Entity in which it owns an Ownership Interest;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Taxes on distributed profits, deemed profit distributions, and non-business expenses imposed under an Eligible Distribution Tax System;",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Taxes imposed in lieu of a generally applicable corporate income tax; and",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Taxes levied by reference to retained earnings and corporate equity, including a Tax on multiple components based on income and equity.",
+     "label": "(d)"
+    }
+   ]
+  },
+  {
+   "id": "4.2.2",
+   "page": 24,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Covered Taxes does not include any amount of:",
+     "label": "4.2.2"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Top-up Tax accrued by a Parent Entity under a Qualified IIR;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Top-up Tax accrued by a Constituent Entity under a Qualified Domestic Minimum Top-Up Tax;",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Taxes attributable to an adjustment made by a Constituent Entity as a result of the application of a Qualified UTPR;",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "A Disqualified Refundable Imputation Tax;",
+     "label": "(d)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "Taxes paid by an insurance company in respect of returns to policyholders.",
+     "label": "(e)"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/4.2"
+}

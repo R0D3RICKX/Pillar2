@@ -1,0 +1,4252 @@
+{
+ "cleanUrls": true,
+ "trailingSlash": false,
+ "redirects": [
+  {
+   "source": "/1.1",
+   "destination": "/articles/1.1",
+   "permanent": false
+  },
+  {
+   "source": "/1.2",
+   "destination": "/articles/1.2",
+   "permanent": false
+  },
+  {
+   "source": "/1.3",
+   "destination": "/articles/1.3",
+   "permanent": false
+  },
+  {
+   "source": "/1.4",
+   "destination": "/articles/1.4",
+   "permanent": false
+  },
+  {
+   "source": "/1.5",
+   "destination": "/articles/1.5",
+   "permanent": false
+  },
+  {
+   "source": "/2.1",
+   "destination": "/articles/2.1",
+   "permanent": false
+  },
+  {
+   "source": "/2.2",
+   "destination": "/articles/2.2",
+   "permanent": false
+  },
+  {
+   "source": "/2.3",
+   "destination": "/articles/2.3",
+   "permanent": false
+  },
+  {
+   "source": "/2.4",
+   "destination": "/articles/2.4",
+   "permanent": false
+  },
+  {
+   "source": "/2.5",
+   "destination": "/articles/2.5",
+   "permanent": false
+  },
+  {
+   "source": "/2.6",
+   "destination": "/articles/2.6",
+   "permanent": false
+  },
+  {
+   "source": "/3.1",
+   "destination": "/articles/3.1",
+   "permanent": false
+  },
+  {
+   "source": "/3.2",
+   "destination": "/articles/3.2",
+   "permanent": false
+  },
+  {
+   "source": "/3.3",
+   "destination": "/articles/3.3",
+   "permanent": false
+  },
+  {
+   "source": "/3.4",
+   "destination": "/articles/3.4",
+   "permanent": false
+  },
+  {
+   "source": "/3.5",
+   "destination": "/articles/3.5",
+   "permanent": false
+  },
+  {
+   "source": "/4.1",
+   "destination": "/articles/4.1",
+   "permanent": false
+  },
+  {
+   "source": "/4.2",
+   "destination": "/articles/4.2",
+   "permanent": false
+  },
+  {
+   "source": "/4.3",
+   "destination": "/articles/4.3",
+   "permanent": false
+  },
+  {
+   "source": "/4.4",
+   "destination": "/articles/4.4",
+   "permanent": false
+  },
+  {
+   "source": "/4.5",
+   "destination": "/articles/4.5",
+   "permanent": false
+  },
+  {
+   "source": "/4.6",
+   "destination": "/articles/4.6",
+   "permanent": false
+  },
+  {
+   "source": "/5.1",
+   "destination": "/articles/5.1",
+   "permanent": false
+  },
+  {
+   "source": "/5.2",
+   "destination": "/articles/5.2",
+   "permanent": false
+  },
+  {
+   "source": "/5.3",
+   "destination": "/articles/5.3",
+   "permanent": false
+  },
+  {
+   "source": "/5.4",
+   "destination": "/articles/5.4",
+   "permanent": false
+  },
+  {
+   "source": "/5.5",
+   "destination": "/articles/5.5",
+   "permanent": false
+  },
+  {
+   "source": "/5.6",
+   "destination": "/articles/5.6",
+   "permanent": false
+  },
+  {
+   "source": "/6.1",
+   "destination": "/articles/6.1",
+   "permanent": false
+  },
+  {
+   "source": "/6.2",
+   "destination": "/articles/6.2",
+   "permanent": false
+  },
+  {
+   "source": "/6.3",
+   "destination": "/articles/6.3",
+   "permanent": false
+  },
+  {
+   "source": "/6.4",
+   "destination": "/articles/6.4",
+   "permanent": false
+  },
+  {
+   "source": "/6.5",
+   "destination": "/articles/6.5",
+   "permanent": false
+  },
+  {
+   "source": "/7.1",
+   "destination": "/articles/7.1",
+   "permanent": false
+  },
+  {
+   "source": "/7.2",
+   "destination": "/articles/7.2",
+   "permanent": false
+  },
+  {
+   "source": "/7.3",
+   "destination": "/articles/7.3",
+   "permanent": false
+  },
+  {
+   "source": "/7.4",
+   "destination": "/articles/7.4",
+   "permanent": false
+  },
+  {
+   "source": "/7.5",
+   "destination": "/articles/7.5",
+   "permanent": false
+  },
+  {
+   "source": "/7.6",
+   "destination": "/articles/7.6",
+   "permanent": false
+  },
+  {
+   "source": "/8.1",
+   "destination": "/articles/8.1",
+   "permanent": false
+  },
+  {
+   "source": "/8.2",
+   "destination": "/articles/8.2",
+   "permanent": false
+  },
+  {
+   "source": "/8.3",
+   "destination": "/articles/8.3",
+   "permanent": false
+  },
+  {
+   "source": "/9.1",
+   "destination": "/articles/9.1",
+   "permanent": false
+  },
+  {
+   "source": "/9.2",
+   "destination": "/articles/9.2",
+   "permanent": false
+  },
+  {
+   "source": "/9.3",
+   "destination": "/articles/9.3",
+   "permanent": false
+  },
+  {
+   "source": "/9.4",
+   "destination": "/articles/9.4",
+   "permanent": false
+  },
+  {
+   "source": "/10.1",
+   "destination": "/articles/10.1",
+   "permanent": false
+  },
+  {
+   "source": "/10.2",
+   "destination": "/articles/10.2",
+   "permanent": false
+  },
+  {
+   "source": "/10.3",
+   "destination": "/articles/10.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/1.1",
+   "destination": "/articles/1.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/1.2",
+   "destination": "/articles/1.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/1.3",
+   "destination": "/articles/1.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/1.4",
+   "destination": "/articles/1.4",
+   "permanent": false
+  },
+  {
+   "source": "/article/1.5",
+   "destination": "/articles/1.5",
+   "permanent": false
+  },
+  {
+   "source": "/article/2.1",
+   "destination": "/articles/2.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/2.2",
+   "destination": "/articles/2.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/2.3",
+   "destination": "/articles/2.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/2.4",
+   "destination": "/articles/2.4",
+   "permanent": false
+  },
+  {
+   "source": "/article/2.5",
+   "destination": "/articles/2.5",
+   "permanent": false
+  },
+  {
+   "source": "/article/2.6",
+   "destination": "/articles/2.6",
+   "permanent": false
+  },
+  {
+   "source": "/article/3.1",
+   "destination": "/articles/3.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/3.2",
+   "destination": "/articles/3.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/3.3",
+   "destination": "/articles/3.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/3.4",
+   "destination": "/articles/3.4",
+   "permanent": false
+  },
+  {
+   "source": "/article/3.5",
+   "destination": "/articles/3.5",
+   "permanent": false
+  },
+  {
+   "source": "/article/4.1",
+   "destination": "/articles/4.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/4.2",
+   "destination": "/articles/4.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/4.3",
+   "destination": "/articles/4.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/4.4",
+   "destination": "/articles/4.4",
+   "permanent": false
+  },
+  {
+   "source": "/article/4.5",
+   "destination": "/articles/4.5",
+   "permanent": false
+  },
+  {
+   "source": "/article/4.6",
+   "destination": "/articles/4.6",
+   "permanent": false
+  },
+  {
+   "source": "/article/5.1",
+   "destination": "/articles/5.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/5.2",
+   "destination": "/articles/5.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/5.3",
+   "destination": "/articles/5.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/5.4",
+   "destination": "/articles/5.4",
+   "permanent": false
+  },
+  {
+   "source": "/article/5.5",
+   "destination": "/articles/5.5",
+   "permanent": false
+  },
+  {
+   "source": "/article/5.6",
+   "destination": "/articles/5.6",
+   "permanent": false
+  },
+  {
+   "source": "/article/6.1",
+   "destination": "/articles/6.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/6.2",
+   "destination": "/articles/6.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/6.3",
+   "destination": "/articles/6.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/6.4",
+   "destination": "/articles/6.4",
+   "permanent": false
+  },
+  {
+   "source": "/article/6.5",
+   "destination": "/articles/6.5",
+   "permanent": false
+  },
+  {
+   "source": "/article/7.1",
+   "destination": "/articles/7.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/7.2",
+   "destination": "/articles/7.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/7.3",
+   "destination": "/articles/7.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/7.4",
+   "destination": "/articles/7.4",
+   "permanent": false
+  },
+  {
+   "source": "/article/7.5",
+   "destination": "/articles/7.5",
+   "permanent": false
+  },
+  {
+   "source": "/article/7.6",
+   "destination": "/articles/7.6",
+   "permanent": false
+  },
+  {
+   "source": "/article/8.1",
+   "destination": "/articles/8.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/8.2",
+   "destination": "/articles/8.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/8.3",
+   "destination": "/articles/8.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/9.1",
+   "destination": "/articles/9.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/9.2",
+   "destination": "/articles/9.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/9.3",
+   "destination": "/articles/9.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/9.4",
+   "destination": "/articles/9.4",
+   "permanent": false
+  },
+  {
+   "source": "/article/10.1",
+   "destination": "/articles/10.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/10.2",
+   "destination": "/articles/10.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/10.3",
+   "destination": "/articles/10.3",
+   "permanent": false
+  },
+  {
+   "source": "/1.1.1",
+   "destination": "/articles/1.1#1.1.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/1.1.1",
+   "destination": "/articles/1.1#1.1.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/1.1.1",
+   "destination": "/articles/1.1#1.1.1",
+   "permanent": false
+  },
+  {
+   "source": "/1.1.2",
+   "destination": "/articles/1.1#1.1.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/1.1.2",
+   "destination": "/articles/1.1#1.1.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/1.1.2",
+   "destination": "/articles/1.1#1.1.2",
+   "permanent": false
+  },
+  {
+   "source": "/1.1.3",
+   "destination": "/articles/1.1#1.1.3",
+   "permanent": false
+  },
+  {
+   "source": "/articles/1.1.3",
+   "destination": "/articles/1.1#1.1.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/1.1.3",
+   "destination": "/articles/1.1#1.1.3",
+   "permanent": false
+  },
+  {
+   "source": "/1.2.1",
+   "destination": "/articles/1.2#1.2.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/1.2.1",
+   "destination": "/articles/1.2#1.2.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/1.2.1",
+   "destination": "/articles/1.2#1.2.1",
+   "permanent": false
+  },
+  {
+   "source": "/1.2.2",
+   "destination": "/articles/1.2#1.2.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/1.2.2",
+   "destination": "/articles/1.2#1.2.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/1.2.2",
+   "destination": "/articles/1.2#1.2.2",
+   "permanent": false
+  },
+  {
+   "source": "/1.2.3",
+   "destination": "/articles/1.2#1.2.3",
+   "permanent": false
+  },
+  {
+   "source": "/articles/1.2.3",
+   "destination": "/articles/1.2#1.2.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/1.2.3",
+   "destination": "/articles/1.2#1.2.3",
+   "permanent": false
+  },
+  {
+   "source": "/1.3.1",
+   "destination": "/articles/1.3#1.3.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/1.3.1",
+   "destination": "/articles/1.3#1.3.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/1.3.1",
+   "destination": "/articles/1.3#1.3.1",
+   "permanent": false
+  },
+  {
+   "source": "/1.3.2",
+   "destination": "/articles/1.3#1.3.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/1.3.2",
+   "destination": "/articles/1.3#1.3.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/1.3.2",
+   "destination": "/articles/1.3#1.3.2",
+   "permanent": false
+  },
+  {
+   "source": "/1.3.3",
+   "destination": "/articles/1.3#1.3.3",
+   "permanent": false
+  },
+  {
+   "source": "/articles/1.3.3",
+   "destination": "/articles/1.3#1.3.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/1.3.3",
+   "destination": "/articles/1.3#1.3.3",
+   "permanent": false
+  },
+  {
+   "source": "/1.4.1",
+   "destination": "/articles/1.4#1.4.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/1.4.1",
+   "destination": "/articles/1.4#1.4.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/1.4.1",
+   "destination": "/articles/1.4#1.4.1",
+   "permanent": false
+  },
+  {
+   "source": "/1.5.1",
+   "destination": "/articles/1.5#1.5.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/1.5.1",
+   "destination": "/articles/1.5#1.5.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/1.5.1",
+   "destination": "/articles/1.5#1.5.1",
+   "permanent": false
+  },
+  {
+   "source": "/1.5.2",
+   "destination": "/articles/1.5#1.5.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/1.5.2",
+   "destination": "/articles/1.5#1.5.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/1.5.2",
+   "destination": "/articles/1.5#1.5.2",
+   "permanent": false
+  },
+  {
+   "source": "/1.5.3",
+   "destination": "/articles/1.5#1.5.3",
+   "permanent": false
+  },
+  {
+   "source": "/articles/1.5.3",
+   "destination": "/articles/1.5#1.5.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/1.5.3",
+   "destination": "/articles/1.5#1.5.3",
+   "permanent": false
+  },
+  {
+   "source": "/2.1.1",
+   "destination": "/articles/2.1#2.1.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/2.1.1",
+   "destination": "/articles/2.1#2.1.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/2.1.1",
+   "destination": "/articles/2.1#2.1.1",
+   "permanent": false
+  },
+  {
+   "source": "/2.1.2",
+   "destination": "/articles/2.1#2.1.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/2.1.2",
+   "destination": "/articles/2.1#2.1.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/2.1.2",
+   "destination": "/articles/2.1#2.1.2",
+   "permanent": false
+  },
+  {
+   "source": "/2.1.3",
+   "destination": "/articles/2.1#2.1.3",
+   "permanent": false
+  },
+  {
+   "source": "/articles/2.1.3",
+   "destination": "/articles/2.1#2.1.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/2.1.3",
+   "destination": "/articles/2.1#2.1.3",
+   "permanent": false
+  },
+  {
+   "source": "/2.1.4",
+   "destination": "/articles/2.1#2.1.4",
+   "permanent": false
+  },
+  {
+   "source": "/articles/2.1.4",
+   "destination": "/articles/2.1#2.1.4",
+   "permanent": false
+  },
+  {
+   "source": "/article/2.1.4",
+   "destination": "/articles/2.1#2.1.4",
+   "permanent": false
+  },
+  {
+   "source": "/2.1.5",
+   "destination": "/articles/2.1#2.1.5",
+   "permanent": false
+  },
+  {
+   "source": "/articles/2.1.5",
+   "destination": "/articles/2.1#2.1.5",
+   "permanent": false
+  },
+  {
+   "source": "/article/2.1.5",
+   "destination": "/articles/2.1#2.1.5",
+   "permanent": false
+  },
+  {
+   "source": "/2.1.6",
+   "destination": "/articles/2.1#2.1.6",
+   "permanent": false
+  },
+  {
+   "source": "/articles/2.1.6",
+   "destination": "/articles/2.1#2.1.6",
+   "permanent": false
+  },
+  {
+   "source": "/article/2.1.6",
+   "destination": "/articles/2.1#2.1.6",
+   "permanent": false
+  },
+  {
+   "source": "/2.2.1",
+   "destination": "/articles/2.2#2.2.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/2.2.1",
+   "destination": "/articles/2.2#2.2.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/2.2.1",
+   "destination": "/articles/2.2#2.2.1",
+   "permanent": false
+  },
+  {
+   "source": "/2.2.2",
+   "destination": "/articles/2.2#2.2.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/2.2.2",
+   "destination": "/articles/2.2#2.2.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/2.2.2",
+   "destination": "/articles/2.2#2.2.2",
+   "permanent": false
+  },
+  {
+   "source": "/2.2.3",
+   "destination": "/articles/2.2#2.2.3",
+   "permanent": false
+  },
+  {
+   "source": "/articles/2.2.3",
+   "destination": "/articles/2.2#2.2.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/2.2.3",
+   "destination": "/articles/2.2#2.2.3",
+   "permanent": false
+  },
+  {
+   "source": "/2.2.4",
+   "destination": "/articles/2.2#2.2.4",
+   "permanent": false
+  },
+  {
+   "source": "/articles/2.2.4",
+   "destination": "/articles/2.2#2.2.4",
+   "permanent": false
+  },
+  {
+   "source": "/article/2.2.4",
+   "destination": "/articles/2.2#2.2.4",
+   "permanent": false
+  },
+  {
+   "source": "/2.3.1",
+   "destination": "/articles/2.3#2.3.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/2.3.1",
+   "destination": "/articles/2.3#2.3.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/2.3.1",
+   "destination": "/articles/2.3#2.3.1",
+   "permanent": false
+  },
+  {
+   "source": "/2.3.2",
+   "destination": "/articles/2.3#2.3.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/2.3.2",
+   "destination": "/articles/2.3#2.3.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/2.3.2",
+   "destination": "/articles/2.3#2.3.2",
+   "permanent": false
+  },
+  {
+   "source": "/2.4.1",
+   "destination": "/articles/2.4#2.4.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/2.4.1",
+   "destination": "/articles/2.4#2.4.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/2.4.1",
+   "destination": "/articles/2.4#2.4.1",
+   "permanent": false
+  },
+  {
+   "source": "/2.4.2",
+   "destination": "/articles/2.4#2.4.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/2.4.2",
+   "destination": "/articles/2.4#2.4.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/2.4.2",
+   "destination": "/articles/2.4#2.4.2",
+   "permanent": false
+  },
+  {
+   "source": "/2.4.3",
+   "destination": "/articles/2.4#2.4.3",
+   "permanent": false
+  },
+  {
+   "source": "/articles/2.4.3",
+   "destination": "/articles/2.4#2.4.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/2.4.3",
+   "destination": "/articles/2.4#2.4.3",
+   "permanent": false
+  },
+  {
+   "source": "/2.5.1",
+   "destination": "/articles/2.5#2.5.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/2.5.1",
+   "destination": "/articles/2.5#2.5.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/2.5.1",
+   "destination": "/articles/2.5#2.5.1",
+   "permanent": false
+  },
+  {
+   "source": "/2.5.2",
+   "destination": "/articles/2.5#2.5.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/2.5.2",
+   "destination": "/articles/2.5#2.5.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/2.5.2",
+   "destination": "/articles/2.5#2.5.2",
+   "permanent": false
+  },
+  {
+   "source": "/2.5.3",
+   "destination": "/articles/2.5#2.5.3",
+   "permanent": false
+  },
+  {
+   "source": "/articles/2.5.3",
+   "destination": "/articles/2.5#2.5.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/2.5.3",
+   "destination": "/articles/2.5#2.5.3",
+   "permanent": false
+  },
+  {
+   "source": "/2.6.1",
+   "destination": "/articles/2.6#2.6.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/2.6.1",
+   "destination": "/articles/2.6#2.6.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/2.6.1",
+   "destination": "/articles/2.6#2.6.1",
+   "permanent": false
+  },
+  {
+   "source": "/2.6.2",
+   "destination": "/articles/2.6#2.6.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/2.6.2",
+   "destination": "/articles/2.6#2.6.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/2.6.2",
+   "destination": "/articles/2.6#2.6.2",
+   "permanent": false
+  },
+  {
+   "source": "/2.6.3",
+   "destination": "/articles/2.6#2.6.3",
+   "permanent": false
+  },
+  {
+   "source": "/articles/2.6.3",
+   "destination": "/articles/2.6#2.6.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/2.6.3",
+   "destination": "/articles/2.6#2.6.3",
+   "permanent": false
+  },
+  {
+   "source": "/2.6.4",
+   "destination": "/articles/2.6#2.6.4",
+   "permanent": false
+  },
+  {
+   "source": "/articles/2.6.4",
+   "destination": "/articles/2.6#2.6.4",
+   "permanent": false
+  },
+  {
+   "source": "/article/2.6.4",
+   "destination": "/articles/2.6#2.6.4",
+   "permanent": false
+  },
+  {
+   "source": "/3.1.1",
+   "destination": "/articles/3.1#3.1.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/3.1.1",
+   "destination": "/articles/3.1#3.1.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/3.1.1",
+   "destination": "/articles/3.1#3.1.1",
+   "permanent": false
+  },
+  {
+   "source": "/3.1.2",
+   "destination": "/articles/3.1#3.1.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/3.1.2",
+   "destination": "/articles/3.1#3.1.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/3.1.2",
+   "destination": "/articles/3.1#3.1.2",
+   "permanent": false
+  },
+  {
+   "source": "/3.1.3",
+   "destination": "/articles/3.1#3.1.3",
+   "permanent": false
+  },
+  {
+   "source": "/articles/3.1.3",
+   "destination": "/articles/3.1#3.1.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/3.1.3",
+   "destination": "/articles/3.1#3.1.3",
+   "permanent": false
+  },
+  {
+   "source": "/3.2.1",
+   "destination": "/articles/3.2#3.2.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/3.2.1",
+   "destination": "/articles/3.2#3.2.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/3.2.1",
+   "destination": "/articles/3.2#3.2.1",
+   "permanent": false
+  },
+  {
+   "source": "/3.2.2",
+   "destination": "/articles/3.2#3.2.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/3.2.2",
+   "destination": "/articles/3.2#3.2.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/3.2.2",
+   "destination": "/articles/3.2#3.2.2",
+   "permanent": false
+  },
+  {
+   "source": "/3.2.3",
+   "destination": "/articles/3.2#3.2.3",
+   "permanent": false
+  },
+  {
+   "source": "/articles/3.2.3",
+   "destination": "/articles/3.2#3.2.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/3.2.3",
+   "destination": "/articles/3.2#3.2.3",
+   "permanent": false
+  },
+  {
+   "source": "/3.2.4",
+   "destination": "/articles/3.2#3.2.4",
+   "permanent": false
+  },
+  {
+   "source": "/articles/3.2.4",
+   "destination": "/articles/3.2#3.2.4",
+   "permanent": false
+  },
+  {
+   "source": "/article/3.2.4",
+   "destination": "/articles/3.2#3.2.4",
+   "permanent": false
+  },
+  {
+   "source": "/3.2.5",
+   "destination": "/articles/3.2#3.2.5",
+   "permanent": false
+  },
+  {
+   "source": "/articles/3.2.5",
+   "destination": "/articles/3.2#3.2.5",
+   "permanent": false
+  },
+  {
+   "source": "/article/3.2.5",
+   "destination": "/articles/3.2#3.2.5",
+   "permanent": false
+  },
+  {
+   "source": "/3.2.6",
+   "destination": "/articles/3.2#3.2.6",
+   "permanent": false
+  },
+  {
+   "source": "/articles/3.2.6",
+   "destination": "/articles/3.2#3.2.6",
+   "permanent": false
+  },
+  {
+   "source": "/article/3.2.6",
+   "destination": "/articles/3.2#3.2.6",
+   "permanent": false
+  },
+  {
+   "source": "/3.2.7",
+   "destination": "/articles/3.2#3.2.7",
+   "permanent": false
+  },
+  {
+   "source": "/articles/3.2.7",
+   "destination": "/articles/3.2#3.2.7",
+   "permanent": false
+  },
+  {
+   "source": "/article/3.2.7",
+   "destination": "/articles/3.2#3.2.7",
+   "permanent": false
+  },
+  {
+   "source": "/3.2.8",
+   "destination": "/articles/3.2#3.2.8",
+   "permanent": false
+  },
+  {
+   "source": "/articles/3.2.8",
+   "destination": "/articles/3.2#3.2.8",
+   "permanent": false
+  },
+  {
+   "source": "/article/3.2.8",
+   "destination": "/articles/3.2#3.2.8",
+   "permanent": false
+  },
+  {
+   "source": "/3.2.9",
+   "destination": "/articles/3.2#3.2.9",
+   "permanent": false
+  },
+  {
+   "source": "/articles/3.2.9",
+   "destination": "/articles/3.2#3.2.9",
+   "permanent": false
+  },
+  {
+   "source": "/article/3.2.9",
+   "destination": "/articles/3.2#3.2.9",
+   "permanent": false
+  },
+  {
+   "source": "/3.2.10",
+   "destination": "/articles/3.2#3.2.10",
+   "permanent": false
+  },
+  {
+   "source": "/articles/3.2.10",
+   "destination": "/articles/3.2#3.2.10",
+   "permanent": false
+  },
+  {
+   "source": "/article/3.2.10",
+   "destination": "/articles/3.2#3.2.10",
+   "permanent": false
+  },
+  {
+   "source": "/3.2.11",
+   "destination": "/articles/3.2#3.2.11",
+   "permanent": false
+  },
+  {
+   "source": "/articles/3.2.11",
+   "destination": "/articles/3.2#3.2.11",
+   "permanent": false
+  },
+  {
+   "source": "/article/3.2.11",
+   "destination": "/articles/3.2#3.2.11",
+   "permanent": false
+  },
+  {
+   "source": "/3.3.1",
+   "destination": "/articles/3.3#3.3.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/3.3.1",
+   "destination": "/articles/3.3#3.3.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/3.3.1",
+   "destination": "/articles/3.3#3.3.1",
+   "permanent": false
+  },
+  {
+   "source": "/3.3.2",
+   "destination": "/articles/3.3#3.3.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/3.3.2",
+   "destination": "/articles/3.3#3.3.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/3.3.2",
+   "destination": "/articles/3.3#3.3.2",
+   "permanent": false
+  },
+  {
+   "source": "/3.3.3",
+   "destination": "/articles/3.3#3.3.3",
+   "permanent": false
+  },
+  {
+   "source": "/articles/3.3.3",
+   "destination": "/articles/3.3#3.3.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/3.3.3",
+   "destination": "/articles/3.3#3.3.3",
+   "permanent": false
+  },
+  {
+   "source": "/3.3.4",
+   "destination": "/articles/3.3#3.3.4",
+   "permanent": false
+  },
+  {
+   "source": "/articles/3.3.4",
+   "destination": "/articles/3.3#3.3.4",
+   "permanent": false
+  },
+  {
+   "source": "/article/3.3.4",
+   "destination": "/articles/3.3#3.3.4",
+   "permanent": false
+  },
+  {
+   "source": "/3.3.5",
+   "destination": "/articles/3.3#3.3.5",
+   "permanent": false
+  },
+  {
+   "source": "/articles/3.3.5",
+   "destination": "/articles/3.3#3.3.5",
+   "permanent": false
+  },
+  {
+   "source": "/article/3.3.5",
+   "destination": "/articles/3.3#3.3.5",
+   "permanent": false
+  },
+  {
+   "source": "/3.3.6",
+   "destination": "/articles/3.3#3.3.6",
+   "permanent": false
+  },
+  {
+   "source": "/articles/3.3.6",
+   "destination": "/articles/3.3#3.3.6",
+   "permanent": false
+  },
+  {
+   "source": "/article/3.3.6",
+   "destination": "/articles/3.3#3.3.6",
+   "permanent": false
+  },
+  {
+   "source": "/3.4.1",
+   "destination": "/articles/3.4#3.4.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/3.4.1",
+   "destination": "/articles/3.4#3.4.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/3.4.1",
+   "destination": "/articles/3.4#3.4.1",
+   "permanent": false
+  },
+  {
+   "source": "/3.4.2",
+   "destination": "/articles/3.4#3.4.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/3.4.2",
+   "destination": "/articles/3.4#3.4.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/3.4.2",
+   "destination": "/articles/3.4#3.4.2",
+   "permanent": false
+  },
+  {
+   "source": "/3.4.3",
+   "destination": "/articles/3.4#3.4.3",
+   "permanent": false
+  },
+  {
+   "source": "/articles/3.4.3",
+   "destination": "/articles/3.4#3.4.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/3.4.3",
+   "destination": "/articles/3.4#3.4.3",
+   "permanent": false
+  },
+  {
+   "source": "/3.4.4",
+   "destination": "/articles/3.4#3.4.4",
+   "permanent": false
+  },
+  {
+   "source": "/articles/3.4.4",
+   "destination": "/articles/3.4#3.4.4",
+   "permanent": false
+  },
+  {
+   "source": "/article/3.4.4",
+   "destination": "/articles/3.4#3.4.4",
+   "permanent": false
+  },
+  {
+   "source": "/3.4.5",
+   "destination": "/articles/3.4#3.4.5",
+   "permanent": false
+  },
+  {
+   "source": "/articles/3.4.5",
+   "destination": "/articles/3.4#3.4.5",
+   "permanent": false
+  },
+  {
+   "source": "/article/3.4.5",
+   "destination": "/articles/3.4#3.4.5",
+   "permanent": false
+  },
+  {
+   "source": "/3.5.1",
+   "destination": "/articles/3.5#3.5.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/3.5.1",
+   "destination": "/articles/3.5#3.5.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/3.5.1",
+   "destination": "/articles/3.5#3.5.1",
+   "permanent": false
+  },
+  {
+   "source": "/3.5.2",
+   "destination": "/articles/3.5#3.5.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/3.5.2",
+   "destination": "/articles/3.5#3.5.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/3.5.2",
+   "destination": "/articles/3.5#3.5.2",
+   "permanent": false
+  },
+  {
+   "source": "/3.5.3",
+   "destination": "/articles/3.5#3.5.3",
+   "permanent": false
+  },
+  {
+   "source": "/articles/3.5.3",
+   "destination": "/articles/3.5#3.5.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/3.5.3",
+   "destination": "/articles/3.5#3.5.3",
+   "permanent": false
+  },
+  {
+   "source": "/3.5.4",
+   "destination": "/articles/3.5#3.5.4",
+   "permanent": false
+  },
+  {
+   "source": "/articles/3.5.4",
+   "destination": "/articles/3.5#3.5.4",
+   "permanent": false
+  },
+  {
+   "source": "/article/3.5.4",
+   "destination": "/articles/3.5#3.5.4",
+   "permanent": false
+  },
+  {
+   "source": "/3.5.5",
+   "destination": "/articles/3.5#3.5.5",
+   "permanent": false
+  },
+  {
+   "source": "/articles/3.5.5",
+   "destination": "/articles/3.5#3.5.5",
+   "permanent": false
+  },
+  {
+   "source": "/article/3.5.5",
+   "destination": "/articles/3.5#3.5.5",
+   "permanent": false
+  },
+  {
+   "source": "/4.1.1",
+   "destination": "/articles/4.1#4.1.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/4.1.1",
+   "destination": "/articles/4.1#4.1.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/4.1.1",
+   "destination": "/articles/4.1#4.1.1",
+   "permanent": false
+  },
+  {
+   "source": "/4.1.2",
+   "destination": "/articles/4.1#4.1.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/4.1.2",
+   "destination": "/articles/4.1#4.1.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/4.1.2",
+   "destination": "/articles/4.1#4.1.2",
+   "permanent": false
+  },
+  {
+   "source": "/4.1.3",
+   "destination": "/articles/4.1#4.1.3",
+   "permanent": false
+  },
+  {
+   "source": "/articles/4.1.3",
+   "destination": "/articles/4.1#4.1.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/4.1.3",
+   "destination": "/articles/4.1#4.1.3",
+   "permanent": false
+  },
+  {
+   "source": "/4.1.4",
+   "destination": "/articles/4.1#4.1.4",
+   "permanent": false
+  },
+  {
+   "source": "/articles/4.1.4",
+   "destination": "/articles/4.1#4.1.4",
+   "permanent": false
+  },
+  {
+   "source": "/article/4.1.4",
+   "destination": "/articles/4.1#4.1.4",
+   "permanent": false
+  },
+  {
+   "source": "/4.1.5",
+   "destination": "/articles/4.1#4.1.5",
+   "permanent": false
+  },
+  {
+   "source": "/articles/4.1.5",
+   "destination": "/articles/4.1#4.1.5",
+   "permanent": false
+  },
+  {
+   "source": "/article/4.1.5",
+   "destination": "/articles/4.1#4.1.5",
+   "permanent": false
+  },
+  {
+   "source": "/4.2.1",
+   "destination": "/articles/4.2#4.2.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/4.2.1",
+   "destination": "/articles/4.2#4.2.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/4.2.1",
+   "destination": "/articles/4.2#4.2.1",
+   "permanent": false
+  },
+  {
+   "source": "/4.2.2",
+   "destination": "/articles/4.2#4.2.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/4.2.2",
+   "destination": "/articles/4.2#4.2.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/4.2.2",
+   "destination": "/articles/4.2#4.2.2",
+   "permanent": false
+  },
+  {
+   "source": "/4.3.1",
+   "destination": "/articles/4.3#4.3.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/4.3.1",
+   "destination": "/articles/4.3#4.3.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/4.3.1",
+   "destination": "/articles/4.3#4.3.1",
+   "permanent": false
+  },
+  {
+   "source": "/4.3.2",
+   "destination": "/articles/4.3#4.3.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/4.3.2",
+   "destination": "/articles/4.3#4.3.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/4.3.2",
+   "destination": "/articles/4.3#4.3.2",
+   "permanent": false
+  },
+  {
+   "source": "/4.3.3",
+   "destination": "/articles/4.3#4.3.3",
+   "permanent": false
+  },
+  {
+   "source": "/articles/4.3.3",
+   "destination": "/articles/4.3#4.3.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/4.3.3",
+   "destination": "/articles/4.3#4.3.3",
+   "permanent": false
+  },
+  {
+   "source": "/4.3.4",
+   "destination": "/articles/4.3#4.3.4",
+   "permanent": false
+  },
+  {
+   "source": "/articles/4.3.4",
+   "destination": "/articles/4.3#4.3.4",
+   "permanent": false
+  },
+  {
+   "source": "/article/4.3.4",
+   "destination": "/articles/4.3#4.3.4",
+   "permanent": false
+  },
+  {
+   "source": "/4.4.1",
+   "destination": "/articles/4.4#4.4.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/4.4.1",
+   "destination": "/articles/4.4#4.4.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/4.4.1",
+   "destination": "/articles/4.4#4.4.1",
+   "permanent": false
+  },
+  {
+   "source": "/4.4.2",
+   "destination": "/articles/4.4#4.4.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/4.4.2",
+   "destination": "/articles/4.4#4.4.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/4.4.2",
+   "destination": "/articles/4.4#4.4.2",
+   "permanent": false
+  },
+  {
+   "source": "/4.4.3",
+   "destination": "/articles/4.4#4.4.3",
+   "permanent": false
+  },
+  {
+   "source": "/articles/4.4.3",
+   "destination": "/articles/4.4#4.4.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/4.4.3",
+   "destination": "/articles/4.4#4.4.3",
+   "permanent": false
+  },
+  {
+   "source": "/4.4.4",
+   "destination": "/articles/4.4#4.4.4",
+   "permanent": false
+  },
+  {
+   "source": "/articles/4.4.4",
+   "destination": "/articles/4.4#4.4.4",
+   "permanent": false
+  },
+  {
+   "source": "/article/4.4.4",
+   "destination": "/articles/4.4#4.4.4",
+   "permanent": false
+  },
+  {
+   "source": "/4.4.5",
+   "destination": "/articles/4.4#4.4.5",
+   "permanent": false
+  },
+  {
+   "source": "/articles/4.4.5",
+   "destination": "/articles/4.4#4.4.5",
+   "permanent": false
+  },
+  {
+   "source": "/article/4.4.5",
+   "destination": "/articles/4.4#4.4.5",
+   "permanent": false
+  },
+  {
+   "source": "/4.4.6",
+   "destination": "/articles/4.4#4.4.6",
+   "permanent": false
+  },
+  {
+   "source": "/articles/4.4.6",
+   "destination": "/articles/4.4#4.4.6",
+   "permanent": false
+  },
+  {
+   "source": "/article/4.4.6",
+   "destination": "/articles/4.4#4.4.6",
+   "permanent": false
+  },
+  {
+   "source": "/4.4.7",
+   "destination": "/articles/4.4#4.4.7",
+   "permanent": false
+  },
+  {
+   "source": "/articles/4.4.7",
+   "destination": "/articles/4.4#4.4.7",
+   "permanent": false
+  },
+  {
+   "source": "/article/4.4.7",
+   "destination": "/articles/4.4#4.4.7",
+   "permanent": false
+  },
+  {
+   "source": "/4.5.1",
+   "destination": "/articles/4.5#4.5.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/4.5.1",
+   "destination": "/articles/4.5#4.5.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/4.5.1",
+   "destination": "/articles/4.5#4.5.1",
+   "permanent": false
+  },
+  {
+   "source": "/4.5.2",
+   "destination": "/articles/4.5#4.5.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/4.5.2",
+   "destination": "/articles/4.5#4.5.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/4.5.2",
+   "destination": "/articles/4.5#4.5.2",
+   "permanent": false
+  },
+  {
+   "source": "/4.5.3",
+   "destination": "/articles/4.5#4.5.3",
+   "permanent": false
+  },
+  {
+   "source": "/articles/4.5.3",
+   "destination": "/articles/4.5#4.5.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/4.5.3",
+   "destination": "/articles/4.5#4.5.3",
+   "permanent": false
+  },
+  {
+   "source": "/4.5.4",
+   "destination": "/articles/4.5#4.5.4",
+   "permanent": false
+  },
+  {
+   "source": "/articles/4.5.4",
+   "destination": "/articles/4.5#4.5.4",
+   "permanent": false
+  },
+  {
+   "source": "/article/4.5.4",
+   "destination": "/articles/4.5#4.5.4",
+   "permanent": false
+  },
+  {
+   "source": "/4.5.5",
+   "destination": "/articles/4.5#4.5.5",
+   "permanent": false
+  },
+  {
+   "source": "/articles/4.5.5",
+   "destination": "/articles/4.5#4.5.5",
+   "permanent": false
+  },
+  {
+   "source": "/article/4.5.5",
+   "destination": "/articles/4.5#4.5.5",
+   "permanent": false
+  },
+  {
+   "source": "/4.5.6",
+   "destination": "/articles/4.5#4.5.6",
+   "permanent": false
+  },
+  {
+   "source": "/articles/4.5.6",
+   "destination": "/articles/4.5#4.5.6",
+   "permanent": false
+  },
+  {
+   "source": "/article/4.5.6",
+   "destination": "/articles/4.5#4.5.6",
+   "permanent": false
+  },
+  {
+   "source": "/4.6.1",
+   "destination": "/articles/4.6#4.6.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/4.6.1",
+   "destination": "/articles/4.6#4.6.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/4.6.1",
+   "destination": "/articles/4.6#4.6.1",
+   "permanent": false
+  },
+  {
+   "source": "/4.6.2",
+   "destination": "/articles/4.6#4.6.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/4.6.2",
+   "destination": "/articles/4.6#4.6.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/4.6.2",
+   "destination": "/articles/4.6#4.6.2",
+   "permanent": false
+  },
+  {
+   "source": "/4.6.3",
+   "destination": "/articles/4.6#4.6.3",
+   "permanent": false
+  },
+  {
+   "source": "/articles/4.6.3",
+   "destination": "/articles/4.6#4.6.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/4.6.3",
+   "destination": "/articles/4.6#4.6.3",
+   "permanent": false
+  },
+  {
+   "source": "/4.6.4",
+   "destination": "/articles/4.6#4.6.4",
+   "permanent": false
+  },
+  {
+   "source": "/articles/4.6.4",
+   "destination": "/articles/4.6#4.6.4",
+   "permanent": false
+  },
+  {
+   "source": "/article/4.6.4",
+   "destination": "/articles/4.6#4.6.4",
+   "permanent": false
+  },
+  {
+   "source": "/5.1.1",
+   "destination": "/articles/5.1#5.1.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/5.1.1",
+   "destination": "/articles/5.1#5.1.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/5.1.1",
+   "destination": "/articles/5.1#5.1.1",
+   "permanent": false
+  },
+  {
+   "source": "/5.1.2",
+   "destination": "/articles/5.1#5.1.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/5.1.2",
+   "destination": "/articles/5.1#5.1.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/5.1.2",
+   "destination": "/articles/5.1#5.1.2",
+   "permanent": false
+  },
+  {
+   "source": "/5.1.3",
+   "destination": "/articles/5.1#5.1.3",
+   "permanent": false
+  },
+  {
+   "source": "/articles/5.1.3",
+   "destination": "/articles/5.1#5.1.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/5.1.3",
+   "destination": "/articles/5.1#5.1.3",
+   "permanent": false
+  },
+  {
+   "source": "/5.2.1",
+   "destination": "/articles/5.2#5.2.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/5.2.1",
+   "destination": "/articles/5.2#5.2.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/5.2.1",
+   "destination": "/articles/5.2#5.2.1",
+   "permanent": false
+  },
+  {
+   "source": "/5.2.2",
+   "destination": "/articles/5.2#5.2.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/5.2.2",
+   "destination": "/articles/5.2#5.2.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/5.2.2",
+   "destination": "/articles/5.2#5.2.2",
+   "permanent": false
+  },
+  {
+   "source": "/5.2.3",
+   "destination": "/articles/5.2#5.2.3",
+   "permanent": false
+  },
+  {
+   "source": "/articles/5.2.3",
+   "destination": "/articles/5.2#5.2.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/5.2.3",
+   "destination": "/articles/5.2#5.2.3",
+   "permanent": false
+  },
+  {
+   "source": "/5.2.4",
+   "destination": "/articles/5.2#5.2.4",
+   "permanent": false
+  },
+  {
+   "source": "/articles/5.2.4",
+   "destination": "/articles/5.2#5.2.4",
+   "permanent": false
+  },
+  {
+   "source": "/article/5.2.4",
+   "destination": "/articles/5.2#5.2.4",
+   "permanent": false
+  },
+  {
+   "source": "/5.2.5",
+   "destination": "/articles/5.2#5.2.5",
+   "permanent": false
+  },
+  {
+   "source": "/articles/5.2.5",
+   "destination": "/articles/5.2#5.2.5",
+   "permanent": false
+  },
+  {
+   "source": "/article/5.2.5",
+   "destination": "/articles/5.2#5.2.5",
+   "permanent": false
+  },
+  {
+   "source": "/5.3.1",
+   "destination": "/articles/5.3#5.3.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/5.3.1",
+   "destination": "/articles/5.3#5.3.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/5.3.1",
+   "destination": "/articles/5.3#5.3.1",
+   "permanent": false
+  },
+  {
+   "source": "/5.3.2",
+   "destination": "/articles/5.3#5.3.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/5.3.2",
+   "destination": "/articles/5.3#5.3.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/5.3.2",
+   "destination": "/articles/5.3#5.3.2",
+   "permanent": false
+  },
+  {
+   "source": "/5.3.3",
+   "destination": "/articles/5.3#5.3.3",
+   "permanent": false
+  },
+  {
+   "source": "/articles/5.3.3",
+   "destination": "/articles/5.3#5.3.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/5.3.3",
+   "destination": "/articles/5.3#5.3.3",
+   "permanent": false
+  },
+  {
+   "source": "/5.3.4",
+   "destination": "/articles/5.3#5.3.4",
+   "permanent": false
+  },
+  {
+   "source": "/articles/5.3.4",
+   "destination": "/articles/5.3#5.3.4",
+   "permanent": false
+  },
+  {
+   "source": "/article/5.3.4",
+   "destination": "/articles/5.3#5.3.4",
+   "permanent": false
+  },
+  {
+   "source": "/5.3.5",
+   "destination": "/articles/5.3#5.3.5",
+   "permanent": false
+  },
+  {
+   "source": "/articles/5.3.5",
+   "destination": "/articles/5.3#5.3.5",
+   "permanent": false
+  },
+  {
+   "source": "/article/5.3.5",
+   "destination": "/articles/5.3#5.3.5",
+   "permanent": false
+  },
+  {
+   "source": "/5.3.6",
+   "destination": "/articles/5.3#5.3.6",
+   "permanent": false
+  },
+  {
+   "source": "/articles/5.3.6",
+   "destination": "/articles/5.3#5.3.6",
+   "permanent": false
+  },
+  {
+   "source": "/article/5.3.6",
+   "destination": "/articles/5.3#5.3.6",
+   "permanent": false
+  },
+  {
+   "source": "/5.3.7",
+   "destination": "/articles/5.3#5.3.7",
+   "permanent": false
+  },
+  {
+   "source": "/articles/5.3.7",
+   "destination": "/articles/5.3#5.3.7",
+   "permanent": false
+  },
+  {
+   "source": "/article/5.3.7",
+   "destination": "/articles/5.3#5.3.7",
+   "permanent": false
+  },
+  {
+   "source": "/5.4.1",
+   "destination": "/articles/5.4#5.4.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/5.4.1",
+   "destination": "/articles/5.4#5.4.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/5.4.1",
+   "destination": "/articles/5.4#5.4.1",
+   "permanent": false
+  },
+  {
+   "source": "/5.4.2",
+   "destination": "/articles/5.4#5.4.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/5.4.2",
+   "destination": "/articles/5.4#5.4.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/5.4.2",
+   "destination": "/articles/5.4#5.4.2",
+   "permanent": false
+  },
+  {
+   "source": "/5.4.3",
+   "destination": "/articles/5.4#5.4.3",
+   "permanent": false
+  },
+  {
+   "source": "/articles/5.4.3",
+   "destination": "/articles/5.4#5.4.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/5.4.3",
+   "destination": "/articles/5.4#5.4.3",
+   "permanent": false
+  },
+  {
+   "source": "/5.4.4",
+   "destination": "/articles/5.4#5.4.4",
+   "permanent": false
+  },
+  {
+   "source": "/articles/5.4.4",
+   "destination": "/articles/5.4#5.4.4",
+   "permanent": false
+  },
+  {
+   "source": "/article/5.4.4",
+   "destination": "/articles/5.4#5.4.4",
+   "permanent": false
+  },
+  {
+   "source": "/5.5.1",
+   "destination": "/articles/5.5#5.5.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/5.5.1",
+   "destination": "/articles/5.5#5.5.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/5.5.1",
+   "destination": "/articles/5.5#5.5.1",
+   "permanent": false
+  },
+  {
+   "source": "/5.5.2",
+   "destination": "/articles/5.5#5.5.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/5.5.2",
+   "destination": "/articles/5.5#5.5.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/5.5.2",
+   "destination": "/articles/5.5#5.5.2",
+   "permanent": false
+  },
+  {
+   "source": "/5.5.3",
+   "destination": "/articles/5.5#5.5.3",
+   "permanent": false
+  },
+  {
+   "source": "/articles/5.5.3",
+   "destination": "/articles/5.5#5.5.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/5.5.3",
+   "destination": "/articles/5.5#5.5.3",
+   "permanent": false
+  },
+  {
+   "source": "/5.5.4",
+   "destination": "/articles/5.5#5.5.4",
+   "permanent": false
+  },
+  {
+   "source": "/articles/5.5.4",
+   "destination": "/articles/5.5#5.5.4",
+   "permanent": false
+  },
+  {
+   "source": "/article/5.5.4",
+   "destination": "/articles/5.5#5.5.4",
+   "permanent": false
+  },
+  {
+   "source": "/5.6.1",
+   "destination": "/articles/5.6#5.6.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/5.6.1",
+   "destination": "/articles/5.6#5.6.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/5.6.1",
+   "destination": "/articles/5.6#5.6.1",
+   "permanent": false
+  },
+  {
+   "source": "/5.6.2",
+   "destination": "/articles/5.6#5.6.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/5.6.2",
+   "destination": "/articles/5.6#5.6.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/5.6.2",
+   "destination": "/articles/5.6#5.6.2",
+   "permanent": false
+  },
+  {
+   "source": "/6.1.1",
+   "destination": "/articles/6.1#6.1.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/6.1.1",
+   "destination": "/articles/6.1#6.1.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/6.1.1",
+   "destination": "/articles/6.1#6.1.1",
+   "permanent": false
+  },
+  {
+   "source": "/6.1.2",
+   "destination": "/articles/6.1#6.1.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/6.1.2",
+   "destination": "/articles/6.1#6.1.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/6.1.2",
+   "destination": "/articles/6.1#6.1.2",
+   "permanent": false
+  },
+  {
+   "source": "/6.1.3",
+   "destination": "/articles/6.1#6.1.3",
+   "permanent": false
+  },
+  {
+   "source": "/articles/6.1.3",
+   "destination": "/articles/6.1#6.1.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/6.1.3",
+   "destination": "/articles/6.1#6.1.3",
+   "permanent": false
+  },
+  {
+   "source": "/6.2.1",
+   "destination": "/articles/6.2#6.2.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/6.2.1",
+   "destination": "/articles/6.2#6.2.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/6.2.1",
+   "destination": "/articles/6.2#6.2.1",
+   "permanent": false
+  },
+  {
+   "source": "/6.2.2",
+   "destination": "/articles/6.2#6.2.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/6.2.2",
+   "destination": "/articles/6.2#6.2.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/6.2.2",
+   "destination": "/articles/6.2#6.2.2",
+   "permanent": false
+  },
+  {
+   "source": "/6.3.1",
+   "destination": "/articles/6.3#6.3.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/6.3.1",
+   "destination": "/articles/6.3#6.3.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/6.3.1",
+   "destination": "/articles/6.3#6.3.1",
+   "permanent": false
+  },
+  {
+   "source": "/6.3.2",
+   "destination": "/articles/6.3#6.3.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/6.3.2",
+   "destination": "/articles/6.3#6.3.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/6.3.2",
+   "destination": "/articles/6.3#6.3.2",
+   "permanent": false
+  },
+  {
+   "source": "/6.3.3",
+   "destination": "/articles/6.3#6.3.3",
+   "permanent": false
+  },
+  {
+   "source": "/articles/6.3.3",
+   "destination": "/articles/6.3#6.3.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/6.3.3",
+   "destination": "/articles/6.3#6.3.3",
+   "permanent": false
+  },
+  {
+   "source": "/6.3.4",
+   "destination": "/articles/6.3#6.3.4",
+   "permanent": false
+  },
+  {
+   "source": "/articles/6.3.4",
+   "destination": "/articles/6.3#6.3.4",
+   "permanent": false
+  },
+  {
+   "source": "/article/6.3.4",
+   "destination": "/articles/6.3#6.3.4",
+   "permanent": false
+  },
+  {
+   "source": "/6.4.1",
+   "destination": "/articles/6.4#6.4.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/6.4.1",
+   "destination": "/articles/6.4#6.4.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/6.4.1",
+   "destination": "/articles/6.4#6.4.1",
+   "permanent": false
+  },
+  {
+   "source": "/6.5.1",
+   "destination": "/articles/6.5#6.5.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/6.5.1",
+   "destination": "/articles/6.5#6.5.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/6.5.1",
+   "destination": "/articles/6.5#6.5.1",
+   "permanent": false
+  },
+  {
+   "source": "/7.1.1",
+   "destination": "/articles/7.1#7.1.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/7.1.1",
+   "destination": "/articles/7.1#7.1.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/7.1.1",
+   "destination": "/articles/7.1#7.1.1",
+   "permanent": false
+  },
+  {
+   "source": "/7.1.2",
+   "destination": "/articles/7.1#7.1.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/7.1.2",
+   "destination": "/articles/7.1#7.1.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/7.1.2",
+   "destination": "/articles/7.1#7.1.2",
+   "permanent": false
+  },
+  {
+   "source": "/7.1.3",
+   "destination": "/articles/7.1#7.1.3",
+   "permanent": false
+  },
+  {
+   "source": "/articles/7.1.3",
+   "destination": "/articles/7.1#7.1.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/7.1.3",
+   "destination": "/articles/7.1#7.1.3",
+   "permanent": false
+  },
+  {
+   "source": "/7.1.4",
+   "destination": "/articles/7.1#7.1.4",
+   "permanent": false
+  },
+  {
+   "source": "/articles/7.1.4",
+   "destination": "/articles/7.1#7.1.4",
+   "permanent": false
+  },
+  {
+   "source": "/article/7.1.4",
+   "destination": "/articles/7.1#7.1.4",
+   "permanent": false
+  },
+  {
+   "source": "/7.2.1",
+   "destination": "/articles/7.2#7.2.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/7.2.1",
+   "destination": "/articles/7.2#7.2.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/7.2.1",
+   "destination": "/articles/7.2#7.2.1",
+   "permanent": false
+  },
+  {
+   "source": "/7.2.2",
+   "destination": "/articles/7.2#7.2.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/7.2.2",
+   "destination": "/articles/7.2#7.2.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/7.2.2",
+   "destination": "/articles/7.2#7.2.2",
+   "permanent": false
+  },
+  {
+   "source": "/7.2.3",
+   "destination": "/articles/7.2#7.2.3",
+   "permanent": false
+  },
+  {
+   "source": "/articles/7.2.3",
+   "destination": "/articles/7.2#7.2.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/7.2.3",
+   "destination": "/articles/7.2#7.2.3",
+   "permanent": false
+  },
+  {
+   "source": "/7.2.4",
+   "destination": "/articles/7.2#7.2.4",
+   "permanent": false
+  },
+  {
+   "source": "/articles/7.2.4",
+   "destination": "/articles/7.2#7.2.4",
+   "permanent": false
+  },
+  {
+   "source": "/article/7.2.4",
+   "destination": "/articles/7.2#7.2.4",
+   "permanent": false
+  },
+  {
+   "source": "/7.3.1",
+   "destination": "/articles/7.3#7.3.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/7.3.1",
+   "destination": "/articles/7.3#7.3.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/7.3.1",
+   "destination": "/articles/7.3#7.3.1",
+   "permanent": false
+  },
+  {
+   "source": "/7.3.2",
+   "destination": "/articles/7.3#7.3.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/7.3.2",
+   "destination": "/articles/7.3#7.3.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/7.3.2",
+   "destination": "/articles/7.3#7.3.2",
+   "permanent": false
+  },
+  {
+   "source": "/7.3.3",
+   "destination": "/articles/7.3#7.3.3",
+   "permanent": false
+  },
+  {
+   "source": "/articles/7.3.3",
+   "destination": "/articles/7.3#7.3.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/7.3.3",
+   "destination": "/articles/7.3#7.3.3",
+   "permanent": false
+  },
+  {
+   "source": "/7.3.4",
+   "destination": "/articles/7.3#7.3.4",
+   "permanent": false
+  },
+  {
+   "source": "/articles/7.3.4",
+   "destination": "/articles/7.3#7.3.4",
+   "permanent": false
+  },
+  {
+   "source": "/article/7.3.4",
+   "destination": "/articles/7.3#7.3.4",
+   "permanent": false
+  },
+  {
+   "source": "/7.3.5",
+   "destination": "/articles/7.3#7.3.5",
+   "permanent": false
+  },
+  {
+   "source": "/articles/7.3.5",
+   "destination": "/articles/7.3#7.3.5",
+   "permanent": false
+  },
+  {
+   "source": "/article/7.3.5",
+   "destination": "/articles/7.3#7.3.5",
+   "permanent": false
+  },
+  {
+   "source": "/7.3.6",
+   "destination": "/articles/7.3#7.3.6",
+   "permanent": false
+  },
+  {
+   "source": "/articles/7.3.6",
+   "destination": "/articles/7.3#7.3.6",
+   "permanent": false
+  },
+  {
+   "source": "/article/7.3.6",
+   "destination": "/articles/7.3#7.3.6",
+   "permanent": false
+  },
+  {
+   "source": "/7.3.7",
+   "destination": "/articles/7.3#7.3.7",
+   "permanent": false
+  },
+  {
+   "source": "/articles/7.3.7",
+   "destination": "/articles/7.3#7.3.7",
+   "permanent": false
+  },
+  {
+   "source": "/article/7.3.7",
+   "destination": "/articles/7.3#7.3.7",
+   "permanent": false
+  },
+  {
+   "source": "/7.3.8",
+   "destination": "/articles/7.3#7.3.8",
+   "permanent": false
+  },
+  {
+   "source": "/articles/7.3.8",
+   "destination": "/articles/7.3#7.3.8",
+   "permanent": false
+  },
+  {
+   "source": "/article/7.3.8",
+   "destination": "/articles/7.3#7.3.8",
+   "permanent": false
+  },
+  {
+   "source": "/7.4.1",
+   "destination": "/articles/7.4#7.4.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/7.4.1",
+   "destination": "/articles/7.4#7.4.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/7.4.1",
+   "destination": "/articles/7.4#7.4.1",
+   "permanent": false
+  },
+  {
+   "source": "/7.4.2",
+   "destination": "/articles/7.4#7.4.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/7.4.2",
+   "destination": "/articles/7.4#7.4.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/7.4.2",
+   "destination": "/articles/7.4#7.4.2",
+   "permanent": false
+  },
+  {
+   "source": "/7.4.3",
+   "destination": "/articles/7.4#7.4.3",
+   "permanent": false
+  },
+  {
+   "source": "/articles/7.4.3",
+   "destination": "/articles/7.4#7.4.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/7.4.3",
+   "destination": "/articles/7.4#7.4.3",
+   "permanent": false
+  },
+  {
+   "source": "/7.4.4",
+   "destination": "/articles/7.4#7.4.4",
+   "permanent": false
+  },
+  {
+   "source": "/articles/7.4.4",
+   "destination": "/articles/7.4#7.4.4",
+   "permanent": false
+  },
+  {
+   "source": "/article/7.4.4",
+   "destination": "/articles/7.4#7.4.4",
+   "permanent": false
+  },
+  {
+   "source": "/7.4.5",
+   "destination": "/articles/7.4#7.4.5",
+   "permanent": false
+  },
+  {
+   "source": "/articles/7.4.5",
+   "destination": "/articles/7.4#7.4.5",
+   "permanent": false
+  },
+  {
+   "source": "/article/7.4.5",
+   "destination": "/articles/7.4#7.4.5",
+   "permanent": false
+  },
+  {
+   "source": "/7.4.6",
+   "destination": "/articles/7.4#7.4.6",
+   "permanent": false
+  },
+  {
+   "source": "/articles/7.4.6",
+   "destination": "/articles/7.4#7.4.6",
+   "permanent": false
+  },
+  {
+   "source": "/article/7.4.6",
+   "destination": "/articles/7.4#7.4.6",
+   "permanent": false
+  },
+  {
+   "source": "/7.5.1",
+   "destination": "/articles/7.5#7.5.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/7.5.1",
+   "destination": "/articles/7.5#7.5.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/7.5.1",
+   "destination": "/articles/7.5#7.5.1",
+   "permanent": false
+  },
+  {
+   "source": "/7.5.2",
+   "destination": "/articles/7.5#7.5.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/7.5.2",
+   "destination": "/articles/7.5#7.5.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/7.5.2",
+   "destination": "/articles/7.5#7.5.2",
+   "permanent": false
+  },
+  {
+   "source": "/7.6.1",
+   "destination": "/articles/7.6#7.6.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/7.6.1",
+   "destination": "/articles/7.6#7.6.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/7.6.1",
+   "destination": "/articles/7.6#7.6.1",
+   "permanent": false
+  },
+  {
+   "source": "/7.6.2",
+   "destination": "/articles/7.6#7.6.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/7.6.2",
+   "destination": "/articles/7.6#7.6.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/7.6.2",
+   "destination": "/articles/7.6#7.6.2",
+   "permanent": false
+  },
+  {
+   "source": "/7.6.3",
+   "destination": "/articles/7.6#7.6.3",
+   "permanent": false
+  },
+  {
+   "source": "/articles/7.6.3",
+   "destination": "/articles/7.6#7.6.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/7.6.3",
+   "destination": "/articles/7.6#7.6.3",
+   "permanent": false
+  },
+  {
+   "source": "/7.6.4",
+   "destination": "/articles/7.6#7.6.4",
+   "permanent": false
+  },
+  {
+   "source": "/articles/7.6.4",
+   "destination": "/articles/7.6#7.6.4",
+   "permanent": false
+  },
+  {
+   "source": "/article/7.6.4",
+   "destination": "/articles/7.6#7.6.4",
+   "permanent": false
+  },
+  {
+   "source": "/7.6.5",
+   "destination": "/articles/7.6#7.6.5",
+   "permanent": false
+  },
+  {
+   "source": "/articles/7.6.5",
+   "destination": "/articles/7.6#7.6.5",
+   "permanent": false
+  },
+  {
+   "source": "/article/7.6.5",
+   "destination": "/articles/7.6#7.6.5",
+   "permanent": false
+  },
+  {
+   "source": "/7.6.6",
+   "destination": "/articles/7.6#7.6.6",
+   "permanent": false
+  },
+  {
+   "source": "/articles/7.6.6",
+   "destination": "/articles/7.6#7.6.6",
+   "permanent": false
+  },
+  {
+   "source": "/article/7.6.6",
+   "destination": "/articles/7.6#7.6.6",
+   "permanent": false
+  },
+  {
+   "source": "/8.1.1",
+   "destination": "/articles/8.1#8.1.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/8.1.1",
+   "destination": "/articles/8.1#8.1.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/8.1.1",
+   "destination": "/articles/8.1#8.1.1",
+   "permanent": false
+  },
+  {
+   "source": "/8.1.2",
+   "destination": "/articles/8.1#8.1.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/8.1.2",
+   "destination": "/articles/8.1#8.1.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/8.1.2",
+   "destination": "/articles/8.1#8.1.2",
+   "permanent": false
+  },
+  {
+   "source": "/8.1.3",
+   "destination": "/articles/8.1#8.1.3",
+   "permanent": false
+  },
+  {
+   "source": "/articles/8.1.3",
+   "destination": "/articles/8.1#8.1.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/8.1.3",
+   "destination": "/articles/8.1#8.1.3",
+   "permanent": false
+  },
+  {
+   "source": "/8.1.4",
+   "destination": "/articles/8.1#8.1.4",
+   "permanent": false
+  },
+  {
+   "source": "/articles/8.1.4",
+   "destination": "/articles/8.1#8.1.4",
+   "permanent": false
+  },
+  {
+   "source": "/article/8.1.4",
+   "destination": "/articles/8.1#8.1.4",
+   "permanent": false
+  },
+  {
+   "source": "/8.1.5",
+   "destination": "/articles/8.1#8.1.5",
+   "permanent": false
+  },
+  {
+   "source": "/articles/8.1.5",
+   "destination": "/articles/8.1#8.1.5",
+   "permanent": false
+  },
+  {
+   "source": "/article/8.1.5",
+   "destination": "/articles/8.1#8.1.5",
+   "permanent": false
+  },
+  {
+   "source": "/8.1.6",
+   "destination": "/articles/8.1#8.1.6",
+   "permanent": false
+  },
+  {
+   "source": "/articles/8.1.6",
+   "destination": "/articles/8.1#8.1.6",
+   "permanent": false
+  },
+  {
+   "source": "/article/8.1.6",
+   "destination": "/articles/8.1#8.1.6",
+   "permanent": false
+  },
+  {
+   "source": "/8.1.7",
+   "destination": "/articles/8.1#8.1.7",
+   "permanent": false
+  },
+  {
+   "source": "/articles/8.1.7",
+   "destination": "/articles/8.1#8.1.7",
+   "permanent": false
+  },
+  {
+   "source": "/article/8.1.7",
+   "destination": "/articles/8.1#8.1.7",
+   "permanent": false
+  },
+  {
+   "source": "/8.1.8",
+   "destination": "/articles/8.1#8.1.8",
+   "permanent": false
+  },
+  {
+   "source": "/articles/8.1.8",
+   "destination": "/articles/8.1#8.1.8",
+   "permanent": false
+  },
+  {
+   "source": "/article/8.1.8",
+   "destination": "/articles/8.1#8.1.8",
+   "permanent": false
+  },
+  {
+   "source": "/8.2.1",
+   "destination": "/articles/8.2#8.2.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/8.2.1",
+   "destination": "/articles/8.2#8.2.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/8.2.1",
+   "destination": "/articles/8.2#8.2.1",
+   "permanent": false
+  },
+  {
+   "source": "/8.2.2",
+   "destination": "/articles/8.2#8.2.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/8.2.2",
+   "destination": "/articles/8.2#8.2.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/8.2.2",
+   "destination": "/articles/8.2#8.2.2",
+   "permanent": false
+  },
+  {
+   "source": "/8.3.1",
+   "destination": "/articles/8.3#8.3.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/8.3.1",
+   "destination": "/articles/8.3#8.3.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/8.3.1",
+   "destination": "/articles/8.3#8.3.1",
+   "permanent": false
+  },
+  {
+   "source": "/9.1.1",
+   "destination": "/articles/9.1#9.1.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/9.1.1",
+   "destination": "/articles/9.1#9.1.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/9.1.1",
+   "destination": "/articles/9.1#9.1.1",
+   "permanent": false
+  },
+  {
+   "source": "/9.1.2",
+   "destination": "/articles/9.1#9.1.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/9.1.2",
+   "destination": "/articles/9.1#9.1.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/9.1.2",
+   "destination": "/articles/9.1#9.1.2",
+   "permanent": false
+  },
+  {
+   "source": "/9.1.3",
+   "destination": "/articles/9.1#9.1.3",
+   "permanent": false
+  },
+  {
+   "source": "/articles/9.1.3",
+   "destination": "/articles/9.1#9.1.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/9.1.3",
+   "destination": "/articles/9.1#9.1.3",
+   "permanent": false
+  },
+  {
+   "source": "/9.2.1",
+   "destination": "/articles/9.2#9.2.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/9.2.1",
+   "destination": "/articles/9.2#9.2.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/9.2.1",
+   "destination": "/articles/9.2#9.2.1",
+   "permanent": false
+  },
+  {
+   "source": "/9.2.2",
+   "destination": "/articles/9.2#9.2.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/9.2.2",
+   "destination": "/articles/9.2#9.2.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/9.2.2",
+   "destination": "/articles/9.2#9.2.2",
+   "permanent": false
+  },
+  {
+   "source": "/9.3.1",
+   "destination": "/articles/9.3#9.3.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/9.3.1",
+   "destination": "/articles/9.3#9.3.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/9.3.1",
+   "destination": "/articles/9.3#9.3.1",
+   "permanent": false
+  },
+  {
+   "source": "/9.3.2",
+   "destination": "/articles/9.3#9.3.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/9.3.2",
+   "destination": "/articles/9.3#9.3.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/9.3.2",
+   "destination": "/articles/9.3#9.3.2",
+   "permanent": false
+  },
+  {
+   "source": "/9.3.3",
+   "destination": "/articles/9.3#9.3.3",
+   "permanent": false
+  },
+  {
+   "source": "/articles/9.3.3",
+   "destination": "/articles/9.3#9.3.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/9.3.3",
+   "destination": "/articles/9.3#9.3.3",
+   "permanent": false
+  },
+  {
+   "source": "/9.3.4",
+   "destination": "/articles/9.3#9.3.4",
+   "permanent": false
+  },
+  {
+   "source": "/articles/9.3.4",
+   "destination": "/articles/9.3#9.3.4",
+   "permanent": false
+  },
+  {
+   "source": "/article/9.3.4",
+   "destination": "/articles/9.3#9.3.4",
+   "permanent": false
+  },
+  {
+   "source": "/9.3.5",
+   "destination": "/articles/9.3#9.3.5",
+   "permanent": false
+  },
+  {
+   "source": "/articles/9.3.5",
+   "destination": "/articles/9.3#9.3.5",
+   "permanent": false
+  },
+  {
+   "source": "/article/9.3.5",
+   "destination": "/articles/9.3#9.3.5",
+   "permanent": false
+  },
+  {
+   "source": "/9.4.1",
+   "destination": "/articles/9.4#9.4.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/9.4.1",
+   "destination": "/articles/9.4#9.4.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/9.4.1",
+   "destination": "/articles/9.4#9.4.1",
+   "permanent": false
+  },
+  {
+   "source": "/10.1.1",
+   "destination": "/articles/10.1#10.1.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/10.1.1",
+   "destination": "/articles/10.1#10.1.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/10.1.1",
+   "destination": "/articles/10.1#10.1.1",
+   "permanent": false
+  },
+  {
+   "source": "/10.2.1",
+   "destination": "/articles/10.2#10.2.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/10.2.1",
+   "destination": "/articles/10.2#10.2.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/10.2.1",
+   "destination": "/articles/10.2#10.2.1",
+   "permanent": false
+  },
+  {
+   "source": "/10.2.2",
+   "destination": "/articles/10.2#10.2.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/10.2.2",
+   "destination": "/articles/10.2#10.2.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/10.2.2",
+   "destination": "/articles/10.2#10.2.2",
+   "permanent": false
+  },
+  {
+   "source": "/10.2.3",
+   "destination": "/articles/10.2#10.2.3",
+   "permanent": false
+  },
+  {
+   "source": "/articles/10.2.3",
+   "destination": "/articles/10.2#10.2.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/10.2.3",
+   "destination": "/articles/10.2#10.2.3",
+   "permanent": false
+  },
+  {
+   "source": "/10.2.4",
+   "destination": "/articles/10.2#10.2.4",
+   "permanent": false
+  },
+  {
+   "source": "/articles/10.2.4",
+   "destination": "/articles/10.2#10.2.4",
+   "permanent": false
+  },
+  {
+   "source": "/article/10.2.4",
+   "destination": "/articles/10.2#10.2.4",
+   "permanent": false
+  },
+  {
+   "source": "/10.2.5",
+   "destination": "/articles/10.2#10.2.5",
+   "permanent": false
+  },
+  {
+   "source": "/articles/10.2.5",
+   "destination": "/articles/10.2#10.2.5",
+   "permanent": false
+  },
+  {
+   "source": "/article/10.2.5",
+   "destination": "/articles/10.2#10.2.5",
+   "permanent": false
+  },
+  {
+   "source": "/10.3.1",
+   "destination": "/articles/10.3#10.3.1",
+   "permanent": false
+  },
+  {
+   "source": "/articles/10.3.1",
+   "destination": "/articles/10.3#10.3.1",
+   "permanent": false
+  },
+  {
+   "source": "/article/10.3.1",
+   "destination": "/articles/10.3#10.3.1",
+   "permanent": false
+  },
+  {
+   "source": "/10.3.2",
+   "destination": "/articles/10.3#10.3.2",
+   "permanent": false
+  },
+  {
+   "source": "/articles/10.3.2",
+   "destination": "/articles/10.3#10.3.2",
+   "permanent": false
+  },
+  {
+   "source": "/article/10.3.2",
+   "destination": "/articles/10.3#10.3.2",
+   "permanent": false
+  },
+  {
+   "source": "/10.3.3",
+   "destination": "/articles/10.3#10.3.3",
+   "permanent": false
+  },
+  {
+   "source": "/articles/10.3.3",
+   "destination": "/articles/10.3#10.3.3",
+   "permanent": false
+  },
+  {
+   "source": "/article/10.3.3",
+   "destination": "/articles/10.3#10.3.3",
+   "permanent": false
+  },
+  {
+   "source": "/10.3.4",
+   "destination": "/articles/10.3#10.3.4",
+   "permanent": false
+  },
+  {
+   "source": "/articles/10.3.4",
+   "destination": "/articles/10.3#10.3.4",
+   "permanent": false
+  },
+  {
+   "source": "/article/10.3.4",
+   "destination": "/articles/10.3#10.3.4",
+   "permanent": false
+  },
+  {
+   "source": "/10.3.5",
+   "destination": "/articles/10.3#10.3.5",
+   "permanent": false
+  },
+  {
+   "source": "/articles/10.3.5",
+   "destination": "/articles/10.3#10.3.5",
+   "permanent": false
+  },
+  {
+   "source": "/article/10.3.5",
+   "destination": "/articles/10.3#10.3.5",
+   "permanent": false
+  },
+  {
+   "source": "/10.3.6",
+   "destination": "/articles/10.3#10.3.6",
+   "permanent": false
+  },
+  {
+   "source": "/articles/10.3.6",
+   "destination": "/articles/10.3#10.3.6",
+   "permanent": false
+  },
+  {
+   "source": "/article/10.3.6",
+   "destination": "/articles/10.3#10.3.6",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/acceptable-financial-accounting-standard",
+   "destination": "/definitions#acceptable-financial-accounting-standard",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/accrued-pension-expense",
+   "destination": "/definitions#accrued-pension-expense",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/additional-current-top-up-tax",
+   "destination": "/definitions#additional-current-top-up-tax",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/additional-tier-one-capital",
+   "destination": "/definitions#additional-tier-one-capital",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/additions-to-covered-taxes",
+   "destination": "/definitions#additions-to-covered-taxes",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/adjusted-asset-gain",
+   "destination": "/definitions#adjusted-asset-gain",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/adjusted-covered-taxes",
+   "destination": "/definitions#adjusted-covered-taxes",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/aggregate-asset-gain",
+   "destination": "/definitions#aggregate-asset-gain",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/agreed-administrative-guidance",
+   "destination": "/definitions#agreed-administrative-guidance",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/allocable-share-of-the-top-up-tax",
+   "destination": "/definitions#allocable-share-of-the-top-up-tax",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/annual-election",
+   "destination": "/definitions#annual-election",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/allocated-asset-gain",
+   "destination": "/definitions#allocated-asset-gain",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/arms-length-principle",
+   "destination": "/definitions#arms-length-principle",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/asymmetric-foreign-currency-gains-or-losses",
+   "destination": "/definitions#asymmetric-foreign-currency-gains-or-losses",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/authorised-accounting-body",
+   "destination": "/definitions#authorised-accounting-body",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/authorised",
+   "destination": "/definitions#authorised",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/average-globe-income-or-loss",
+   "destination": "/definitions#average-globe-income-or-loss",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/average-globe-revenue",
+   "destination": "/definitions#average-globe-revenue",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/commentary",
+   "destination": "/definitions#commentary",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/consolidated-financial-statements",
+   "destination": "/definitions#consolidated-financial-statements",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/constituent-entity",
+   "destination": "/definitions#constituent-entity",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/constituent-entity-owner",
+   "destination": "/definitions#constituent-entity-owner",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/controlled-foreign-company-tax-regime",
+   "destination": "/definitions#controlled-foreign-company-tax-regime",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/controlling-interest",
+   "destination": "/definitions#controlling-interest",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/cooperative",
+   "destination": "/definitions#cooperative",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/covered-taxes",
+   "destination": "/definitions#covered-taxes",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/deductible-dividend",
+   "destination": "/definitions#deductible-dividend",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/deductible-dividend-regime",
+   "destination": "/definitions#deductible-dividend-regime",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/deemed-distribution-tax",
+   "destination": "/definitions#deemed-distribution-tax",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/deemed-distribution-tax-recapture-account",
+   "destination": "/definitions#deemed-distribution-tax-recapture-account",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/departing-constituent-entity",
+   "destination": "/definitions#departing-constituent-entity",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/designated-filing-entity",
+   "destination": "/definitions#designated-filing-entity",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/designated-local-entity",
+   "destination": "/definitions#designated-local-entity",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/disallowed-accrual",
+   "destination": "/definitions#disallowed-accrual",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/disposition-recapture-ratio",
+   "destination": "/definitions#disposition-recapture-ratio",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/disqualified-refundable-imputation-tax",
+   "destination": "/definitions#disqualified-refundable-imputation-tax",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/dual-listed-arrangement",
+   "destination": "/definitions#dual-listed-arrangement",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/effective-tax-rate",
+   "destination": "/definitions#effective-tax-rate",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/election-year",
+   "destination": "/definitions#election-year",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/eligible-distribution-tax-system",
+   "destination": "/definitions#eligible-distribution-tax-system",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/eligible-employees",
+   "destination": "/definitions#eligible-employees",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/eligible-payroll-costs",
+   "destination": "/definitions#eligible-payroll-costs",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/eligible-tangible-assets",
+   "destination": "/definitions#eligible-tangible-assets",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/entity",
+   "destination": "/definitions#entity",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/etr-adjustment-article",
+   "destination": "/definitions#etr-adjustment-article",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/excess-profit",
+   "destination": "/definitions#excess-profit",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/excluded-dividends",
+   "destination": "/definitions#excluded-dividends",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/excluded-entity",
+   "destination": "/definitions#excluded-entity",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/excluded-equity-gain-or-loss",
+   "destination": "/definitions#excluded-equity-gain-or-loss",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/filing-constituent-entity",
+   "destination": "/definitions#filing-constituent-entity",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/financial-accounting-net-income-or-loss",
+   "destination": "/definitions#financial-accounting-net-income-or-loss",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/fiscal-year",
+   "destination": "/definitions#fiscal-year",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/five-year-election",
+   "destination": "/definitions#five-year-election",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/general-government",
+   "destination": "/definitions#general-government",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/globe-implementation-framework",
+   "destination": "/definitions#globe-implementation-framework",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/globe-income-of-all-constituent-entities",
+   "destination": "/definitions#globe-income-of-all-constituent-entities",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/globe-income-or-loss",
+   "destination": "/definitions#globe-income-or-loss",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/globe-information-return",
+   "destination": "/definitions#globe-information-return",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/globe-loss-deferred-tax-asset",
+   "destination": "/definitions#globe-loss-deferred-tax-asset",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/globe-loss-election",
+   "destination": "/definitions#globe-loss-election",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/globe-losses-of-all-constituent-entities",
+   "destination": "/definitions#globe-losses-of-all-constituent-entities",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/globe-reorganisation",
+   "destination": "/definitions#globe-reorganisation",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/globe-revenue",
+   "destination": "/definitions#globe-revenue",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/globe-rules",
+   "destination": "/definitions#globe-rules",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/globe-safe-harbour",
+   "destination": "/definitions#globe-safe-harbour",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/governmental-entity",
+   "destination": "/definitions#governmental-entity",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/group",
+   "destination": "/definitions#group",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/group-entity",
+   "destination": "/definitions#group-entity",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/high-tax-counterparty",
+   "destination": "/definitions#high-tax-counterparty",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/ifrs",
+   "destination": "/definitions#ifrs",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/iir",
+   "destination": "/definitions#iir",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/included-revaluation-method-gain-or-loss",
+   "destination": "/definitions#included-revaluation-method-gain-or-loss",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/insurance-investment-entity",
+   "destination": "/definitions#insurance-investment-entity",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/intermediate-parent-entity",
+   "destination": "/definitions#intermediate-parent-entity",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/international-organisation",
+   "destination": "/definitions#international-organisation",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/international-shipping-income",
+   "destination": "/definitions#international-shipping-income",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/intragroup-financing-arrangement",
+   "destination": "/definitions#intragroup-financing-arrangement",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/investment-entity",
+   "destination": "/definitions#investment-entity",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/investment-fund",
+   "destination": "/definitions#investment-fund",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/joint-venture",
+   "destination": "/definitions#joint-venture",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/jv-group",
+   "destination": "/definitions#jv-group",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/jv-group-top-up-tax",
+   "destination": "/definitions#jv-group-top-up-tax",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/jv-subsidiary",
+   "destination": "/definitions#jv-subsidiary",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/liable-constituent-entity-or-entities",
+   "destination": "/definitions#liable-constituent-entity-or-entities",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/local-tangible-asset",
+   "destination": "/definitions#local-tangible-asset",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/look-back-period",
+   "destination": "/definitions#look-back-period",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/loss-year",
+   "destination": "/definitions#loss-year",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/low-taxed-constituent-entity",
+   "destination": "/definitions#low-taxed-constituent-entity",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/low-tax-entity",
+   "destination": "/definitions#low-tax-entity",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/low-tax-jurisdiction",
+   "destination": "/definitions#low-tax-jurisdiction",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/main-entity",
+   "destination": "/definitions#main-entity",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/material-competitive-distortion",
+   "destination": "/definitions#material-competitive-distortion",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/minimum-rate",
+   "destination": "/definitions#minimum-rate",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/minority-owned-constituent-entity",
+   "destination": "/definitions#minority-owned-constituent-entity",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/minority-owned-parent-entity",
+   "destination": "/definitions#minority-owned-parent-entity",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/minority-owned-subgroup",
+   "destination": "/definitions#minority-owned-subgroup",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/minority-owned-subsidiary",
+   "destination": "/definitions#minority-owned-subsidiary",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/mne-group",
+   "destination": "/definitions#mne-group",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/mne-groups-allocable-share-of-the-investment-entitys-globe-income",
+   "destination": "/definitions#mne-groups-allocable-share-of-the-investment-entitys-globe-income",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/multi-parented-mne-group",
+   "destination": "/definitions#multi-parented-mne-group",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/net-asset-gain",
+   "destination": "/definitions#net-asset-gain",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/net-asset-loss",
+   "destination": "/definitions#net-asset-loss",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/net-book-value-of-tangible-assets",
+   "destination": "/definitions#net-book-value-of-tangible-assets",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/net-globe-income",
+   "destination": "/definitions#net-globe-income",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/net-globe-loss",
+   "destination": "/definitions#net-globe-loss",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/net-taxes-expense",
+   "destination": "/definitions#net-taxes-expense",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/non-profit-organisation",
+   "destination": "/definitions#non-profit-organisation",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/non-qualified-refundable-tax-credit",
+   "destination": "/definitions#non-qualified-refundable-tax-credit",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/non-qualifying-gain-or-loss",
+   "destination": "/definitions#non-qualifying-gain-or-loss",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/number-of-employees",
+   "destination": "/definitions#number-of-employees",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/oecd-model-tax-convention",
+   "destination": "/definitions#oecd-model-tax-convention",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/other-comprehensive-income",
+   "destination": "/definitions#other-comprehensive-income",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/ownership-interest",
+   "destination": "/definitions#ownership-interest",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/parent-entity",
+   "destination": "/definitions#parent-entity",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/parent-entitys-inclusion-ratio",
+   "destination": "/definitions#parent-entitys-inclusion-ratio",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/partially-owned-parent-entity",
+   "destination": "/definitions#partially-owned-parent-entity",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/passive-income",
+   "destination": "/definitions#passive-income",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/pension-fund",
+   "destination": "/definitions#pension-fund",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/pension-services-entity",
+   "destination": "/definitions#pension-services-entity",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/permanent-establishment",
+   "destination": "/definitions#permanent-establishment",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/policy-disallowed-expenses",
+   "destination": "/definitions#policy-disallowed-expenses",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/portfolio-shareholding",
+   "destination": "/definitions#portfolio-shareholding",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/prior-period-errors-and-changes-in-accounting-principles",
+   "destination": "/definitions#prior-period-errors-and-changes-in-accounting-principles",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/qualified-ancillary-international-shipping-income",
+   "destination": "/definitions#qualified-ancillary-international-shipping-income",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/qualified-domestic-minimum-top-up-tax",
+   "destination": "/definitions#qualified-domestic-minimum-top-up-tax",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/qualified-iir",
+   "destination": "/definitions#qualified-iir",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/qualified-imputation-tax",
+   "destination": "/definitions#qualified-imputation-tax",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/qualified-refundable-tax-credit",
+   "destination": "/definitions#qualified-refundable-tax-credit",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/qualified-utpr",
+   "destination": "/definitions#qualified-utpr",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/qualifying-competent-authority-agreement",
+   "destination": "/definitions#qualifying-competent-authority-agreement",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/real-estate-investment-vehicle",
+   "destination": "/definitions#real-estate-investment-vehicle",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/recaptured-deferred-tax-liability",
+   "destination": "/definitions#recaptured-deferred-tax-liability",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/recapture-exception-accrual",
+   "destination": "/definitions#recapture-exception-accrual",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/reductions-to-covered-taxes",
+   "destination": "/definitions#reductions-to-covered-taxes",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/reference-jurisdiction",
+   "destination": "/definitions#reference-jurisdiction",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/reporting-fiscal-year",
+   "destination": "/definitions#reporting-fiscal-year",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/short-term-portfolio-shareholding",
+   "destination": "/definitions#short-term-portfolio-shareholding",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/stapled-structure",
+   "destination": "/definitions#stapled-structure",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/stateless-constituent-entity",
+   "destination": "/definitions#stateless-constituent-entity",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/substance-based-income-exclusion",
+   "destination": "/definitions#substance-based-income-exclusion",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/tangible-assets",
+   "destination": "/definitions#tangible-assets",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/tax",
+   "destination": "/definitions#tax",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/taxable-distribution-method",
+   "destination": "/definitions#taxable-distribution-method",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/tax-treaty",
+   "destination": "/definitions#tax-treaty",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/tested-year",
+   "destination": "/definitions#tested-year",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/testing-period",
+   "destination": "/definitions#testing-period",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/top-up-tax",
+   "destination": "/definitions#top-up-tax",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/top-up-tax-percentage",
+   "destination": "/definitions#top-up-tax-percentage",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/total-deferred-tax-adjustment-amount",
+   "destination": "/definitions#total-deferred-tax-adjustment-amount",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/total-utpr-top-up-tax-amount",
+   "destination": "/definitions#total-utpr-top-up-tax-amount",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/transition-year",
+   "destination": "/definitions#transition-year",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/ultimate-parent-entity",
+   "destination": "/definitions#ultimate-parent-entity",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/undistributed-net-globe-income",
+   "destination": "/definitions#undistributed-net-globe-income",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/upe-jurisdiction",
+   "destination": "/definitions#upe-jurisdiction",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/utpr",
+   "destination": "/definitions#utpr",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/utpr-jurisdiction",
+   "destination": "/definitions#utpr-jurisdiction",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/utpr-percentage",
+   "destination": "/definitions#utpr-percentage",
+   "permanent": false
+  },
+  {
+   "source": "/definitions/utpr-top-up-tax-amount",
+   "destination": "/definitions#utpr-top-up-tax-amount",
+   "permanent": false
+  },
+  {
+   "source": "/chapter/1",
+   "destination": "/chapters/1",
+   "permanent": false
+  },
+  {
+   "source": "/chapter/2",
+   "destination": "/chapters/2",
+   "permanent": false
+  },
+  {
+   "source": "/chapter/3",
+   "destination": "/chapters/3",
+   "permanent": false
+  },
+  {
+   "source": "/chapter/4",
+   "destination": "/chapters/4",
+   "permanent": false
+  },
+  {
+   "source": "/chapter/5",
+   "destination": "/chapters/5",
+   "permanent": false
+  },
+  {
+   "source": "/chapter/6",
+   "destination": "/chapters/6",
+   "permanent": false
+  },
+  {
+   "source": "/chapter/7",
+   "destination": "/chapters/7",
+   "permanent": false
+  },
+  {
+   "source": "/chapter/8",
+   "destination": "/chapters/8",
+   "permanent": false
+  },
+  {
+   "source": "/chapter/9",
+   "destination": "/chapters/9",
+   "permanent": false
+  },
+  {
+   "source": "/chapter/10",
+   "destination": "/chapters/10",
+   "permanent": false
+  }
+ ],
+ "rewrites": [
+  {
+   "source": "/articles/:id",
+   "destination": "/articles/:id.html"
+  },
+  {
+   "source": "/chapters/:n",
+   "destination": "/chapters/:n.html"
+  }
+ ],
+ "headers": [
+  {
+   "source": "/(.*).json",
+   "headers": [
+    {
+     "key": "Access-Control-Allow-Origin",
+     "value": "*"
+    }
+   ]
+  }
+ ]
+}

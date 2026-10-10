@@ -1,0 +1,105 @@
+{
+ "chapter": 2,
+ "id": "2.6",
+ "title": "Allocation of Top-Up Tax for the UTPR",
+ "page": 14,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "2.6.1",
+   "page": 14,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Subject to Articles 2.6.2 and 2.6.3, the UTPR Top-up Tax Amount allocated to [insert name of implementing-Jurisdiction] shall be determined by multiplying the Total UTPR Top-up Tax Amount determined in Article 2.5.1 by the jurisdiction’s UTPR Percentage. The UTPR Percentage of [insert name of implementing-Jurisdiction] shall be determined each Fiscal Year for each MNE Group as follows:",
+     "label": "2.6.1"
+    },
+    {
+     "type": "formula",
+     "level": 0,
+     "text": "UTPR Percentage = 50% × <span class=\"frac\"><span class=\"num\">Number of Employees in the jurisdiction</span><span class=\"den\">Number of Employees in all UTPR jurisdictions</span></span> + 50% × <span class=\"frac\"><span class=\"num\">Total value of Tangible Assets in the jurisdiction</span><span class=\"den\">Total value of Tangible Assets in all UTPR jurisdictions</span></span>"
+    },
+    {
+     "type": "text",
+     "level": 0,
+     "text": "Where, for each Fiscal Year:"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the Number of Employees in the jurisdiction is the total Number of Employees of all the Constituent Entities of the MNE Group located in [insert name of implementing-Jurisdiction];",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the Number of Employees in all UTPR Jurisdictions is the total Number of Employees of all the Constituent Entities of the MNE Group located in a jurisdiction that has a Qualified UTPR in force for the Fiscal Year;",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the total value of Tangible Assets in the jurisdiction is the sum of the Net Book Values of Tangible Assets of all the Constituent Entities of the MNE Group located in [insert name of implementing-Jurisdiction];",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the total value of Tangible Assets in all UTPR Jurisdictions is the sum of the Net Book Values of Tangible Assets of all the Constituent Entities of the MNE Group located in a jurisdiction that has a Qualified UTPR in Force for the Fiscal Year.",
+     "label": "(d)"
+    }
+   ]
+  },
+  {
+   "id": "2.6.2",
+   "page": 15,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "For purposes of Article 2.6.1,",
+     "label": "2.6.2"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the Number of Employees employed and the Net Book Value of Tangible Assets held by an Investment Entity shall be excluded from the elements of the formula for allocating the Total UTPR Top-up Tax Amount;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the Number of Employees employed and the Net Book Value of Tangible Assets held by a Flow-through Entity that are not allocated to Permanent Establishments shall be allocated to the Constituent Entities (if any) that are located in the jurisdiction where the Flow-through Entity was created. The Number of Employees employed and the Net Book Value of Tangible Assets held by a Flow-through Entity that are not allocated either to Permanent Establishments or under this provision shall be excluded from the formula for allocating the Total UTPR Top-up Tax Amount.",
+     "label": "(b)"
+    }
+   ]
+  },
+  {
+   "id": "2.6.3",
+   "page": 15,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Notwithstanding Article 2.6.1, the UTPR Percentage of [insert name of implementing-Jurisdiction] for an MNE Group is deemed to be zero for a Fiscal Year as long as the Top-Up Tax Amount allocated to [insert name of implementing-Jurisdiction] in a prior Fiscal Year has not resulted in the Constituent Entities of this MNE Group located in [insert name of implementing-Jurisdiction] having an additional cash tax expense equal, in total, to the UTPR Top-up Tax Amount for that prior Fiscal Year allocated to [insert name of implementing-Jurisdiction]. The Number of Employees and the Tangible Assets of the Constituent Entities of this MNE Group located in a jurisdiction with a UTPR Percentage of zero for a Fiscal Year shall be excluded from the formula provided under Article 2.6.1 for allocating the Total UTPR Top-up Tax Amount for that Fiscal Year.",
+     "label": "2.6.3"
+    }
+   ]
+  },
+  {
+   "id": "2.6.4",
+   "page": 15,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Article 2.6.3 does not apply for a Fiscal Year if all jurisdictions with a Qualified UTPR in Force for the Fiscal Year have a UTPR Percentage of zero for the MNE Group for that Fiscal Year.",
+     "label": "2.6.4"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/2.6"
+}

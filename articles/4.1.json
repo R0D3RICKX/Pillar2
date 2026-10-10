@@ -1,0 +1,143 @@
+{
+ "chapter": 4,
+ "id": "4.1",
+ "title": "Adjusted Covered Taxes",
+ "page": 23,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "4.1.1",
+   "page": 23,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The Adjusted Covered Taxes of a Constituent Entity for the Fiscal Year shall be equal to the current tax expense accrued in its Financial Accounting Net Income or Loss with respect to Covered Taxes for the Fiscal Year adjusted by:",
+     "label": "4.1.1"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the net amount of its Additions to Covered Taxes for the Fiscal Year (as determined under Article 4.1.2) and Reductions to Covered Taxes for the Fiscal Year (as determined under Article 4.1.3);",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the Total Deferred Tax Adjustment Amount (as determined under Article 4.4); and",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "any increase or decrease in Covered Taxes recorded in equity or Other Comprehensive Income relating to amounts included in the computation of GloBE Income or Loss that will be subject to tax under local tax rules.",
+     "label": "(c)"
+    }
+   ]
+  },
+  {
+   "id": "4.1.2",
+   "page": 23,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The Additions to Covered Taxes of a Constituent Entity for the Fiscal Year is the sum of:",
+     "label": "4.1.2"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "any amount of Covered Taxes accrued as an expense in the profit before taxation in the financial accounts;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "any amount of GloBE Loss Deferred Tax Asset used under Article 4.5.3;",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "any amount of Covered Taxes that is paid in the Fiscal Year and that relates to an uncertain tax position where that amount has been treated for a previous Fiscal Year as a Reduction to Covered Taxes under Article 4.1.3(d); and",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "any amount of credit or refund in respect of a Qualified Refundable Tax Credit that is recorded as a reduction to the current tax expense.",
+     "label": "(d)"
+    }
+   ]
+  },
+  {
+   "id": "4.1.3",
+   "page": 24,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The Reductions to Covered Taxes of a Constituent Entity for the Fiscal Year is the sum of:",
+     "label": "4.1.3"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the amount of current tax expense with respect to income excluded from the computation of GloBE Income or Loss under Chapter 3;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "any amount of credit or refund in respect of a Non-Qualified Refundable Tax Credit that is not recorded as a reduction to the current tax expense;",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "any amount of Covered Taxes refunded or credited, except for any Qualified Refundable Tax Credit, to a Constituent Entity that was not treated as an adjustment to current tax expense in the financial accounts;",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the amount of current tax expense which relates to an uncertain tax position; and",
+     "label": "(d)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "any amount of current tax expense that is not expected to be paid within three years of the last day of the Fiscal Year.",
+     "label": "(e)"
+    }
+   ]
+  },
+  {
+   "id": "4.1.4",
+   "page": 24,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "No amount of Covered Taxes may be taken into account more than once.",
+     "label": "4.1.4"
+    }
+   ]
+  },
+  {
+   "id": "4.1.5",
+   "page": 24,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "In a Fiscal Year in which there is no Net GloBE Income for a jurisdiction, if the Adjusted Covered Taxes for a jurisdiction are less than zero and less than the Expected Adjusted Covered Taxes Amount the Constituent Entities in that jurisdiction shall be treated as having Additional Current Top-up Tax for the jurisdiction under Article 5.4 arising in the current Fiscal Year equal to the difference between these amounts. The Expected Adjusted Covered Taxes Amount is equal to the GloBE Income or Loss for a jurisdiction multiplied by the Minimum Rate.",
+     "label": "4.1.5"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/4.1"
+}

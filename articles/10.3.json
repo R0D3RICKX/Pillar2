@@ -1,0 +1,179 @@
+{
+ "chapter": 10,
+ "id": "10.3",
+ "title": "Location of an Entity and a Permanent Establishment",
+ "page": 68,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "10.3.1",
+   "page": 68,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The location of an Entity that is not a Flow-through Entity is determined as follows:",
+     "label": "10.3.1"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "if it is a tax resident in a jurisdiction based on its place of management, place of creation or similar criteria, it is located in that jurisdiction; and",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "in other cases, it is located in the jurisdiction in which it was created.",
+     "label": "(b)"
+    }
+   ]
+  },
+  {
+   "id": "10.3.2",
+   "page": 68,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The location of an Entity that is a Flow-through Entity is determined as follows:",
+     "label": "10.3.2"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "if it is the Ultimate Parent Entity of the MNE Group or it is required to apply an IIR in accordance with Article 2.1, it is located in the jurisdiction where it was created; and",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "in other cases, it shall be treated as a stateless Entity.",
+     "label": "(b)"
+    }
+   ]
+  },
+  {
+   "id": "10.3.3",
+   "page": 69,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The location of a Permanent Establishment is determined as follows:",
+     "label": "10.3.3"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "if it is described in paragraph (a) of the definition in Article 10.1, is located in the jurisdiction where it is treated as a permanent establishment and is taxed under the applicable Tax Treaty in force;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "if it is described in paragraph (b) of the definition in Article 10.1, is located in the jurisdiction where it is subject to net basis taxation based on its business presence;",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "if it is described in paragraph (c) of the definition in Article 10.1, is located in the jurisdiction where it is situated; and",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "if it is described in paragraph (d) of the definition in Article 10.1, is considered as a stateless Permanent Establishment.",
+     "label": "(d)"
+    }
+   ]
+  },
+  {
+   "id": "10.3.4",
+   "page": 69,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Where by reason of Article 10.3.1, a Constituent Entity is located in more than one jurisdiction (a dual-located Entity), then its status for purposes of the GloBE Rules shall be determined as follows:",
+     "label": "10.3.4"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "if it is located in two jurisdictions that have an applicable Tax Treaty in force:",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "it shall be located in the jurisdiction where it is considered as a deemed resident for purposes of the Tax Treaty;",
+     "label": "(i)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "if the Tax Treaty requires the competent authorities to reach a mutual agreement on the deemed residence of the Constituent Entity for purposes of the Tax Treaty and no agreement exists, then paragraph (b) shall apply;",
+     "label": "(ii)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "if the Tax Treaty does not provide relief or exemption from tax because the Constituent Entity is a tax resident of both Contracting Parties, then paragraph (b) shall apply;",
+     "label": "(iii)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "if no Tax Treaty applies, then its location shall be determined as follows:",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "it shall be located in the jurisdiction where it paid the greater amount of Covered Taxes for the Fiscal Year, without considering the ones paid in accordance with a Controlled Foreign Company Tax Regime;",
+     "label": "(i)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "if the amount of Covered Taxes paid in both jurisdiction is the same or zero, it shall be located in the jurisdiction where it has the greater amount of Substance-based Income Exclusion computed on an entity basis in accordance with Article 5.3;",
+     "label": "(ii)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "if the amount of the Substance-based Income Exclusion in both jurisdictions is the same or zero, then it is considered a Stateless Constituent Entity unless it is the Ultimate Parent Entity of the MNE Group in which case it shall be located in the jurisdiction where it was created.",
+     "label": "(iii)"
+    }
+   ]
+  },
+  {
+   "id": "10.3.5",
+   "page": 69,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Where, under Article 10.3.4, a dual-located Entity that is a Parent Entity is located in a jurisdiction where it is not subject to a Qualified IIR, then the other jurisdiction can require such Entity to apply its Qualified IIR unless it is restricted by an applicable Tax Treaty in force.",
+     "label": "10.3.5"
+    }
+   ]
+  },
+  {
+   "id": "10.3.6",
+   "page": 69,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Where an Entity has changed its location during the Fiscal Year, it shall be located in the jurisdiction where it was located at the beginning of that year.",
+     "label": "10.3.6"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/10.3"
+}

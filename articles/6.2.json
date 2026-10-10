@@ -1,0 +1,83 @@
+{
+ "chapter": 6,
+ "id": "6.2",
+ "title": "Constituent Entities joining and leaving an MNE Group",
+ "page": 36,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "6.2.1",
+   "page": 36,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Except to the extent provided in Article 6.2.2, the following provisions apply where an Entity (the target) becomes or ceases to be a Constituent Entity of an MNE Group as a result of a transfer of direct or indirect Ownership Interests in such Entity during the Fiscal Year (the acquisition year):",
+     "label": "6.2.1"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "where the target joins or leaves a Group or the target becomes the Ultimate Parent Entity of a new Group, the target will be treated as a member of the Group for the purposes of the GloBE Rules if any portion of its assets, liabilities, income, expenses or cash flows are included on a line-by-line basis in the Consolidated Financial Statements of the Ultimate Parent Entity in the acquisition year;",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "in the acquisition year, an MNE Group shall take into account only the Financial Accounting Net Income or Loss and Adjusted Covered Taxes of the target that are taken into account in the Consolidated Financial Statements of the Ultimate Parent Entity for purposes of applying the GloBE Rules;",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "in the acquisition year and each succeeding year, the target shall determine its GloBE Income or Loss and Adjusted Covered Taxes using its historical carrying value of the assets and liabilities;",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the computation of the target’s Eligible Payroll Costs under Article 5.3.3 shall take into account only those costs reflected in the Consolidated Financial Statements of the Ultimate Parent Entity;",
+     "label": "(d)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the computation of carrying value of the target’s Eligible Tangible Assets for purposes of Article 5.3.4 shall be adjusted proportionally to correspond with the length of the relevant Fiscal Year that the target was a member of the MNE Group;",
+     "label": "(e)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "with the exception of the GloBE Loss Deferred Tax Asset, the deferred tax assets and deferred tax liabilities of a Constituent Entity that are transferred between MNE Groups shall be taken into account under the GloBE Rules by the acquiring MNE Group in the same manner and to the same extent as if the acquiring MNE Group controlled the Constituent Entity when such assets and liabilities arose;",
+     "label": "(f)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "deferred tax liabilities of a target that have previously been included in its Total Deferred Tax Adjustment Amount shall be treated as reversed for purposes of applying Article 4.4.4 by the disposing MNE Group and treated as arising in the acquisition year for purposes of applying Article 4.4.4 by the acquiring MNE Group, except that in such cases any subsequent reduction to Covered Taxes under Article 4.4.4 shall have effect in the year in which the amount is recaptured ; and",
+     "label": "(g)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "if the target is a Parent Entity and it is a Group Entity of two or more MNE Groups during the acquisition year, it shall apply separately the provisions of the IIR to its Allocable Shares of the Top-up Tax of Low-Taxed Constituent Entities determined for each MNE Group.",
+     "label": "(h)"
+    }
+   ]
+  },
+  {
+   "id": "6.2.2",
+   "page": 37,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "For purposes of the GloBE Rules, the acquisition or disposal of a Controlling Interest in a Constituent Entity will be treated as an acquisition or disposal of the assets and liabilities if the jurisdiction in which the target Constituent Entity is located, or in the case of a Tax Transparent Entity, the jurisdiction in which the assets are located, treats the acquisition or disposal of that Controlling Interest in the same or similar manner as an acquisition or disposition of the assets and liabilities and imposes a Covered Tax on the seller based on the difference between the tax basis and the consideration paid in exchange for the Controlling Interest or the fair value of the assets and liabilities.",
+     "label": "6.2.2"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/6.2"
+}

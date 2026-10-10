@@ -1,0 +1,47 @@
+{
+ "chapter": 1,
+ "id": "1.1",
+ "title": "Scope of GloBE Rules",
+ "page": 9,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "1.1.1",
+   "page": 9,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The GloBE Rules apply to Constituent Entities that are members of an MNE Group that has annual revenue of EUR 750 million or more in the Consolidated Financial Statements of the Ultimate Parent Entity (UPE) in at least two of the four Fiscal Years immediately preceding the tested Fiscal Year. Further rules are set out in Article 6.1 which modify the application of the consolidated revenue threshold in certain cases.",
+     "label": "1.1.1"
+    }
+   ]
+  },
+  {
+   "id": "1.1.2",
+   "page": 9,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "If one or more of the Fiscal Years of the MNE Group taken into account for purposes of Article 1.1.1 is of a period other than 12 months, for each of those Fiscal Years the EUR 750 million threshold is adjusted proportionally to correspond with the length of the relevant Fiscal Year.",
+     "label": "1.1.2"
+    }
+   ]
+  },
+  {
+   "id": "1.1.3",
+   "page": 9,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Entities that are Excluded Entities are not subject to the GloBE Rules.",
+     "label": "1.1.3"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/1.1"
+}

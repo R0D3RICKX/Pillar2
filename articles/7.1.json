@@ -1,0 +1,125 @@
+{
+ "chapter": 7,
+ "id": "7.1",
+ "title": "Ultimate Parent Entity that is a Flow-through Entity",
+ "page": 40,
+ "preamble": [],
+ "paragraphs": [
+  {
+   "id": "7.1.1",
+   "page": 40,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "The GloBE Income for a Fiscal Year of a Flow-through Entity that is the Ultimate Parent Entity of an MNE Group shall be reduced by the amount of GloBE Income attributable to each Ownership Interest if:",
+     "label": "7.1.1"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the holder of the Ownership Interest is subject to tax on such income for a taxable period that ends within 12 months of the end of the MNE Group’s Fiscal Year and:",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "the holder of the Ownership Interest is subject to tax on the full amount of such income at a nominal rate that equals or exceeds the Minimum Rate; or",
+     "label": "(i)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "it can be reasonably expected that the aggregate amount of Adjusted Covered Taxes of the Ultimate Parent Entity and Taxes of the holder of the Ownership Interest on such income equals or exceeds the amount that results from multiplying the full amount of such income by the Minimum Rate; or",
+     "label": "(ii)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the holder is a natural person that:",
+     "label": "(b)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "is a tax resident in the UPE Jurisdiction; and",
+     "label": "(i)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "holds Ownership Interests that, in the aggregate, are a right to 5% or less of the profits and assets of the Ultimate Parent Entity; or",
+     "label": "(ii)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "the holder is a Governmental Entity, an International Organisation, a Non-profit Organisation, or a Pension Fund that",
+     "label": "(c)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "is resident in the UPE Jurisdiction; and",
+     "label": "(i)"
+    },
+    {
+     "type": "item",
+     "level": 2,
+     "text": "holds Ownership Interests that, in the aggregate, are a right to 5% or less of the profits and assets of the Ultimate Parent Entity.",
+     "label": "(ii)"
+    }
+   ]
+  },
+  {
+   "id": "7.1.2",
+   "page": 41,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "In computing its GloBE Loss for a Fiscal Year, a Flow-through Entity that is the Ultimate Parent Entity of an MNE Group shall reduce its GloBE Loss for such Fiscal Year by the amount of GloBE Loss attributable to each Ownership Interest, except to the extent that the holders of Ownership Interests are not allowed to use the loss in computing their separate taxable income.",
+     "label": "7.1.2"
+    }
+   ]
+  },
+  {
+   "id": "7.1.3",
+   "page": 41,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "A Flow-through Entity that reduces its GloBE Income pursuant to Article 7.1.1 shall reduce its Covered Taxes proportionally.",
+     "label": "7.1.3"
+    }
+   ]
+  },
+  {
+   "id": "7.1.4",
+   "page": 41,
+   "blocks": [
+    {
+     "type": "para",
+     "level": 0,
+     "text": "Articles 7.1.1 through 7.1.3 shall apply to a Permanent Establishment:",
+     "label": "7.1.4"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "through which a Flow-Through Entity that is the Ultimate Parent Entity of an MNE Group wholly or partly carries out its business; or",
+     "label": "(a)"
+    },
+    {
+     "type": "item",
+     "level": 1,
+     "text": "through which the business of a Tax Transparent Entity is wholly or partly carried out if the Ultimate Parent Entity’s Ownership Interest in that Tax Transparent Entity is held directly or through a Tax Transparent Structure.",
+     "label": "(b)"
+    }
+   ]
+  }
+ ],
+ "definitions": [],
+ "url": "/articles/7.1"
+}
